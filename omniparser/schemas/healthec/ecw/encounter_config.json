@@ -1,0 +1,174 @@
+{
+  "parser_settings": {
+    "version": "omni.2.1",
+    "file_format_type": "csv2"
+  },
+  "file_declaration": {
+    "delimiter": "|",
+    "replace_double_quotes": true,
+    "records": [
+      {
+        "rows": 1,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "is_target": true,
+        "columns": [
+          {
+            "name": "apuid",
+            "index": 1
+          },
+          {
+            "name": "record_id",
+            "index": 2
+          },
+          {
+            "name": "patient_id",
+            "index": 3
+          },
+          {
+            "name": "patient_account_no",
+            "index": 4
+          },
+          {
+            "name": "provider_id",
+            "index": 5
+          },
+		   {
+            "name": "provider_npi",
+            "index": 6
+          },
+          {
+            "name": "encounter_id",
+            "index": 7
+          },
+          {
+            "name": "encounter_visit_type",
+            "index": 8
+          },
+          {
+            "name": "encounter_status",
+            "index": 9
+          },
+          {
+            "name": "encounter_date",
+            "index": 10
+          },
+          {
+            "name": "encounter_start_time",
+            "index": 11
+          },
+          {
+            "name": "encounter_end_time",
+            "index": 12
+          },
+          {
+            "name": "encounter_reason",
+            "index": 13
+          },
+          {
+            "name": "encounter_lock_status",
+            "index": 14
+          },
+          {
+            "name": "medication_reconciliation_flag",
+            "index": 15
+          },
+          {
+            "name": "encounter_facility_name",
+            "index": 16
+          },
+          {
+            "name": "facility_id",
+            "index": 17
+          },
+          {
+            "name": "pos",
+            "index": 18
+          }
+        ]
+      }
+    ]
+  },
+  "transform_declarations": {
+    "FINAL_OUTPUT": {
+      "object": {
+        "encounter": {
+          "object": {
+            "record_id": {
+              "xpath": "record_id"
+            },
+            "id": {
+              "xpath": "encounter_id"
+            },
+            "date": {
+              "xpath": "encounter_date"
+            },
+            "visit_type": {
+              "xpath": "encounter_visit_type"
+            },
+            "status": {
+              "xpath": "encounter_status"
+            },
+            "start_time": {
+              "xpath": "encounter_start_time"
+            },
+            "end_time": {
+              "xpath": "encounter_end_time"
+            },
+            "reason": {
+              "xpath": "encounter_reason"
+            },
+            "lock_status": {
+              "xpath": "encounter_lock_status"
+            },
+            "medication_reconciliation_flag": {
+              "xpath": "medication_reconciliation_flag"
+            },
+            "pos": {
+              "xpath": "pos"
+            },
+            "patient": {
+              "object": {
+                "id": {
+                  "xpath": "patient_id"
+                },
+                "account_no": {
+                  "xpath": "patient_account_no"
+                }
+              }
+            },
+            "provider": {
+              "object": {
+                "id": {
+                  "xpath": "provider_id"
+                },
+                "npi": {
+                  "xpath": "provider_npi"
+                }
+              }
+            },
+            "facility": {
+              "object": {
+                "id": {
+                  "xpath": "facility_id"
+                },
+                "name": {
+                  "xpath": "facility_name"
+                }
+              }
+            },
+            "practice": {
+              "object": {
+                "apuid": {
+                  "xpath": "apuid"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "parser_settings": {
+    "version": "omni.2.1",
+    "file_format_type": "csv2"
+  },
+  "file_declaration": {
+    "delimiter": ",",
+    "replace_double_quotes": false,
+    "records": [
+      {
+        "rows": 1,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "is_target": true,
+        "columns": [
+          {
+            "name": "row",
+            "index": 1
+          },
+          {
+            "name": "domain",
+            "index": 2
+          },
+          {
+            "name": "patient_first_name",
+            "index": 3
+          },
+          {
+            "name": "patient_last_name",
+            "index": 4
+          },
+          {
+            "name": "patient_dob",
+            "index": 5
+          },
+          {
+            "name": "external_patient_id",
+            "index": 6
+          },
+          {
+            "name": "external_practice_id",
+            "index": 7
+          },
+          {
+            "name": "code",
+            "index": 8
+          },
+          {
+            "name": "name",
+            "index": 9
+          },
+          {
+            "name": "dictionary_name",
+            "index": 10
+          },
+          {
+            "name": "date_performed",
+            "index": 11
+          },
+          {
+            "name": "date_ordered",
+            "index": 12
+          },
+          {
+            "name": "date_due",
+            "index": 13
+          },
+          {
+            "name": "refused",
+            "index": 14
+          },
+          {
+            "name": "med_unnecessary_rsn_code",
+            "index": 15
+          },
+          {
+            "name": "med_unnecessary_rsn_name",
+            "index": 16
+          },
+          {
+            "name": "med_unnecessary_rsn_dict",
+            "index": 17
+          },
+          {
+            "name": "visit_reason_code",
+            "index": 18
+          },
+          {
+            "name": "visit_reason_name",
+            "index": 19
+          },
+          {
+            "name": "visit_reason_dict_name",
+            "index": 20
+          },
+          {
+            "name": "npi",
+            "index": 21
+          },
+          {
+            "name": "tin",
+            "index": 22
+          },
+          {
+            "name": "provider_name",
+            "index": 23
+          },
+          {
+            "name": "remove_care_item",
+            "index": 24
+          },
+          {
+            "name": "value",
+            "index": 25
+          },
+          {
+            "name": "modifier_dictionary_name",
+            "index": 26
+          },
+          {
+            "name": "modifier_code",
+            "index": 27
+          },
+          {
+            "name": "vendor",
+            "index": 28
+          },
+          {
+            "name": "source_type",
+            "index": 29
+          },
+          {
+            "name": "patient_id",
+            "index": 30
+          }
+        ]
+      }
+    ]
+  },
+  "transform_declarations": {
+    "FINAL_OUTPUT": {
+      "object": {
+        "care": {
+          "object": {
+            "row": {
+              "xpath": "row"
+            },
+            "domain": {
+              "xpath": "domain"
+            },
+            "patient": {
+              "object": {
+                "id": {
+                  "xpath": "patient_id"
+                },
+                "external_id": {
+                  "xpath": "external_patient_id"
+                },
+                "first_name": {
+                  "xpath": "patient_first_name"
+                },
+                "last_name": {
+                  "xpath": "patient_last_name"
+                },
+                "dob": {
+                  "xpath": "patient_dob"
+                }
+              }
+            },
+            "practice": {
+              "object": {
+                "external_id": {
+                  "xpath": "external_practice_id"
+                },
+                "tin": {
+                  "xpath": "tin"
+                }
+              }
+            },
+            "code": {
+              "xpath": "code"
+            },
+            "name": {
+              "xpath": "name"
+            },
+            "dictionary": {
+              "xpath": "dictionary_name"
+            },
+            "date_performed": {
+              "xpath": "date_performed"
+            },
+            "date_ordered": {
+              "xpath": "date_ordered"
+            },
+            "date_due": {
+              "xpath": "date_due"
+            },
+            "refused": {
+              "xpath": "refused"
+            },
+            "med_unnecessary_reason": {
+              "object": {
+                "code": {
+                  "xpath": "med_unnecessary_rsn_code"
+                },
+                "name": {
+                  "xpath": "med_unnecessary_rsn_name"
+                },
+                "dictionary": {
+                  "xpath": "med_unnecessary_rsn_dict"
+                }
+              }
+            },
+            "visit_reason": {
+              "object": {
+                "code": {
+                  "xpath": "visit_reason_code"
+                },
+                "name": {
+                  "xpath": "visit_reason_name"
+                },
+                "dictionary": {
+                  "xpath": "visit_reason_dict_name"
+                }
+              }
+            },
+            "provider": {
+              "object": {
+                "npi": {
+                  "xpath": "npi"
+                },
+                "name": {
+                  "xpath": "provider_name"
+                }
+              }
+            },
+            "remove_care_item": {
+              "xpath": "remove_care_item"
+            },
+            "value": {
+              "xpath": "value"
+            },
+            "modifier": {
+              "object": {
+                "dictionary": {
+                  "xpath": "modifier_dictionary_name"
+                },
+                "code": {
+                  "xpath": "modifier_code"
+                }
+              }
+            },
+            "vendor": {
+              "xpath": "vendor"
+            },
+            "source_type": {
+              "xpath": "source_type"
+            }
+          }
+        }
+      }
+    }
+  }
+}

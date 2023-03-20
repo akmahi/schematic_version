@@ -1,0 +1,198 @@
+[
+	{
+		"vital": {
+			"code": "5",
+			"date_performed": "20230101",
+			"domain": "Vital Signs",
+			"name": "Blood Pressure Diastolic",
+			"patient": {
+				"dob": "20121211",
+				"external_id": "9509237",
+				"first_name": "Georgiana",
+				"id": "AHD6EGLLRG3BD3MEQSG3LJANY45GHANKYBTT5KXC",
+				"last_name": "Abesamis"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "1",
+			"value": "67"
+		}
+	},
+	{
+		"vital": {
+			"code": "5",
+			"date_performed": "20230101",
+			"domain": "Vital Signs",
+			"name": "Blood Pressure Diastolic",
+			"patient": {
+				"dob": "20120514",
+				"external_id": "9763007",
+				"first_name": "Julian",
+				"last_name": "Adamkiewicz"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "2",
+			"value": "70"
+		}
+	},
+	{
+		"vital": {
+			"code": "5",
+			"date_performed": "20230101",
+			"domain": "Vital Signs",
+			"name": "Blood Pressure Diastolic",
+			"patient": {
+				"dob": "19901228",
+				"external_id": "7723132",
+				"first_name": "Ashley",
+				"id": "AF35ENRRYDWBD2ELCN53FT6CDN4XCUDAP5MHNN23",
+				"last_name": "Adams"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "3",
+			"value": "72"
+		}
+	},
+	{
+		"vital": {
+			"code": "5",
+			"date_performed": "20230101",
+			"domain": "Vital Signs",
+			"name": "Blood Pressure Diastolic",
+			"patient": {
+				"dob": "19530815",
+				"external_id": "4103210",
+				"first_name": "Dianne",
+				"id": "AGIDOOACHHJRDZ47BLRZYHA2PBGFMHU47LXFTSUQ",
+				"last_name": "Adams"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "4",
+			"value": "70"
+		}
+	},
+	{
+		"vital": {
+			"code": "5",
+			"date_performed": "20230101",
+			"domain": "Vital Signs",
+			"name": "Blood Pressure Diastolic",
+			"patient": {
+				"dob": "19800728",
+				"external_id": "6149479",
+				"first_name": "Marion",
+				"id": "AFXJTYNQK3UBD2EYB53QTTFHONEBPF6JRBMBGXT2",
+				"last_name": "Adams"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "5",
+			"value": "77"
+		}
+	},
+	{
+		"vital": {
+			"code": "5",
+			"date_performed": "20230101",
+			"domain": "Vital Signs",
+			"name": "Blood Pressure Diastolic",
+			"patient": {
+				"dob": "20061010",
+				"external_id": "7784422",
+				"first_name": "Toni",
+				"last_name": "Adams"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "6",
+			"value": "68"
+		}
+	},
+	{
+		"vital": {
+			"code": "5",
+			"date_performed": "20230101",
+			"domain": "Vital Signs",
+			"name": "Blood Pressure Diastolic",
+			"patient": {
+				"dob": "20160504",
+				"external_id": "6128058",
+				"first_name": "Emory",
+				"last_name": "Ahart"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "7",
+			"value": "60"
+		}
+	},
+	{
+		"vital": {
+			"code": "5",
+			"date_performed": "20230101",
+			"domain": "Vital Signs",
+			"name": "Blood Pressure Diastolic",
+			"patient": {
+				"dob": "19870317",
+				"external_id": "6291339",
+				"first_name": "Leo",
+				"id": "AEVV65U3P6BRD2F4CBO6QMLUPFCVF2DJPQOMBON2",
+				"last_name": "Akroush"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "8",
+			"value": "75"
+		}
+	},
+	{
+		"vital": {
+			"code": "5",
+			"date_performed": "20230101",
+			"domain": "Vital Signs",
+			"name": "Blood Pressure Diastolic",
+			"patient": {
+				"dob": "19590222",
+				"external_id": "2652897",
+				"first_name": "Patricia",
+				"id": "AEH6P4FQW7GBD2EGFAIYUNX4L3BTAWA652LPZQSO",
+				"last_name": "Albano"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "9",
+			"value": "76"
+		}
+	},
+	{
+		"vital": {
+			"code": "5",
+			"date_performed": "20230101",
+			"domain": "Vital Signs",
+			"name": "Blood Pressure Diastolic",
+			"patient": {
+				"dob": "20090218",
+				"external_id": "7803152",
+				"first_name": "Ava",
+				"last_name": "Alexander"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "10",
+			"value": "70"
+		}
+	}
+]

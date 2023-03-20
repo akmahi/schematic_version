@@ -1,0 +1,552 @@
+[
+	{
+		"problem_list": {
+			"asmt_id": "141518",
+			"code": "V70.2",
+			"encounter": {
+				"id": "408478"
+			},
+			"name": "GEN PSYCHIATRIC EXAM NEC",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.141518",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "12/07/2018",
+			"asmt_id": "347783",
+			"code": "F80.1",
+			"encounter": {
+				"id": "1584628"
+			},
+			"name": "Expressive language disorder",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.347783",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "05/06/2018",
+			"asmt_id": "348292",
+			"code": "G80.0",
+			"encounter": {
+				"id": "1470339"
+			},
+			"name": "Spastic quadriplegic cerebral palsy",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.348292",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "02/13/2019",
+			"asmt_id": "356482",
+			"code": "M24.511",
+			"encounter": {
+				"id": "1589618"
+			},
+			"name": "Contracture, right shoulder",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.356482",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "02/13/2019",
+			"asmt_id": "356483",
+			"code": "M24.512",
+			"encounter": {
+				"id": "1589618"
+			},
+			"name": "Contracture, left shoulder",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.356483",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "02/13/2019",
+			"asmt_id": "356488",
+			"code": "M24.531",
+			"encounter": {
+				"id": "1589618"
+			},
+			"name": "Contracture, right wrist",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.356488",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "02/13/2019",
+			"asmt_id": "356489",
+			"code": "M24.532",
+			"encounter": {
+				"id": "1589618"
+			},
+			"name": "Contracture, left wrist",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.356489",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "02/13/2019",
+			"asmt_id": "356491",
+			"code": "M24.541",
+			"encounter": {
+				"id": "1589618"
+			},
+			"name": "Contracture, right hand",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.356491",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "02/13/2019",
+			"asmt_id": "356492",
+			"code": "M24.542",
+			"encounter": {
+				"id": "1589618"
+			},
+			"name": "Contracture, left hand",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.356492",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "02/13/2019",
+			"asmt_id": "414387",
+			"code": "R27.8",
+			"encounter": {
+				"id": "1589618"
+			},
+			"name": "Coordination abnormal",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.414387",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "05/06/2018",
+			"asmt_id": "414875",
+			"code": "M24.50",
+			"encounter": {
+				"id": "1470339"
+			},
+			"name": "Contracture of joint",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.414875",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "02/13/2019",
+			"asmt_id": "414879",
+			"code": "M24.522",
+			"encounter": {
+				"id": "1589618"
+			},
+			"name": "Contracture of left elbow",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.414879",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "02/13/2019",
+			"asmt_id": "414880",
+			"code": "M24.521",
+			"encounter": {
+				"id": "1589618"
+			},
+			"name": "Contracture of right elbow",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.414880",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "05/06/2018",
+			"asmt_id": "415979",
+			"code": "F79",
+			"encounter": {
+				"id": "1470339"
+			},
+			"name": "Intellectual disability",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.415979",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "10/12/2021",
+			"asmt_id": "416220",
+			"code": "G80.0",
+			"encounter": {
+				"id": "2268956"
+			},
+			"name": "CP (cerebral palsy), spastic, quadriplegic",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.416220",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "12/07/2021",
+			"asmt_id": "445589",
+			"code": "G80.9",
+			"encounter": {
+				"id": "2289818"
+			},
+			"name": "Cerebral Palsy",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.445589",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "12/07/2021",
+			"asmt_id": "445594",
+			"code": "F79",
+			"encounter": {
+				"id": "2289818"
+			},
+			"name": "Unspecified Intellectual Disability",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.445594",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "12/14/2021",
+			"asmt_id": "670050",
+			"code": "J30.9",
+			"encounter": {
+				"id": "2301648"
+			},
+			"name": "Allergic rhinitis, unspecified seasonality, unspecified trigger",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.670050",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "12/14/2021",
+			"asmt_id": "677581",
+			"code": "Z88.0",
+			"encounter": {
+				"id": "2301648"
+			},
+			"name": "Allergy history, penicillin",
+			"patient": {
+				"id": "531005"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531005.677581",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "11/14/2017",
+			"asmt_id": "347012",
+			"code": "E78.2",
+			"encounter": {
+				"id": "1357505"
+			},
+			"name": "Mixed hyperlipidemia",
+			"patient": {
+				"id": "533230"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.533230.347012",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "01/31/2018",
+			"asmt_id": "347653",
+			"code": "F41.1",
+			"encounter": {
+				"id": "1411793"
+			},
+			"name": "Generalized anxiety disorder",
+			"patient": {
+				"id": "533230"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.533230.347653",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "12/20/2016",
+			"asmt_id": "347776",
+			"code": "F70",
+			"encounter": {
+				"id": "1164954"
+			},
+			"name": "Mild intellectual disabilities",
+			"patient": {
+				"id": "533230"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.533230.347776",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "03/24/2022",
+			"asmt_id": "350770",
+			"code": "H54.10",
+			"encounter": {
+				"id": "2347774"
+			},
+			"name": "Blindness, one eye, low vision other eye, unspecified eyes",
+			"patient": {
+				"id": "533230"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.533230.350770",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "02/20/2019",
+			"asmt_id": "360807",
+			"code": "Z23",
+			"encounter": {
+				"id": "1577646"
+			},
+			"name": "Need for MMR vaccine",
+			"patient": {
+				"id": "533230"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.533230.360807",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "02/07/2022",
+			"asmt_id": "361089",
+			"code": "N13.39",
+			"encounter": {
+				"id": "2359600"
+			},
+			"name": "Other hydronephrosis",
+			"patient": {
+				"id": "533230"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.533230.361089",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "01/26/2022",
+			"asmt_id": "414594",
+			"code": "R94.31",
+			"encounter": {
+				"id": "2280595"
+			},
+			"name": "Abnormal EKG",
+			"patient": {
+				"id": "533230"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.533230.414594",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "02/07/2017",
+			"asmt_id": "414722",
+			"code": "N91.2",
+			"encounter": {
+				"id": "1199446"
+			},
+			"name": "Amenorrhea",
+			"patient": {
+				"id": "533230"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.533230.414722",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "08/22/2016",
+			"asmt_id": "415027",
+			"code": "F41.0",
+			"encounter": {
+				"id": "1119307"
+			},
+			"name": "Panic disorder without agoraphobia",
+			"patient": {
+				"id": "533230"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.533230.415027",
+			"status": "confirmed"
+		}
+	},
+	{
+		"problem_list": {
+			"added_date": "06/13/2018",
+			"asmt_id": "415128",
+			"code": "E04.1",
+			"encounter": {
+				"id": "1485786"
+			},
+			"name": "Thyroid nodule",
+			"patient": {
+				"id": "533230"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.533230.415128",
+			"status": "confirmed"
+		}
+	}
+]

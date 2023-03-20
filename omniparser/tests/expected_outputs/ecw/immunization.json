@@ -1,0 +1,842 @@
+[
+	{
+		"immunization": {
+			"cpt_code": "90746",
+			"cvx_code": "43",
+			"description": "A-Hep B",
+			"dose": "1 mL",
+			"encounter": {
+				"id": "2440559"
+			},
+			"given_by": "9231",
+			"given_date": "2022-10-17",
+			"lot_number": "K9HS5",
+			"patient": {
+				"account_no": "550922",
+				"id": "550922"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1396385019"
+			},
+			"record_id": "305922.550922.2440559.39571",
+			"route": "IM Intramuscular",
+			"site": "LD",
+			"status": "Administered",
+			"vaccine_manufacturer": "GlaxoSmithKline"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2517824"
+			},
+			"given_by": "546664",
+			"given_date": "2022-10-17",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "400317",
+				"id": "9977"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"record_id": "305922.9977.2517824.39572",
+			"route": "IM Intramuscular",
+			"site": "RD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "1 mL",
+			"encounter": {
+				"id": "2540717"
+			},
+			"given_by": "9231",
+			"given_date": "2022-10-17",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "531301",
+				"id": "531301"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"record_id": "305922.531301.2540717.39573",
+			"route": "IM Intramuscular",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2527186"
+			},
+			"given_by": "546664",
+			"given_date": "2022-10-17",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "540261",
+				"id": "540261"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"record_id": "305922.540261.2527186.39574",
+			"route": "IM Intramuscular",
+			"site": "RD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2531144"
+			},
+			"given_by": "546664",
+			"given_date": "2022-10-17",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "536403",
+				"id": "536403"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1396385019"
+			},
+			"record_id": "305922.536403.2531144.39578",
+			"route": "IM Intramuscular",
+			"site": "LD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90732",
+			"cvx_code": "33",
+			"description": "A-Pneumococcal",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2531144"
+			},
+			"given_by": "546664",
+			"given_date": "2022-10-17",
+			"lot_number": "W019533",
+			"patient": {
+				"account_no": "536403",
+				"id": "536403"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1396385019"
+			},
+			"record_id": "305922.536403.2531144.39579",
+			"route": "IM Intramuscular",
+			"site": "RD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Merck &Co."
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2532849"
+			},
+			"given_by": "546664",
+			"given_date": "2022-10-17",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "550284",
+				"id": "550284"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1396385019"
+			},
+			"record_id": "305922.550284.2532849.39576",
+			"route": "IM Intramuscular",
+			"site": "LD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90746",
+			"cvx_code": "43",
+			"description": "A-Hep B",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2532849"
+			},
+			"given_by": "546664",
+			"given_date": "2022-10-17",
+			"lot_number": "NT9X3",
+			"patient": {
+				"account_no": "550284",
+				"id": "550284"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1396385019"
+			},
+			"record_id": "305922.550284.2532849.39577",
+			"route": "IM Intramuscular",
+			"site": "RD",
+			"status": "Administered",
+			"vaccine_manufacturer": "GlaxoSmithKline"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2515651"
+			},
+			"given_by": "551983",
+			"given_date": "2022-10-17",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "516185",
+				"id": "12692"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"record_id": "305922.12692.2515651.39575",
+			"route": "IM Intramuscular",
+			"site": "LD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2533778"
+			},
+			"given_by": "551983",
+			"given_date": "2022-10-18",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "530899",
+				"id": "530899"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1467466581"
+			},
+			"record_id": "305922.530899.2533778.39581",
+			"route": "IM Intramuscular",
+			"site": "LD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2533783"
+			},
+			"given_by": "551983",
+			"given_date": "2022-10-18",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "527823",
+				"id": "527823"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1467466581"
+			},
+			"record_id": "305922.527823.2533783.39580",
+			"route": "IM Intramuscular",
+			"site": "LD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90746",
+			"cvx_code": "43",
+			"description": "A-Hep B",
+			"dose": "1 mL",
+			"encounter": {
+				"id": "2553095"
+			},
+			"given_by": "545291",
+			"given_date": "2022-10-18",
+			"lot_number": "NT9X3",
+			"patient": {
+				"account_no": "100247",
+				"id": "9349"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1396385019"
+			},
+			"record_id": "305922.9349.2553095.39585",
+			"route": "IM Intramuscular",
+			"site": "RD",
+			"status": "Administered",
+			"vaccine_manufacturer": "GlaxoSmithKline"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2486511"
+			},
+			"given_by": "551459",
+			"given_date": "2022-10-18",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "510114",
+				"id": "11821"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"record_id": "305922.11821.2486511.39586",
+			"route": "IM Intramuscular",
+			"site": "RD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5",
+			"encounter": {
+				"id": "2543020"
+			},
+			"given_by": "551459",
+			"given_date": "2022-10-18",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "512064",
+				"id": "12065"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"record_id": "305922.12065.2543020.39588",
+			"route": "IM Intramuscular",
+			"site": "RD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2497468"
+			},
+			"given_by": "551459",
+			"given_date": "2022-10-18",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "100022",
+				"id": "9315"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"record_id": "305922.9315.2497468.39589",
+			"route": "IM Intramuscular",
+			"site": "LD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2482626"
+			},
+			"given_by": "552098",
+			"given_date": "2022-10-19",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "103454",
+				"id": "9619"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"record_id": "305922.9619.2482626.39599",
+			"route": "IM Intramuscular",
+			"site": "RD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2493458"
+			},
+			"given_by": "552098",
+			"given_date": "2022-10-19",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "509618",
+				"id": "11752"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"record_id": "305922.11752.2493458.39605",
+			"route": "IM Intramuscular",
+			"site": "LD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2534702"
+			},
+			"given_by": "552287",
+			"given_date": "2022-10-19",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "546539",
+				"id": "546539"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1093238222"
+			},
+			"record_id": "305922.546539.2534702.39597",
+			"route": "IM Intramuscular",
+			"site": "RD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2416003"
+			},
+			"given_by": "552287",
+			"given_date": "2022-10-19",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "536888",
+				"id": "536888"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1093238222"
+			},
+			"record_id": "305922.536888.2416003.39603",
+			"route": "IM Intramuscular",
+			"site": "LD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2550634"
+			},
+			"given_by": "552287",
+			"given_date": "2022-10-19",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "404587",
+				"id": "10521"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1093238222"
+			},
+			"record_id": "305922.10521.2550634.39614",
+			"route": "IM Intramuscular",
+			"site": "RD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90688",
+			"cvx_code": "158",
+			"description": "A-Influenza Quadrivalent",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2495274"
+			},
+			"given_by": "545291",
+			"given_date": "2022-10-19",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "533322",
+				"id": "533322"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1366565202"
+			},
+			"record_id": "305922.533322.2495274.39598",
+			"route": "IM Intramuscular",
+			"site": "RD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90688",
+			"cvx_code": "158",
+			"description": "A-Influenza Quadrivalent",
+			"dose": "0.5",
+			"encounter": {
+				"id": "2541471"
+			},
+			"given_by": "545291",
+			"given_date": "2022-10-19",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "529331",
+				"id": "529331"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1366565202"
+			},
+			"record_id": "305922.529331.2541471.39602",
+			"route": "IM Intramuscular",
+			"site": "RD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5",
+			"encounter": {
+				"id": "2506940"
+			},
+			"given_by": "545291",
+			"given_date": "2022-10-19",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "522659",
+				"id": "526891"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1366565202"
+			},
+			"record_id": "305922.526891.2506940.39612",
+			"route": "IM Intramuscular",
+			"site": "LD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5",
+			"encounter": {
+				"id": "2513203"
+			},
+			"given_by": "545291",
+			"given_date": "2022-10-19",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "551900",
+				"id": "551900"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1366565202"
+			},
+			"record_id": "305922.551900.2513203.39615",
+			"route": "ID Intradermal",
+			"site": "LA",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2482607"
+			},
+			"given_by": "543617",
+			"given_date": "2022-10-19",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "533569",
+				"id": "533569"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"record_id": "305922.533569.2482607.39613",
+			"route": "IM Intramuscular",
+			"site": "LD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2555200"
+			},
+			"given_by": "544271",
+			"given_date": "2022-10-20",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "534634",
+				"id": "534634"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"record_id": "305922.534634.2555200.39622",
+			"route": "IM Intramuscular",
+			"site": "LD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2417113"
+			},
+			"given_by": "551459",
+			"given_date": "2022-10-20",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "536330",
+				"id": "536330"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1093238222"
+			},
+			"record_id": "305922.536330.2417113.39616",
+			"route": "IM Intramuscular",
+			"site": "LD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90715",
+			"cvx_code": "115",
+			"description": "A-TDAP",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2549427"
+			},
+			"given_by": "9231",
+			"given_date": "2022-10-20",
+			"lot_number": "YR7AA",
+			"patient": {
+				"account_no": "550178",
+				"id": "550178"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1396385019"
+			},
+			"record_id": "305922.550178.2549427.39635",
+			"route": "IM Intramuscular",
+			"site": "RD",
+			"status": "Administered",
+			"vaccine_manufacturer": "GlaxoSmithKline"
+		}
+	},
+	{
+		"immunization": {
+			"cpt_code": "90686",
+			"cvx_code": "150",
+			"description": "A-Influenza Afluria",
+			"dose": "0.5 mL",
+			"encounter": {
+				"id": "2555690"
+			},
+			"given_by": "543617",
+			"given_date": "2022-10-20",
+			"lot_number": "AS3703F",
+			"patient": {
+				"account_no": "532956",
+				"id": "532956"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"record_id": "305922.532956.2555690.39647",
+			"route": "IM Intramuscular",
+			"site": "RD",
+			"status": "Administered",
+			"vaccine_manufacturer": "Seqirus"
+		}
+	}
+]

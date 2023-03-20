@@ -1,0 +1,170 @@
+{
+  "parser_settings": {
+    "version": "omni.2.1",
+    "file_format_type": "csv2"
+  },
+  "file_declaration": {
+    "delimiter": ",",
+    "replace_double_quotes": false,
+    "records": [
+      {
+        "rows": 1,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "is_target": true,
+        "columns": [
+          {
+            "name": "row1",
+            "index": 1
+          },
+          {
+            "name": "domain",
+            "index": 2
+          },
+          {
+            "name": "patient_first_name",
+            "index": 3
+          },
+          {
+            "name": "patient_last_name",
+            "index": 4
+          },
+          {
+            "name": "patient_date_of_birth",
+            "index": 5
+          },
+          {
+            "name": "external_patient_id",
+            "index": 6
+          },
+          {
+            "name": "external_practice_id",
+            "index": 7
+          },
+          {
+            "name": "code",
+            "index": 8
+          },
+          {
+            "name": "name",
+            "index": 9
+          },
+          {
+            "name": "dictionary_name",
+            "index": 10
+          },
+          {
+            "name": "allergy_start_date",
+            "index": 11
+          },
+          {
+            "name": "allergy_end_date",
+            "index": 12
+          },
+          {
+            "name": "allergy_reaction_code",
+            "index": 13
+          },
+          {
+            "name": "allergy_reaction_name",
+            "index": 14
+          },
+          {
+            "name": "allergy_reaction_dictionary",
+            "index": 15
+          },
+          {
+            "name": "history_flag",
+            "index": 16
+          },
+          {
+            "name": "vendor",
+            "index": 17
+          },
+          {
+            "name": "source_type",
+            "index": 18
+          }
+        ]
+      }
+    ]
+  },
+  "transform_declarations": {
+    "FINAL_OUTPUT": {
+      "object": {
+        "allergy": {
+          "object": {
+            "row": {
+              "xpath": "row1"
+            },
+            "domain": {
+              "xpath": "domain"
+            },
+            "code": {
+              "xpath": "code"
+            },
+            "name": {
+              "xpath": "name"
+            },
+            "dictionary": {
+              "xpath": "dictionary_name"
+            },
+            "start_date": {
+              "xpath": "allergy_start_date"
+            },
+            "end_date": {
+              "xpath": "allergy_end_date"
+            },
+            "reaction": {
+              "object": {
+                "code": {
+                  "xpath": "allergy_reaction_code"
+                },
+                "name": {
+                  "xpath": "allergy_reaction_name"
+                },
+                "dictionary": {
+                  "xpath": "allergy_reaction_dictionary"
+                }
+              }
+            },
+            "history_flag": {
+              "xpath": "history_flag"
+            },
+            "vendor": {
+              "xpath": "vendor"
+            },
+            "source_type": {
+              "xpath": "source_type"
+            },
+            "patient": {
+              "object": {
+                "external_id": {
+                  "xpath": "external_patient_id"
+                },
+                "first_name": {
+                  "xpath": "patient_first_name"
+                },
+                "last_name": {
+                  "xpath": "patient_last_name"
+                },
+                "date_of_birth": {
+                  "xpath": "patient_date_of_birth"
+                }
+              }
+            },
+            "practice": {
+              "object": {
+                "external_id": {
+                  "xpath": "external_practice_id"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

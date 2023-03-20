@@ -1,0 +1,428 @@
+[
+	{
+		"facility": {
+			"address": {
+				"city": "Central Islip",
+				"line_1": "159 Carleton Ave",
+				"state": "NY",
+				"zip": "11722-4172"
+			},
+			"id": "26",
+			"name": "LISH Central Islip",
+			"practice": {
+				"apuid": "305922"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Brewster",
+				"line_1": "15 Mt. Ebo Road",
+				"state": "NY",
+				"zip": "105094004"
+			},
+			"id": "6",
+			"name": "FQHC - HVRHC (Brewster)",
+			"practice": {
+				"apuid": "24928"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Baxley",
+				"state": "GA",
+				"zip": "31513"
+			},
+			"id": "75",
+			"name": "zzzzAPP Dole Berry Co",
+			"practice": {
+				"apuid": "5515"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Statesboro",
+				"line_1": "5225 harville rd",
+				"state": "GA",
+				"zip": "30458"
+			},
+			"id": "267",
+			"name": "BUL Shann Peanut",
+			"practice": {
+				"apuid": "5515"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Baxley",
+				"line_1": "237 red dot rd",
+				"state": "GA",
+				"zip": "31513"
+			},
+			"id": "268",
+			"name": "APP Black Water Farms",
+			"practice": {
+				"apuid": "5515"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "ROOSEVELT",
+				"line_1": "380 WASHINGTON AVE",
+				"state": "NY",
+				"zip": "11575-1845"
+			},
+			"id": "2",
+			"name": "Cerebral Palsy Association Of Nassau",
+			"practice": {
+				"apuid": "308116"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Fayetteville",
+				"line_1": "4211 Medical Center Drive",
+				"line_2": "Suite 214",
+				"state": "NY",
+				"zip": "13066-6636"
+			},
+			"id": "136",
+			"name": ".Fayetteville Office",
+			"practice": {
+				"apuid": "16041"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Statesboro",
+				"line_1": "115 Dodd Circle",
+				"state": "GA",
+				"zip": "304580000"
+			},
+			"id": "49",
+			"name": "Million Pines Personal Care Home, LLC",
+			"practice": {
+				"apuid": "5509"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Ewing",
+				"line_1": "1980 N Olden Ave #10",
+				"state": "NJ",
+				"zip": "08618"
+			},
+			"id": "57",
+			"name": "Rising Star",
+			"practice": {
+				"apuid": "17261"
+			}
+		}
+	},
+	{
+		"facility": {
+			"id": "76",
+			"name": "Senior Star Adult Day Care",
+			"practice": {
+				"apuid": "17261"
+			}
+		}
+	},
+	{
+		"facility": {
+			"id": "84",
+			"name": "Senior Comfort",
+			"practice": {
+				"apuid": "17261"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Plainsboro",
+				"line_1": "5 Plainsboro Rd",
+				"line_2": "Suite 400",
+				"state": "NJ",
+				"zip": "08536"
+			},
+			"id": "112",
+			"name": "Princeton Surgical Associates, PA",
+			"practice": {
+				"apuid": "17261"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "East Windsor",
+				"line_1": "300A Princeton Htown Rd 102",
+				"state": "NJ",
+				"zip": "085201421"
+			},
+			"id": "6",
+			"name": "Windsor Regional Medical Associates",
+			"practice": {
+				"apuid": "27"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Yanceyville",
+				"line_1": "439 US HIGHWAY 158  W",
+				"state": "NC",
+				"zip": "27379-8304"
+			},
+			"id": "2",
+			"name": "The Caswell Family Medical Center",
+			"practice": {
+				"apuid": "30271"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Yanceyville",
+				"line_1": "439 US Hwy 158 W",
+				"state": "NC",
+				"zip": "27379-8304"
+			},
+			"id": "36",
+			"name": "CFMC Telehealth",
+			"practice": {
+				"apuid": "30271"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "EDEN",
+				"line_1": "207 E MEADOW RD",
+				"line_2": "STE 6",
+				"state": "NC",
+				"zip": "27288-3469"
+			},
+			"id": "37",
+			"name": "JAHC TELEHEALTH",
+			"practice": {
+				"apuid": "30271"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "YANCEYVILLE",
+				"line_1": "1493 MAIN ST",
+				"state": "NC",
+				"zip": "27379-8793"
+			},
+			"id": "45",
+			"name": "North Village Pharmacy",
+			"practice": {
+				"apuid": "30271"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "ALBUQUERQUE",
+				"line_1": "4701 MONTGOMERY BLVD NE",
+				"state": "NM",
+				"zip": "871091219"
+			},
+			"id": "4",
+			"name": "Lovelace Women's Hospital",
+			"practice": {
+				"apuid": "322648"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Trenton",
+				"line_1": "446 Bellevue Ave",
+				"state": "NJ",
+				"zip": "086184502"
+			},
+			"id": "3",
+			"name": "Capital Health System Mercer",
+			"practice": {
+				"apuid": "9520"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Freehold",
+				"line_1": "901 W Main St",
+				"state": "NJ",
+				"zip": "077282537"
+			},
+			"id": "4",
+			"name": "Centrastate Medical Center",
+			"practice": {
+				"apuid": "9520"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Flemington",
+				"line_1": "2100 Wescott Drive",
+				"state": "NJ",
+				"zip": "088221412"
+			},
+			"id": "6",
+			"name": "Hunterdon Medical Center",
+			"practice": {
+				"apuid": "9520"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Princeton",
+				"line_1": "One Plainsboro Rd",
+				"state": "NJ",
+				"zip": "085363211"
+			},
+			"id": "9",
+			"name": "Princeton Healthcare System",
+			"practice": {
+				"apuid": "9520"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Pennington",
+				"line_1": "One Capital Health Way",
+				"state": "NJ",
+				"zip": "085344130"
+			},
+			"id": "19",
+			"name": "Capital Health at Hopewell",
+			"practice": {
+				"apuid": "9520"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Lawrenceville",
+				"line_1": "2A Princess Road",
+				"state": "NJ",
+				"zip": "08648-2325"
+			},
+			"id": "58",
+			"name": "Mercer County Surgery Center",
+			"practice": {
+				"apuid": "9520"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Warrington",
+				"line_1": "2800 Kelly Road",
+				"line_2": "Suite 100",
+				"state": "PA",
+				"zip": "18976-3626"
+			},
+			"id": "84",
+			"name": "Bucks County Surgical Suites",
+			"practice": {
+				"apuid": "9520"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Mullica Hill",
+				"line_1": "155 Bridgeton Pike",
+				"state": "NJ",
+				"zip": "080622638"
+			},
+			"id": "94",
+			"name": "Inspira Medical Center Mullica Hill",
+			"practice": {
+				"apuid": "9520"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Vineland",
+				"line_1": "1505 W Sherman Avenue",
+				"state": "NJ",
+				"zip": "08360-7059"
+			},
+			"id": "124",
+			"name": "Inspira Medical Center - Vineland",
+			"practice": {
+				"apuid": "9520"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Yanceyville",
+				"line_1": "1086 N Main St.",
+				"state": "NC",
+				"zip": "273791508"
+			},
+			"id": "3",
+			"name": "zzz Brian Center",
+			"practice": {
+				"apuid": "30271"
+			}
+		}
+	},
+	{
+		"facility": {
+			"address": {
+				"city": "Yanceyville",
+				"line_1": "535 U.S. Hwy 158 W",
+				"state": "NC",
+				"zip": "273798305"
+			},
+			"id": "4",
+			"name": "zzz Caswell House",
+			"practice": {
+				"apuid": "30271"
+			}
+		}
+	}
+]

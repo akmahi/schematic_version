@@ -1,0 +1,350 @@
+[
+	{
+		"active": true,
+		"address": [
+			{
+				"city": "CITY1",
+				"line": [
+					"Address L1b1",
+					"Address L2b1",
+					"Address L3b1",
+					"Address L4b1",
+					"Address L5b1",
+					"Address L6b1"
+				],
+				"postalCode": 21117,
+				"state": "MD"
+			}
+		],
+		"birthDate": "1940-10-27",
+		"extension": [
+			{
+				"extension": [
+					{
+						"url": "ombCategory",
+						"valueCoding": {
+							"code": "2106-3",
+							"system": "urn:oid:2.16.840.1.113883.6.238"
+						}
+					}
+				],
+				"url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-race"
+			}
+		],
+		"gender": "male",
+		"identifier": [
+			{
+				"system": "http://hl7.org/fhir/sid/us-mbi",
+				"type": {
+					"coding": [
+						{
+							"code": "MC",
+							"system": "http://terminology.hl7.org/CodeSystem/v2-0203"
+						}
+					]
+				},
+				"value": "1A69B98CD30"
+			}
+		],
+		"name": [
+			{
+				"family": "LnameOne",
+				"given": [
+					"FnameOne",
+					"A"
+				]
+			}
+		],
+		"resourceType": "Patient"
+	},
+	{
+		"active": true,
+		"address": [
+			{
+				"city": "CITY2",
+				"line": [
+					"Address L1b2",
+					"Address L2b2",
+					"Address L3b2",
+					"Address L4b2",
+					"Address L5b2",
+					"Address L6b2"
+				],
+				"postalCode": 21117,
+				"state": "MD"
+			}
+		],
+		"birthDate": "1946-10-06",
+		"extension": [
+			{
+				"extension": [
+					{
+						"url": "ombCategory",
+						"valueCoding": {
+							"code": "2106-3",
+							"system": "urn:oid:2.16.840.1.113883.6.238"
+						}
+					}
+				],
+				"url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-race"
+			}
+		],
+		"gender": "male",
+		"identifier": [
+			{
+				"system": "http://hl7.org/fhir/sid/us-mbi",
+				"type": {
+					"coding": [
+						{
+							"code": "MC",
+							"system": "http://terminology.hl7.org/CodeSystem/v2-0203"
+						}
+					]
+				},
+				"value": "1A69B98CD31"
+			}
+		],
+		"name": [
+			{
+				"family": "LnameTwo",
+				"given": [
+					"FnameTwo",
+					"B"
+				]
+			}
+		],
+		"resourceType": "Patient"
+	},
+	{
+		"active": true,
+		"address": [
+			{
+				"city": "CITY3",
+				"line": [
+					"Address L1b3",
+					"Address L2b3",
+					"Address L3b3",
+					"Address L4b3",
+					"Address L5b3",
+					"Address L6b3"
+				],
+				"postalCode": 31117,
+				"state": "VA"
+			}
+		],
+		"birthDate": "1962-12-04",
+		"extension": [
+			{
+				"extension": [
+					{
+						"url": "ombCategory",
+						"valueCoding": {
+							"code": "2106-3",
+							"system": "urn:oid:2.16.840.1.113883.6.238"
+						}
+					}
+				],
+				"url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-race"
+			}
+		],
+		"gender": "female",
+		"identifier": [
+			{
+				"system": "http://hl7.org/fhir/sid/us-mbi",
+				"type": {
+					"coding": [
+						{
+							"code": "MC",
+							"system": "http://terminology.hl7.org/CodeSystem/v2-0203"
+						}
+					]
+				},
+				"value": "1A69B98CD32"
+			}
+		],
+		"name": [
+			{
+				"family": "LnameThree",
+				"given": [
+					"FnameThree",
+					"C"
+				]
+			}
+		],
+		"resourceType": "Patient"
+	},
+	{
+		"active": true,
+		"address": [
+			{
+				"city": "CITY4",
+				"line": [
+					"Address L1b4",
+					"Address L2b4",
+					"Address L3b4",
+					"Address L4b4",
+					"Address L5b4",
+					"Address L6b4"
+				],
+				"postalCode": 31117,
+				"state": "VA"
+			}
+		],
+		"birthDate": "1957-01-28",
+		"extension": [
+			{
+				"extension": [
+					{
+						"url": "ombCategory",
+						"valueCoding": {
+							"code": "2106-3",
+							"system": "urn:oid:2.16.840.1.113883.6.238"
+						}
+					}
+				],
+				"url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-race"
+			}
+		],
+		"gender": "male",
+		"identifier": [
+			{
+				"system": "http://hl7.org/fhir/sid/us-mbi",
+				"type": {
+					"coding": [
+						{
+							"code": "MC",
+							"system": "http://terminology.hl7.org/CodeSystem/v2-0203"
+						}
+					]
+				},
+				"value": "1A69B98CD33"
+			}
+		],
+		"name": [
+			{
+				"family": "LnameFour",
+				"given": [
+					"FnameFour",
+					"D"
+				]
+			}
+		],
+		"resourceType": "Patient"
+	},
+	{
+		"active": true,
+		"address": [
+			{
+				"city": "CITY5",
+				"line": [
+					"Address L1b5",
+					"Address L2b5",
+					"Address L3b5",
+					"Address L4b5",
+					"Address L5b5",
+					"Address L6b5"
+				],
+				"postalCode": 21117,
+				"state": "MD"
+			}
+		],
+		"birthDate": "1953-08-01",
+		"extension": [
+			{
+				"extension": [
+					{
+						"url": "ombCategory",
+						"valueCoding": {
+							"code": "2106-3",
+							"system": "urn:oid:2.16.840.1.113883.6.238"
+						}
+					}
+				],
+				"url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-race"
+			}
+		],
+		"gender": "male",
+		"identifier": [
+			{
+				"system": "http://hl7.org/fhir/sid/us-mbi",
+				"type": {
+					"coding": [
+						{
+							"code": "MC",
+							"system": "http://terminology.hl7.org/CodeSystem/v2-0203"
+						}
+					]
+				},
+				"value": "1A69B98CD34"
+			}
+		],
+		"name": [
+			{
+				"family": "LnameFive",
+				"given": [
+					"FnameFive",
+					"E"
+				]
+			}
+		],
+		"resourceType": "Patient"
+	},
+	{
+		"active": true,
+		"address": [
+			{
+				"city": "CITY6",
+				"line": [
+					"Address L1b6",
+					"Address L2b6",
+					"Address L3b6",
+					"Address L4b6",
+					"Address L5b6",
+					"Address L6b6"
+				],
+				"postalCode": 41417,
+				"state": "TX"
+			}
+		],
+		"birthDate": "1946-02-21",
+		"extension": [
+			{
+				"extension": [
+					{
+						"url": "ombCategory",
+						"valueCoding": {
+							"code": "2106-3",
+							"system": "urn:oid:2.16.840.1.113883.6.238"
+						}
+					}
+				],
+				"url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-race"
+			}
+		],
+		"gender": "male",
+		"identifier": [
+			{
+				"system": "http://hl7.org/fhir/sid/us-mbi",
+				"type": {
+					"coding": [
+						{
+							"code": "MC",
+							"system": "http://terminology.hl7.org/CodeSystem/v2-0203"
+						}
+					]
+				},
+				"value": "1A69B98CD35"
+			}
+		],
+		"name": [
+			{
+				"family": "LnameSix",
+				"given": [
+					"FnameSix",
+					"F"
+				]
+			}
+		],
+		"resourceType": "Patient"
+	}
+]

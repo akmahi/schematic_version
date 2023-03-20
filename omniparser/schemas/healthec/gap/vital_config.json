@@ -1,0 +1,223 @@
+{
+  "parser_settings": {
+    "version": "omni.2.1",
+    "file_format_type": "csv2"
+  },
+  "file_declaration": {
+    "delimiter": ",",
+    "replace_double_quotes": false,
+    "records": [
+      {
+        "rows": 1,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "is_target": true,
+        "columns": [
+          {
+            "name": "row",
+            "index": 1
+          },
+          {
+            "name": "domain",
+            "index": 2
+          },
+          {
+            "name": "patient_first_name",
+            "index": 3
+          },
+          {
+            "name": "patient_last_name",
+            "index": 4
+          },
+          {
+            "name": "patient_dob",
+            "index": 5
+          },
+          {
+            "name": "external_patient_id",
+            "index": 6
+          },
+          {
+            "name": "external_practice_id",
+            "index": 7
+          },
+          {
+            "name": "code",
+            "index": 8
+          },
+          {
+            "name": "name",
+            "index": 9
+          },
+          {
+            "name": "dictionary_name",
+            "index": 10
+          },
+          {
+            "name": "date_performed",
+            "index": 11
+          },
+          {
+            "name": "date_ordered",
+            "index": 12
+          },
+          {
+            "name": "date_due",
+            "index": 13
+          },
+          {
+            "name": "value",
+            "index": 14
+          },
+          {
+            "name": "npi",
+            "index": 15
+          },
+          {
+            "name": "tin",
+            "index": 16
+          },
+          {
+            "name": "provider_name",
+            "index": 17
+          },
+          {
+            "name": "record_verified",
+            "index": 18
+          },
+          {
+            "name": "med_unnecessary_rsn_code",
+            "index": 19
+          },
+          {
+            "name": "med_unnecessary_rsn_name",
+            "index": 20
+          },
+          {
+            "name": "med_unnecessary_rsn_dict",
+            "index": 21
+          },
+          {
+            "name": "rem_specified_vital_sign_flag",
+            "index": 22
+          },
+          {
+            "name": "vendor",
+            "index": 23
+          },
+          {
+            "name": "source_type",
+            "index": 24
+          },
+          {
+            "name": "patient_id",
+            "index": 25
+          }
+        ]
+      }
+    ]
+  },
+  "transform_declarations": {
+    "FINAL_OUTPUT": {
+      "object": {
+        "vital": {
+          "object": {
+            "row": {
+              "xpath": "row"
+            },
+            "domain": {
+              "xpath": "domain"
+            },
+            "patient": {
+              "object": {
+                "id": {
+                  "xpath": "patient_id"
+                },
+                "external_id": {
+                  "xpath": "external_patient_id"
+                },
+                "first_name": {
+                  "xpath": "patient_first_name"
+                },
+                "last_name": {
+                  "xpath": "patient_last_name"
+                },
+                "dob": {
+                  "xpath": "patient_dob"
+                }
+              }
+            },
+            "practice": {
+              "object": {
+                "tin": {
+                  "xpath": "tin"
+                },
+                "external_id": {
+                  "xpath": "external_practice_id"
+                }
+              }
+            },
+            "code": {
+              "xpath": "code"
+            },
+            "name": {
+              "xpath": "name"
+            },
+            "dictionary": {
+              "xpath": "dictionary_name"
+            },
+            "date_performed": {
+              "xpath": "date_performed"
+            },
+            "date_ordered": {
+              "xpath": "date_ordered"
+            },
+            "date_due": {
+              "xpath": "date_due"
+            },
+            "value": {
+              "xpath": "value"
+            },
+            "provider": {
+              "object": {
+                "npi": {
+                  "xpath": "npi"
+                },
+                "name": {
+                  "xpath": "provider_name"
+                }
+              }
+            },
+            "record_verified": {
+              "xpath": "record_verified"
+            },
+            "med_unnecessary_reason": {
+              "object": {
+                "code": {
+                  "xpath": "med_unnecessary_rsn_code"
+                },
+                "name": {
+                  "xpath": "med_unnecessary_rsn_name"
+                },
+                "dictionary": {
+                  "xpath": "med_unnecessary_rsn_dict"
+                }
+              }
+            },
+            "remove_specified_vital_flag": {
+              "xpath": "rem_specified_vital_sign_flag"
+            },
+            "vendor": {
+              "xpath": "vendor"
+            },
+            "source_type": {
+              "xpath": "source_type"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,447 @@
+[
+	{
+		"billingProvider": {
+			"address": {
+				"city": "FORT WASHINGTON",
+				"line1": "240 NEW YORK DR",
+				"line2": "STE 4",
+				"state": "PA",
+				"zip": "190342415"
+			},
+			"id": "1891713608",
+			"lastName": "LOCKMAN &  LUBELL PEDIATRIC ASSOCIA",
+			"tin": "043655854",
+			"type": "2"
+		},
+		"claims": [
+			{
+				"amount": "150",
+				"assignmentOfBenefitsIndicator": "Y",
+				"diagnosisCodes": [
+					{
+						"code": "G510",
+						"primaryIndicator": "Y",
+						"typeCode": "ABK"
+					}
+				],
+				"frequencyTypeCode": "1",
+				"id": "265323",
+				"patientSignSourceCode": "P",
+				"placeOfService": "11",
+				"providerAssignmentCode": "A",
+				"providerSignIndicator": "Y",
+				"releaseOfInformationCode": "Y",
+				"renderingProvider": {
+					"firstName": "ANDREW",
+					"id": "1851392070",
+					"lastName": "LUBELL",
+					"taxonomyCode": "208000000X",
+					"type": "1"
+				},
+				"serviceLines": [
+					{
+						"diagnosisCode1": "1",
+						"fromDate": "20210803",
+						"lineAmount": "150",
+						"lineItemControlNumber": "1711190",
+						"lineNumber": "1",
+						"quantity": "1",
+						"serviceId": "99214",
+						"serviceIdCode": "HC",
+						"toDate": "20210803",
+						"unitCode": "UN"
+					}
+				]
+			}
+		],
+		"patient": {
+			"address": {
+				"city": "AMBLER",
+				"line1": "324 DOCS CT",
+				"state": "PA",
+				"zip": "19002"
+			},
+			"dob": "20150326",
+			"firstName": "QcName2",
+			"gender": "M",
+			"lastName": "QCName1",
+			"relationshipCode": "19"
+		},
+		"payer": {
+			"address": {
+				"city": "EAGAN",
+				"line1": "PO BOX 211184",
+				"state": "MN",
+				"zip": "55121"
+			},
+			"name": "AMERIHEALTH OF NEW JERSEY",
+			"payorId": "54704"
+		},
+		"receiver": {
+			"id": "INSTAMED",
+			"name": "AMERIHEALTH OF NEW JERSEY"
+		},
+		"submitter": {
+			"contact": {
+				"email": "ALUBELL@LOLU.NET",
+				"fax": "2156464422",
+				"name": "ELECTRONIC CLAIMS",
+				"phone": "2156530600"
+			},
+			"id": "69027",
+			"lastName": "LOCKMAN &  LUBELL PEDIATRIC ASSOCIA",
+			"type": "2"
+		},
+		"subscriber": {
+			"firstName": "TestILname2",
+			"id": "Q1S1308701181",
+			"idType": "MI",
+			"lastName": "TestILName1",
+			"type": "1"
+		}
+	},
+	{
+		"billingProvider": {
+			"address": {
+				"city": "FORT WASHINGTON",
+				"line1": "240 NEW YORK DR",
+				"line2": "STE 4",
+				"state": "PA",
+				"zip": "190342415"
+			},
+			"id": "1891713608",
+			"lastName": "LOCKMAN &  LUBELL PEDIATRIC ASSOCIA",
+			"tin": "043655854",
+			"type": "2"
+		},
+		"claims": [
+			{
+				"amount": "1105",
+				"assignmentOfBenefitsIndicator": "Y",
+				"diagnosisCodes": [
+					{
+						"code": "Z0000",
+						"primaryIndicator": "Y",
+						"typeCode": "ABK"
+					},
+					{
+						"code": "Z6826",
+						"typeCode": "ABF"
+					},
+					{
+						"code": "F411",
+						"typeCode": "ABF"
+					},
+					{
+						"code": "F42",
+						"typeCode": "ABF"
+					},
+					{
+						"code": "Z23",
+						"typeCode": "ABF"
+					},
+					{
+						"code": "F341",
+						"typeCode": "ABF"
+					}
+				],
+				"frequencyTypeCode": "1",
+				"id": "264536",
+				"patientSignSourceCode": "P",
+				"placeOfService": "11",
+				"providerAssignmentCode": "A",
+				"providerSignIndicator": "Y",
+				"releaseOfInformationCode": "Y",
+				"renderingProvider": {
+					"firstName": "ANDREW",
+					"id": "1851392070",
+					"lastName": "LUBELL",
+					"type": "1"
+				},
+				"serviceLines": [
+					{
+						"diagnosisCode1": "1",
+						"diagnosisCode2": "2",
+						"diagnosisCode3": "3",
+						"diagnosisCode4": "4",
+						"fromDate": "20210720",
+						"lineAmount": "180",
+						"lineItemControlNumber": "1702692",
+						"lineNumber": "1",
+						"quantity": "1",
+						"serviceId": "99395",
+						"serviceIdCode": "HC",
+						"serviceModifier1": "25",
+						"toDate": "20210720",
+						"unitCode": "UN"
+					},
+					{
+						"diagnosisCode1": "5",
+						"drug": {
+							"code": "58160097620",
+							"unitCode": "ML",
+							"unitCount": ".5"
+						},
+						"fromDate": "20210720",
+						"lineAmount": "230",
+						"lineItemControlNumber": "1702705",
+						"lineNumber": "2",
+						"quantity": "1",
+						"serviceId": "90620",
+						"serviceIdCode": "HC",
+						"toDate": "20210720",
+						"unitCode": "UN"
+					},
+					{
+						"diagnosisCode1": "5",
+						"fromDate": "20210720",
+						"lineAmount": "44",
+						"lineItemControlNumber": "1702706",
+						"lineNumber": "3",
+						"quantity": "1",
+						"serviceId": "90460",
+						"serviceIdCode": "HC",
+						"toDate": "20210720",
+						"unitCode": "UN"
+					},
+					{
+						"diagnosisCode1": "5",
+						"drug": {
+							"code": "00006412102",
+							"unitCode": "ML",
+							"unitCount": ".5"
+						},
+						"fromDate": "20210720",
+						"lineAmount": "374",
+						"lineItemControlNumber": "1702707",
+						"lineNumber": "4",
+						"quantity": "1",
+						"serviceId": "90651",
+						"serviceIdCode": "HC",
+						"toDate": "20210720",
+						"unitCode": "UN"
+					},
+					{
+						"diagnosisCode1": "5",
+						"fromDate": "20210720",
+						"lineAmount": "44",
+						"lineItemControlNumber": "1702708",
+						"lineNumber": "5",
+						"quantity": "1",
+						"serviceId": "90460",
+						"serviceIdCode": "HC",
+						"toDate": "20210720",
+						"unitCode": "UN"
+					},
+					{
+						"diagnosisCode1": "5",
+						"drug": {
+							"code": "49281040010",
+							"unitCode": "ML",
+							"unitCount": ".5"
+						},
+						"fromDate": "20210720",
+						"lineAmount": "101",
+						"lineItemControlNumber": "1702709",
+						"lineNumber": "6",
+						"quantity": "1",
+						"serviceId": "90715",
+						"serviceIdCode": "HC",
+						"toDate": "20210720",
+						"unitCode": "UN"
+					},
+					{
+						"diagnosisCode1": "5",
+						"fromDate": "20210720",
+						"lineAmount": "44",
+						"lineItemControlNumber": "1702710",
+						"lineNumber": "7",
+						"quantity": "1",
+						"serviceId": "90460",
+						"serviceIdCode": "HC",
+						"toDate": "20210720",
+						"unitCode": "UN"
+					},
+					{
+						"diagnosisCode1": "5",
+						"fromDate": "20210720",
+						"lineAmount": "88",
+						"lineItemControlNumber": "1702711",
+						"lineNumber": "8",
+						"quantity": "2",
+						"serviceId": "90461",
+						"serviceIdCode": "HC",
+						"toDate": "20210720",
+						"unitCode": "UN"
+					}
+				]
+			}
+		],
+		"patient": {
+			"address": {
+				"city": "BLUE BELL",
+				"line1": "1077 STONY BROOK DRIVE",
+				"state": "PA",
+				"zip": "19422"
+			},
+			"dob": "19990810",
+			"firstName": "QcName4",
+			"gender": "M",
+			"lastName": "Qcname3",
+			"relationshipCode": "19"
+		},
+		"payer": {
+			"address": {
+				"city": "CAMP HILL",
+				"line1": "PO BOX 890062",
+				"state": "PA",
+				"zip": "17089"
+			},
+			"name": "HIGHMARK BLUE SHIELD FEDERAL",
+			"payorId": "54771"
+		},
+		"receiver": {
+			"id": "INSTAMED",
+			"name": "HIGHMARK BLUE SHIELD FEDERAL"
+		},
+		"submitter": {
+			"contact": {
+				"email": "ALUBELL@LOLU.NET",
+				"fax": "2156464422",
+				"name": "ELECTRONIC CLAIMS",
+				"phone": "2156530600"
+			},
+			"id": "69027",
+			"lastName": "LOCKMAN &  LUBELL PEDIATRIC ASSOCIA",
+			"type": "2"
+		},
+		"subscriber": {
+			"firstName": "Ilname4",
+			"id": "R60473335009",
+			"idType": "MI",
+			"lastName": "ILName3",
+			"type": "1"
+		}
+	},
+	{
+		"billingProvider": {
+			"address": {
+				"city": "FORT WASHINGTON",
+				"line1": "240 NEW YORK DR",
+				"line2": "STE 4",
+				"state": "PA",
+				"zip": "190342415"
+			},
+			"id": "1891713608",
+			"lastName": "LOCKMAN &  LUBELL PEDIATRIC ASSOCIA",
+			"tin": "043655854",
+			"type": "2"
+		},
+		"claims": [
+			{
+				"amount": "215",
+				"assignmentOfBenefitsIndicator": "Y",
+				"cliaNumber": "39D1000396",
+				"diagnosisCodes": [
+					{
+						"code": "Z0000",
+						"primaryIndicator": "Y",
+						"typeCode": "ABK"
+					},
+					{
+						"code": "Z6822",
+						"typeCode": "ABF"
+					}
+				],
+				"frequencyTypeCode": "1",
+				"id": "265312",
+				"patientSignSourceCode": "P",
+				"placeOfService": "11",
+				"providerAssignmentCode": "A",
+				"providerSignIndicator": "Y",
+				"releaseOfInformationCode": "Y",
+				"renderingProvider": {
+					"firstName": "ANDREW",
+					"id": "1851392070",
+					"lastName": "LUBELL",
+					"taxonomyCode": "208000000X",
+					"type": "1"
+				},
+				"serviceLines": [
+					{
+						"diagnosisCode1": "1",
+						"diagnosisCode2": "2",
+						"fromDate": "20210803",
+						"lineAmount": "180",
+						"lineItemControlNumber": "1711218",
+						"lineNumber": "1",
+						"quantity": "1",
+						"serviceId": "99395",
+						"serviceIdCode": "HC",
+						"serviceModifier1": "25",
+						"toDate": "20210803",
+						"unitCode": "UN"
+					},
+					{
+						"diagnosisCode1": "1",
+						"fromDate": "20210803",
+						"lineAmount": "35",
+						"lineItemControlNumber": "1711219",
+						"lineNumber": "2",
+						"quantity": "1",
+						"serviceId": "99173",
+						"serviceIdCode": "HC",
+						"serviceModifier1": "59",
+						"toDate": "20210803",
+						"unitCode": "UN"
+					}
+				]
+			}
+		],
+		"patient": {
+			"address": {
+				"city": "DRESHER",
+				"line1": "58 BERRYWOOD LN",
+				"state": "PA",
+				"zip": "19025"
+			},
+			"dob": "20010206",
+			"firstName": "Qcname6",
+			"gender": "F",
+			"lastName": "QcName5",
+			"relationshipCode": "19"
+		},
+		"payer": {
+			"address": {
+				"city": "EAGAN",
+				"line1": "PO BOX 21974",
+				"state": "MN",
+				"zip": "55121"
+			},
+			"name": "INDEPENDENCE ADMINISTRATORS",
+			"payorId": "54763"
+		},
+		"receiver": {
+			"id": "INSTAMED",
+			"name": "INDEPENDENCE ADMINISTRATORS"
+		},
+		"submitter": {
+			"contact": {
+				"email": "ALUBELL@LOLU.NET",
+				"fax": "2156464422",
+				"name": "ELECTRONIC CLAIMS",
+				"phone": "2156530600"
+			},
+			"id": "69027",
+			"lastName": "LOCKMAN &  LUBELL PEDIATRIC ASSOCIA",
+			"type": "2"
+		},
+		"subscriber": {
+			"firstName": "IlName6",
+			"id": "YXB01553374",
+			"idType": "MI",
+			"lastName": "IlName5",
+			"type": "1"
+		}
+	}
+]

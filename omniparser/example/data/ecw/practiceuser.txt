@@ -1,0 +1,30 @@
+apuid|RecordID|UserId|UserType|Ufname|Ulname|ProviderNPI|Speciality|FacilityID|DateOfBirth|Gender|UserStatus
+305922|305922.532687|532687|Provider|Subbarao|Bhimani|1164482444|Neurology|37|0000-00-00|male|Active
+305922|305922.550632|550632|Provider|Eva|Dziergowska|1194337253|Psychiatry|12||female|Active
+305922|305922.532700|532700|Provider|Eileen|Flynn-Richards|1780671446|Psychiatry|37|0000-00-00|Female|Active
+305922|305922.552322|552322|Provider|Alexus|Haddad|1568183416|Physician Assistant|0||Female|Active
+305922|305922.532714|532714|Provider|Raymond|Hanson|1841377272|Physical Therapist|37|0000-00-00|male|Active
+305922|305922.532704|532704|Provider|Kevin|Kearney|1316043292|Psychology|37|0000-00-00|male|Active
+305922|305922.543041|543041|Provider|Andrea|Martinez Villalobos|1003280041|Physician Assistant|26|0000-00-00|Not Selected|Active
+305922|305922.550639|550639|Provider|Anthonia|Onyemem|1891460127|Nurse Practitioner|26||Female|Active
+305922|305922.552172|552172|Provider|Christina|Riolo|1073244257|Speech Therapy|25||Female|Active
+305922|305922.552388|552388|Provider|Ann Marie|Spinella|1619699618|Psychiatry|0||Not Selected|Active
+305922|305922.532692|532692|Provider|Andrea|Stengel|1235225871|Psychiatry|37|0000-00-00|female|Active
+305922|305922.532817|532817|Staff|Debra|DiGiannurio|||0|0000-00-00||Active
+24928|24928.38696|38696|Provider|Alexander|Dorrough|1821612201|Dental General Practice|0|1991-04-20|male|Active
+24928|24928.38698|38698|Provider|Lori Ann|Duke|1730369521|Clinical social worker|6|1967-08-26|female|Active
+306945|306945.24424|24424|Provider|Christopher|Montanaro DC NP|1285833145|Family Medicine|3||Male|Active
+306945|306945.34183|34183|Provider|Inna|Salisbury NP|1568180313|Family Medicine|0||Female|Active
+306945|306945.34186|34186|Provider|Ashley|Williams|1629650874|Mental health counselor|3||Not Selected|Active
+5515|5515.6174142|6174142|Provider|Ajay|Jain|1104853787|Internal Medicine|0||Male|Active
+5515|5515.6151058|6151058|Provider|Laurie|Hutchins|1780179390|Nurse Practitioner|49||Female|Active
+5515|5515.6050004|6050004|Provider|Mymie|Clinton|1881625598|Nurse Practitioner|49|1952-03-02|Female|Active
+5515|5515.6133089|6133089|Provider|Lorene|Davis|1922468263|Nurse Practitioner|0||Female|Active
+5515|5515.6171796|6171796|Provider|Michael|Austin|1134155153|Internal Medicine|49|1956-03-25|Male|Active
+5515|5515.6184573|6184573|Provider|Jenny|Nunez|1144376542|Dental General Practice|49||Female|Active
+5515|5515.6050002|6050002|Provider|Joseph|Clifton|1922143536|Licensed Clinical Social Worker|49||Male|Active
+5515|5515.6132597|6132597|Provider|Claudio|Machado|1144395369|Pediatrics|49||Male|Active
+5515|5515.6158324|6158324|Provider|Mark|Haddock|1518188713|Chiropractor|49||Male|Active
+5515|5515.6161881|6161881|Provider|Loretta|Church|1982168415|Physician Assistant|49|1984-01-29|Female|Active
+5515|5515.6172052|6172052|Provider|Pamela|Sheldon|1811396005|Licensed Clinical Social Worker|49||Female|Active
+5515|5515.6173287|6173287|Provider|Paul|Dorsett|1265039341|Physician Assistant|49||Male|Active

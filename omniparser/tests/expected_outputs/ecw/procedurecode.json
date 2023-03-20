@@ -1,0 +1,871 @@
+[
+	{
+		"procedure_code": {
+			"cpt_code": "99213",
+			"cpt_code_type": "Video-Est Pt Level 3",
+			"encounter": {
+				"id": "2552026"
+			},
+			"facility": {
+				"id": "10"
+			},
+			"icd_code_1": "M54.32",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "533230",
+				"id": "533230"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532672",
+				"npi": "1386731784"
+			},
+			"record_id": "305922.533230.2552026.99213",
+			"service_date": "2022-10-16"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "G2025",
+			"cpt_code_type": "Med-Telehealth Dista",
+			"encounter": {
+				"id": "2552026"
+			},
+			"facility": {
+				"id": "10"
+			},
+			"icd_code_1": "M54.32",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "533230",
+				"id": "533230"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532672",
+				"npi": "1386731784"
+			},
+			"record_id": "305922.533230.2552026.G2025",
+			"service_date": "2022-10-16"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "D0220",
+			"cpt_code_type": "INTRAORL-PERIAPICAL",
+			"encounter": {
+				"id": "2526032"
+			},
+			"facility": {
+				"id": "26"
+			},
+			"icd_code_1": "Z01.21",
+			"patient": {
+				"account_no": "549865",
+				"id": "549865"
+			},
+			"place_of_service": "11",
+			"pos_code_description": "OFFICE",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532669",
+				"npi": "1417179151"
+			},
+			"record_id": "305922.549865.2526032.D0220",
+			"service_date": "2022-10-14"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "D9110",
+			"cpt_code_type": "PALLIATVE TX DENTAL",
+			"encounter": {
+				"id": "2526032"
+			},
+			"facility": {
+				"id": "26"
+			},
+			"icd_code_1": "Z01.21",
+			"patient": {
+				"account_no": "549865",
+				"id": "549865"
+			},
+			"place_of_service": "11",
+			"pos_code_description": "OFFICE",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532669",
+				"npi": "1417179151"
+			},
+			"record_id": "305922.549865.2526032.D9110",
+			"service_date": "2022-10-14"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "DENT1",
+			"cpt_code_type": "Dental Routine",
+			"encounter": {
+				"id": "2526032"
+			},
+			"facility": {
+				"id": "26"
+			},
+			"icd_code_1": "Z01.21",
+			"patient": {
+				"account_no": "549865",
+				"id": "549865"
+			},
+			"place_of_service": "11",
+			"pos_code_description": "OFFICE",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532669",
+				"npi": "1417179151"
+			},
+			"record_id": "305922.549865.2526032.DENT1",
+			"service_date": "2022-10-14"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "D0150",
+			"cpt_code_type": "COMP ORAL EVALUATION",
+			"encounter": {
+				"id": "2465032"
+			},
+			"facility": {
+				"id": "26"
+			},
+			"icd_code_1": "Z01.20",
+			"icd_code_2": "F72",
+			"patient": {
+				"account_no": "551818",
+				"id": "551818"
+			},
+			"place_of_service": "11",
+			"pos_code_description": "OFFICE",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532669",
+				"npi": "1417179151"
+			},
+			"record_id": "305922.551818.2465032.D0150",
+			"service_date": "2022-10-12"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "DENT1",
+			"cpt_code_type": "Dental Routine",
+			"encounter": {
+				"id": "2465032"
+			},
+			"facility": {
+				"id": "26"
+			},
+			"icd_code_1": "Z01.20",
+			"icd_code_2": "F72",
+			"patient": {
+				"account_no": "551818",
+				"id": "551818"
+			},
+			"place_of_service": "11",
+			"pos_code_description": "OFFICE",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532669",
+				"npi": "1417179151"
+			},
+			"record_id": "305922.551818.2465032.DENT1",
+			"service_date": "2022-10-12"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "D9997",
+			"cpt_code_type": "Dental Case Manageme",
+			"encounter": {
+				"id": "2465032"
+			},
+			"facility": {
+				"id": "26"
+			},
+			"icd_code_1": "Z01.20",
+			"icd_code_2": "F72",
+			"patient": {
+				"account_no": "551818",
+				"id": "551818"
+			},
+			"place_of_service": "11",
+			"pos_code_description": "OFFICE",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532669",
+				"npi": "1417179151"
+			},
+			"record_id": "305922.551818.2465032.D9997",
+			"service_date": "2022-10-12"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "90834",
+			"cpt_code_type": "Est Video 45-60 minu",
+			"encounter": {
+				"id": "2490312"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F40.9",
+			"icd_code_2": "F41.1",
+			"icd_code_3": "F84.5",
+			"icd_code_4": "F70",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "532358",
+				"id": "532358"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.532358.2490312.90834",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "G0470",
+			"cpt_code_type": "FQHC VISIT MENTAL HE",
+			"encounter": {
+				"id": "2490312"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F40.9",
+			"icd_code_2": "F41.1",
+			"icd_code_3": "F84.5",
+			"icd_code_4": "F70",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "532358",
+				"id": "532358"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.532358.2490312.G0470",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "90832",
+			"cpt_code_type": "Est Video-30 Minutes",
+			"encounter": {
+				"id": "2490327"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F90.2",
+			"icd_code_2": "F84.0",
+			"icd_code_4": "F41.1",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "542851",
+				"id": "542851"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.542851.2490327.90832",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "90837",
+			"cpt_code_type": "Est Video 60 minutes",
+			"encounter": {
+				"id": "2490342"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F34.1",
+			"icd_code_2": "F43.23",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "541227",
+				"id": "541227"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.541227.2490342.90837",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "G0470",
+			"cpt_code_type": "FQHC VISIT MENTAL HE",
+			"encounter": {
+				"id": "2490342"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F34.1",
+			"icd_code_2": "F43.23",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "541227",
+				"id": "541227"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.541227.2490342.G0470",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "90832",
+			"cpt_code_type": "Est Video-30 Minutes",
+			"encounter": {
+				"id": "2503637"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F25.9",
+			"icd_code_2": "F84.5",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "535840",
+				"id": "535840"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.535840.2503637.90832",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "G0470",
+			"cpt_code_type": "FQHC VISIT MENTAL HE",
+			"encounter": {
+				"id": "2503637"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F25.9",
+			"icd_code_2": "F84.5",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "535840",
+				"id": "535840"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.535840.2503637.G0470",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "90834",
+			"cpt_code_type": "Est Video 45-60 minu",
+			"encounter": {
+				"id": "2520126"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F41.1",
+			"icd_code_2": "F40.01",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "542515",
+				"id": "542515"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.542515.2520126.90834",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "G0470",
+			"cpt_code_type": "FQHC VISIT MENTAL HE",
+			"encounter": {
+				"id": "2520126"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F41.1",
+			"icd_code_2": "F40.01",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "542515",
+				"id": "542515"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.542515.2520126.G0470",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "90832",
+			"cpt_code_type": "Est Video-30 Minutes",
+			"encounter": {
+				"id": "2532730"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F63.81",
+			"icd_code_2": "F90.2",
+			"icd_code_3": "F34.1",
+			"icd_code_4": "F70",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "536282",
+				"id": "536282"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.536282.2532730.90832",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "90834",
+			"cpt_code_type": "Est Video 45-60 minu",
+			"encounter": {
+				"id": "2503649"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F31.4",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "536055",
+				"id": "536055"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.536055.2503649.90834",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "G0470",
+			"cpt_code_type": "FQHC VISIT MENTAL HE",
+			"encounter": {
+				"id": "2503649"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F31.4",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "536055",
+				"id": "536055"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.536055.2503649.G0470",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "90832",
+			"cpt_code_type": "Est Video-30 Minutes",
+			"encounter": {
+				"id": "2490352"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F41.0",
+			"icd_code_2": "F32.9",
+			"icd_code_3": "F32.9",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "533230",
+				"id": "533230"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.533230.2490352.90832",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "G0470",
+			"cpt_code_type": "FQHC VISIT MENTAL HE",
+			"encounter": {
+				"id": "2490352"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F41.0",
+			"icd_code_2": "F32.9",
+			"icd_code_3": "F32.9",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "533230",
+				"id": "533230"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.533230.2490352.G0470",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "90834",
+			"cpt_code_type": "Est Video 45-60 minu",
+			"encounter": {
+				"id": "2490362"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F84.0",
+			"icd_code_2": "F39",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "545014",
+				"id": "545014"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.545014.2490362.90834",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "90832",
+			"cpt_code_type": "Est Video-30 Minutes",
+			"encounter": {
+				"id": "2502441"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F41.1",
+			"icd_code_2": "F34.9",
+			"icd_code_3": "F84.9",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "546506",
+				"id": "546506"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.546506.2502441.90832",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "90832",
+			"cpt_code_type": "Tel- Est 16-37 minut",
+			"encounter": {
+				"id": "2534613"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F32.4",
+			"icd_code_2": "F63.9",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "532962",
+				"id": "532962"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.532962.2534613.90832",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "G0470",
+			"cpt_code_type": "BH-FQHC Visit Mental",
+			"encounter": {
+				"id": "2534613"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F32.4",
+			"icd_code_2": "F63.9",
+			"modifier_1": "FQ",
+			"patient": {
+				"account_no": "532962",
+				"id": "532962"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.532962.2534613.G0470",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "90832",
+			"cpt_code_type": "Tel- Est 16-37 minut",
+			"encounter": {
+				"id": "2534619"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F84.0",
+			"icd_code_2": "F60.0",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "533183",
+				"id": "533183"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.533183.2534619.90832",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "G0470",
+			"cpt_code_type": "BH-FQHC Visit Mental",
+			"encounter": {
+				"id": "2534619"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F84.0",
+			"icd_code_2": "F60.0",
+			"modifier_1": "FQ",
+			"patient": {
+				"account_no": "533183",
+				"id": "533183"
+			},
+			"place_of_service": "2",
+			"pos_code_description": "Telehealth Provided Other than",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.533183.2534619.G0470",
+			"service_date": "2022-10-11"
+		}
+	},
+	{
+		"procedure_code": {
+			"cpt_code": "90834",
+			"cpt_code_type": "Est Video 45-60 minu",
+			"encounter": {
+				"id": "2503681"
+			},
+			"facility": {
+				"id": "27"
+			},
+			"icd_code_1": "F33.0",
+			"icd_code_2": "F41.1",
+			"icd_code_3": "F70",
+			"icd_code_4": "F41.8",
+			"modifier_1": "95",
+			"patient": {
+				"account_no": "533072",
+				"id": "533072"
+			},
+			"place_of_service": "11",
+			"pos_code_description": "OFFICE",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532705",
+				"npi": "1558362426"
+			},
+			"record_id": "305922.533072.2503681.90834",
+			"service_date": "2022-10-11"
+		}
+	}
+]

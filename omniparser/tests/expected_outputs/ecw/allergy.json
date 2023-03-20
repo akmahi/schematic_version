@@ -1,0 +1,676 @@
+[
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Tree and Grass Pollen",
+			"encounter": {
+				"date": "2016-04-28",
+				"id": "606277"
+			},
+			"item_id": "0",
+			"modified_date": "2016-04-28",
+			"patient": {
+				"account_no": "400720",
+				"id": "10094"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "Rhinitis",
+			"record_id": "305922.10094.606277.0.4",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Early and Late Weeds",
+			"encounter": {
+				"date": "2016-04-28",
+				"id": "606277"
+			},
+			"item_id": "0",
+			"modified_date": "2016-04-28",
+			"patient": {
+				"account_no": "400720",
+				"id": "10094"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "Rhinitis",
+			"record_id": "305922.10094.606277.0.5",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Ragweed",
+			"encounter": {
+				"date": "2016-04-28",
+				"id": "606277"
+			},
+			"item_id": "0",
+			"modified_date": "2016-04-28",
+			"patient": {
+				"account_no": "400720",
+				"id": "10094"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "Rhinitis",
+			"record_id": "305922.10094.606277.0.6",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Augmentin",
+			"encounter": {
+				"date": "2016-04-28",
+				"id": "606277"
+			},
+			"id": "00029-6085-22",
+			"item_id": "262974",
+			"modified_date": "2016-04-28",
+			"patient": {
+				"account_no": "400720",
+				"id": "10094"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "Unknown",
+			"record_id": "305922.10094.606277.262974.1",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Penicillin G Potassium",
+			"encounter": {
+				"date": "2016-04-28",
+				"id": "606277"
+			},
+			"id": "00781-6136-94",
+			"item_id": "273264",
+			"modified_date": "2016-04-28",
+			"patient": {
+				"account_no": "400720",
+				"id": "10094"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "Unknown",
+			"record_id": "305922.10094.606277.273264.2",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Vistaril",
+			"encounter": {
+				"date": "2016-04-28",
+				"id": "606277"
+			},
+			"id": "00069-5410-66",
+			"item_id": "278365",
+			"modified_date": "2016-04-28",
+			"patient": {
+				"account_no": "400720",
+				"id": "10094"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "Unknown",
+			"record_id": "305922.10094.606277.278365.3",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Molds: A",
+			"encounter": {
+				"date": "2015-02-19",
+				"id": "514628"
+			},
+			"item_id": "0",
+			"modified_date": "2015-02-19",
+			"patient": {
+				"account_no": "509732",
+				"id": "11762"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "rhinitis",
+			"record_id": "305922.11762.514628.0.1",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Molds:  B",
+			"encounter": {
+				"date": "2015-02-19",
+				"id": "514628"
+			},
+			"item_id": "0",
+			"modified_date": "2015-02-19",
+			"patient": {
+				"account_no": "509732",
+				"id": "11762"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "rhinitis",
+			"record_id": "305922.11762.514628.0.2",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"description": "Sulfur",
+			"encounter": {
+				"date": "2022-10-12",
+				"id": "2525555"
+			},
+			"id": "00145-1024-03",
+			"item_id": "276781",
+			"modified_date": "2022-10-12",
+			"patient": {
+				"account_no": "531654",
+				"id": "531654"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "rash",
+			"record_id": "305922.531654.2525555.276781.1",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"description": "Tree Pollen Grass Pollun ana Ragweed Pollen",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2534007"
+			},
+			"item_id": "0",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "505284",
+				"id": "11212"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "rhinitis",
+			"record_id": "305922.11212.2534007.0.1",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"description": "Sulfacetamide Sodium",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2534007"
+			},
+			"id": "24208-0670-04",
+			"item_id": "276747",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "505284",
+				"id": "11212"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "hives",
+			"record_id": "305922.11212.2534007.276747.3",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Augmentin",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2546108"
+			},
+			"id": "43598-0006-14",
+			"item_id": "262974",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "508104",
+				"id": "11582"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "anaphylaxis",
+			"record_id": "305922.11582.2546108.262974.1",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Cortisone Acetate",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2546108"
+			},
+			"item_id": "265354",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "508104",
+				"id": "11582"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "anaphylaxis",
+			"record_id": "305922.11582.2546108.265354.2",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Clozaril",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2546108"
+			},
+			"item_id": "281790",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "508104",
+				"id": "11582"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "anaphylaxis",
+			"record_id": "305922.11582.2546108.281790.3",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Early weeds, late weeds, and ragweed",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2544650"
+			},
+			"item_id": "0",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "400681",
+				"id": "10085"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "rhinitis",
+			"record_id": "305922.10085.2544650.0.1",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Tree and grass pollen",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2544650"
+			},
+			"item_id": "0",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "400681",
+				"id": "10085"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "rhinitis",
+			"record_id": "305922.10085.2544650.0.2",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Dust mites",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2544650"
+			},
+			"item_id": "0",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "400681",
+				"id": "10085"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "rhinitis",
+			"record_id": "305922.10085.2544650.0.3",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Tree and Grass Pollen",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2517560"
+			},
+			"item_id": "0",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "100047",
+				"id": "9321"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "rhinitis",
+			"record_id": "305922.9321.2517560.0.1",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Early and Late Weeds",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2517560"
+			},
+			"item_id": "0",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "100047",
+				"id": "9321"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "rhinitis",
+			"record_id": "305922.9321.2517560.0.2",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Ragweed Pollen",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2517560"
+			},
+			"item_id": "0",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "100047",
+				"id": "9321"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "rhinitis",
+			"record_id": "305922.9321.2517560.0.3",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Mold Spores",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2517560"
+			},
+			"item_id": "0",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "100047",
+				"id": "9321"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "rhinitis",
+			"record_id": "305922.9321.2517560.0.4",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "BEANS/CABBAGE",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2542571"
+			},
+			"item_id": "0",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "200019",
+				"id": "9720"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "rash",
+			"record_id": "305922.9720.2542571.0.1",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Valium",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2542571"
+			},
+			"id": "35356-0006-00",
+			"item_id": "278132",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "200019",
+				"id": "9720"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "Unknown",
+			"record_id": "305922.9720.2542571.278132.3",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Dust Mite Mixed Allergen Ext",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2546963"
+			},
+			"id": "00268-7002-10",
+			"item_id": "444830",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "545905",
+				"id": "545905"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "rash",
+			"record_id": "305922.545905.2546963.444830.1",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "seasonal",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2552645"
+			},
+			"item_id": "0",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "516744",
+				"id": "12807"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "Unknown",
+			"record_id": "305922.12807.2552645.0.2",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Penicillin V Potassium",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2552645"
+			},
+			"id": "00093-1172-01",
+			"item_id": "273269",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "516744",
+				"id": "12807"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "rash",
+			"record_id": "305922.12807.2552645.273269.1",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "seasonal",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2550040"
+			},
+			"item_id": "0",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "534454",
+				"id": "534454"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.534454.2550040.0.1",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Demerol",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2552458"
+			},
+			"id": "00409-1180-59",
+			"item_id": "266035",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "400898",
+				"id": "10146"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "rash",
+			"record_id": "305922.10146.2552458.266035.1",
+			"status": "Active"
+		}
+	},
+	{
+		"allergy": {
+			"allergen_type": "Allergy",
+			"allergies_verified": "Y",
+			"description": "Penicillamine",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2506965"
+			},
+			"id": "00254-2000-01",
+			"item_id": "273261",
+			"modified_date": "2022-10-17",
+			"patient": {
+				"account_no": "536122",
+				"id": "536122"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"reaction_text": "(10/01/2013)",
+			"record_id": "305922.536122.2506965.273261.1",
+			"status": "Active"
+		}
+	}
+]

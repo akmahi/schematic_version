@@ -1,0 +1,843 @@
+[
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1078",
+			"encounter": {
+				"date": "2022-09-29",
+				"id": "2474676"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "536135",
+				"id": "536135"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1124004056"
+			},
+			"question": "Counseling for nutrition provided",
+			"question_id": "940",
+			"record_id": "305922.536135.2474676.940"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1078",
+			"encounter": {
+				"date": "2022-10-06",
+				"id": "2507258"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "521364",
+				"id": "13847"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1124004056"
+			},
+			"question": "Counseling for nutrition provided",
+			"question_id": "940",
+			"record_id": "305922.13847.2507258.940"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1078",
+			"encounter": {
+				"date": "2022-10-13",
+				"id": "2482639"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "524736",
+				"id": "526938"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Counseling for nutrition provided",
+			"question_id": "940",
+			"record_id": "305922.526938.2482639.940"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1078",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2398600"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "533396",
+				"id": "533396"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Counseling for nutrition provided",
+			"question_id": "940",
+			"record_id": "305922.533396.2398600.940"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1078",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2542640"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "518059",
+				"id": "13022"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1235225871"
+			},
+			"question": "Counseling for nutrition provided",
+			"question_id": "940",
+			"record_id": "305922.13022.2542640.940"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1078",
+			"encounter": {
+				"date": "2022-10-18",
+				"id": "2430125"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "533363",
+				"id": "533363"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Counseling for nutrition provided",
+			"question_id": "940",
+			"record_id": "305922.533363.2430125.940"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1078",
+			"encounter": {
+				"date": "2022-10-18",
+				"id": "2398607"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "534111",
+				"id": "534111"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Counseling for nutrition provided",
+			"question_id": "940",
+			"record_id": "305922.534111.2398607.940"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1078",
+			"encounter": {
+				"date": "2022-10-19",
+				"id": "2477419"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "533208",
+				"id": "533208"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Counseling for nutrition provided",
+			"question_id": "940",
+			"record_id": "305922.533208.2477419.940"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1078",
+			"encounter": {
+				"date": "2022-10-18",
+				"id": "2550208"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "521993",
+				"id": "14035"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1235225871"
+			},
+			"question": "Counseling for nutrition provided",
+			"question_id": "940",
+			"record_id": "305922.14035.2550208.940"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1078",
+			"encounter": {
+				"date": "2022-10-19",
+				"id": "2373080"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "512600",
+				"id": "12136"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Counseling for nutrition provided",
+			"question_id": "940",
+			"record_id": "305922.12136.2373080.940"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1078",
+			"encounter": {
+				"date": "2022-10-19",
+				"id": "2527710"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "503879",
+				"id": "11164"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1124004056"
+			},
+			"question": "Counseling for nutrition provided",
+			"question_id": "940",
+			"record_id": "305922.11164.2527710.940"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1078",
+			"encounter": {
+				"date": "2022-10-19",
+				"id": "2527907"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "515599",
+				"id": "12589"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1124004056"
+			},
+			"question": "Counseling for nutrition provided",
+			"question_id": "940",
+			"record_id": "305922.12589.2527907.940"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1078",
+			"encounter": {
+				"date": "2022-10-20",
+				"id": "2528510"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "536133",
+				"id": "536133"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1124004056"
+			},
+			"question": "Counseling for nutrition provided",
+			"question_id": "940",
+			"record_id": "305922.536133.2528510.940"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1078",
+			"encounter": {
+				"date": "2022-10-21",
+				"id": "2536566"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "539177",
+				"id": "539177"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1124004056"
+			},
+			"question": "Counseling for nutrition provided",
+			"question_id": "940",
+			"record_id": "305922.539177.2536566.940"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1078",
+			"encounter": {
+				"date": "2022-10-21",
+				"id": "2540961"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "517326",
+				"id": "529942"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1124004056"
+			},
+			"question": "Counseling for nutrition provided",
+			"question_id": "940",
+			"record_id": "305922.529942.2540961.940"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1078",
+			"encounter": {
+				"date": "2022-10-21",
+				"id": "2539951"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "534336",
+				"id": "534336"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1124004056"
+			},
+			"question": "Counseling for nutrition provided",
+			"question_id": "940",
+			"record_id": "305922.534336.2539951.940"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1079",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2398600"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "533396",
+				"id": "533396"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Counseling for physical activity provided",
+			"question_id": "941",
+			"record_id": "305922.533396.2398600.941"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1079",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2542640"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "518059",
+				"id": "13022"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1235225871"
+			},
+			"question": "Counseling for physical activity provided",
+			"question_id": "941",
+			"record_id": "305922.13022.2542640.941"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1079",
+			"encounter": {
+				"date": "2022-10-18",
+				"id": "2430125"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "533363",
+				"id": "533363"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Counseling for physical activity provided",
+			"question_id": "941",
+			"record_id": "305922.533363.2430125.941"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1079",
+			"encounter": {
+				"date": "2022-10-18",
+				"id": "2398607"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "534111",
+				"id": "534111"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Counseling for physical activity provided",
+			"question_id": "941",
+			"record_id": "305922.534111.2398607.941"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1079",
+			"encounter": {
+				"date": "2022-10-19",
+				"id": "2477419"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "533208",
+				"id": "533208"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Counseling for physical activity provided",
+			"question_id": "941",
+			"record_id": "305922.533208.2477419.941"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1079",
+			"encounter": {
+				"date": "2022-10-18",
+				"id": "2550208"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "521993",
+				"id": "14035"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1235225871"
+			},
+			"question": "Counseling for physical activity provided",
+			"question_id": "941",
+			"record_id": "305922.14035.2550208.941"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1079",
+			"encounter": {
+				"date": "2022-10-19",
+				"id": "2373080"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "512600",
+				"id": "12136"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Counseling for physical activity provided",
+			"question_id": "941",
+			"record_id": "305922.12136.2373080.941"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "Yes",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "1079",
+			"encounter": {
+				"date": "2022-10-21",
+				"id": "2540961"
+			},
+			"item_id": "298856",
+			"item_name": "Communication to patient:",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "517326",
+				"id": "529942"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1124004056"
+			},
+			"question": "Counseling for physical activity provided",
+			"question_id": "941",
+			"record_id": "305922.529942.2540961.941"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "10/17/2022",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "263",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2531144"
+			},
+			"item_id": "10664",
+			"item_name": "Smoking/Smokeless Tobacco",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "536403",
+				"id": "536403"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1396385019"
+			},
+			"question": "Patient counselled on the dangers of tobacco use and urged to quit.",
+			"question_id": "828",
+			"record_id": "305922.536403.2531144.828"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "10/18/2022",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "263",
+			"encounter": {
+				"date": "2022-10-18",
+				"id": "2535352"
+			},
+			"item_id": "10664",
+			"item_name": "Smoking/Smokeless Tobacco",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "532616",
+				"id": "532616"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1093238222"
+			},
+			"question": "Patient counselled on the dangers of tobacco use and urged to quit.",
+			"question_id": "828",
+			"record_id": "305922.532616.2535352.828"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "01/25/2021",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "263",
+			"encounter": {
+				"date": "2022-10-20",
+				"id": "2495288"
+			},
+			"item_id": "10664",
+			"item_name": "Smoking/Smokeless Tobacco",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "400853",
+				"id": "10120"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1366565202"
+			},
+			"question": "Patient counselled on the dangers of tobacco use and urged to quit.",
+			"question_id": "828",
+			"record_id": "305922.10120.2495288.828"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "10/19/2022",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "263",
+			"encounter": {
+				"date": "2022-10-19",
+				"id": "2521413"
+			},
+			"item_id": "10664",
+			"item_name": "Smoking/Smokeless Tobacco",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "538954",
+				"id": "538954"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Patient counselled on the dangers of tobacco use and urged to quit.",
+			"question_id": "828",
+			"record_id": "305922.538954.2521413.828"
+		}
+	},
+	{
+		"preventive": {
+			"answers": "08/27/2020",
+			"category_id": "10663",
+			"category_name": "Counseling",
+			"ecw_struct_id": "263",
+			"encounter": {
+				"date": "2022-10-20",
+				"id": "2515680"
+			},
+			"item_id": "10664",
+			"item_name": "Smoking/Smokeless Tobacco",
+			"main_category_id": "10643",
+			"main_category_name": "Preventive Medicine",
+			"patient": {
+				"account_no": "536010",
+				"id": "536010"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1235225871"
+			},
+			"question": "Patient counselled on the dangers of tobacco use and urged to quit.",
+			"question_id": "828",
+			"record_id": "305922.536010.2515680.828"
+		}
+	}
+]

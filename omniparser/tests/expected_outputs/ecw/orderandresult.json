@@ -1,0 +1,946 @@
+[
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-26",
+			"encounter": {
+				"id": "417689"
+			},
+			"item_id": "439557",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "0",
+			"order_date": "2022-10-26",
+			"order_description": "SARS CoV 2 RNA(COVID 19), QUALITATIVE NAAT (39448)",
+			"order_id": "69280",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10281",
+				"id": "26299"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "34964",
+				"npi": "1033133400"
+			},
+			"record_id": "24928.26299.417689.439557",
+			"result_date": "2022-10-27",
+			"result_description": "SARS CoV 2 RNA",
+			"result_modify_timestamp": "10/27/2022 5:54:02 PM",
+			"result_numeric": "NOT DETECTED",
+			"reviewed_by_id": "0"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "1901-01-01",
+			"cpt": "87426",
+			"encounter": {
+				"id": "417689"
+			},
+			"item_id": "447780",
+			"lab_company_id": "0",
+			"lab_company_name": "Inhouse Lab",
+			"lab_reviewed_flag": "0",
+			"order_date": "2022-10-26",
+			"order_description": "SOFIA FLU AB and COVID19",
+			"order_id": "69281",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10281",
+				"id": "26299"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "34964",
+				"npi": "1033133400"
+			},
+			"record_id": "24928.26299.417689.447780",
+			"reviewed_by_id": "0"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "1901-01-01",
+			"cpt": "87426",
+			"encounter": {
+				"id": "417689"
+			},
+			"item_id": "447780",
+			"lab_company_id": "0",
+			"lab_company_name": "LabCorp",
+			"lab_reviewed_flag": "0",
+			"order_date": "2022-10-26",
+			"order_description": "SOFIA FLU AB and COVID19",
+			"order_id": "69281",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10281",
+				"id": "26299"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "34964",
+				"npi": "1033133400"
+			},
+			"record_id": "24928.26299.417689.447780",
+			"reviewed_by_id": "0"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "1901-01-01",
+			"cpt": "87804",
+			"encounter": {
+				"id": "417689"
+			},
+			"item_id": "447780",
+			"lab_company_id": "0",
+			"lab_company_name": "Inhouse Lab",
+			"lab_reviewed_flag": "0",
+			"order_date": "2022-10-26",
+			"order_description": "SOFIA FLU AB and COVID19",
+			"order_id": "69281",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10281",
+				"id": "26299"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "34964",
+				"npi": "1033133400"
+			},
+			"record_id": "24928.26299.417689.447780",
+			"reviewed_by_id": "0"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "1901-01-01",
+			"cpt": "87804",
+			"encounter": {
+				"id": "417689"
+			},
+			"item_id": "447780",
+			"lab_company_id": "0",
+			"lab_company_name": "LabCorp",
+			"lab_reviewed_flag": "0",
+			"order_date": "2022-10-26",
+			"order_description": "SOFIA FLU AB and COVID19",
+			"order_id": "69281",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10281",
+				"id": "26299"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "34964",
+				"npi": "1033133400"
+			},
+			"record_id": "24928.26299.417689.447780",
+			"reviewed_by_id": "0"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "mmol/L",
+			"item_id": "425298",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "SODIUM (836)",
+			"order_id": "68973",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.425298",
+			"result_date": "2022-10-12",
+			"result_description": "SODIUM",
+			"result_modify_timestamp": "10/12/2022 4:48:01 AM",
+			"result_numeric": "131",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "Thousand/uL",
+			"item_id": "427608",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427608",
+			"result_date": "2022-10-12",
+			"result_description": "WHITE BLOOD CELL COUNT",
+			"result_modify_timestamp": "10/12/2022 4:48:01 AM",
+			"result_numeric": "6.7",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "Million/uL",
+			"item_id": "427609",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427609",
+			"result_date": "2022-10-12",
+			"result_description": "RED BLOOD CELL COUNT",
+			"result_modify_timestamp": "10/12/2022 4:48:01 AM",
+			"result_numeric": "4.44",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "g/dL",
+			"item_id": "427610",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427610",
+			"result_date": "2022-10-12",
+			"result_description": "HEMOGLOBIN",
+			"result_modify_timestamp": "10/12/2022 4:48:01 AM",
+			"result_numeric": "13.5",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "%",
+			"item_id": "427611",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427611",
+			"result_date": "2022-10-12",
+			"result_description": "HEMATOCRIT",
+			"result_modify_timestamp": "10/12/2022 4:48:01 AM",
+			"result_numeric": "38.2",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "fL",
+			"item_id": "427612",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427612",
+			"result_date": "2022-10-12",
+			"result_description": "MCV",
+			"result_modify_timestamp": "10/12/2022 4:48:01 AM",
+			"result_numeric": "86.0",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "pg",
+			"item_id": "427613",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427613",
+			"result_date": "2022-10-12",
+			"result_description": "MCH",
+			"result_modify_timestamp": "10/12/2022 4:48:01 AM",
+			"result_numeric": "30.4",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "g/dL",
+			"item_id": "427614",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427614",
+			"result_date": "2022-10-12",
+			"result_description": "MCHC",
+			"result_modify_timestamp": "10/12/2022 4:48:01 AM",
+			"result_numeric": "35.3",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "%",
+			"item_id": "427615",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427615",
+			"result_date": "2022-10-12",
+			"result_description": "RDW",
+			"result_modify_timestamp": "10/12/2022 4:48:01 AM",
+			"result_numeric": "11.9",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "Thousand/uL",
+			"item_id": "427616",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427616",
+			"result_date": "2022-10-12",
+			"result_description": "PLATELET COUNT",
+			"result_modify_timestamp": "10/12/2022 4:48:01 AM",
+			"result_numeric": "308",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "%",
+			"item_id": "427617",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427617",
+			"result_date": "2022-10-12",
+			"result_description": "NEUTROPHILS",
+			"result_modify_timestamp": "10/12/2022 4:48:02 AM",
+			"result_numeric": "51.9",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "cells/uL",
+			"item_id": "427626",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427626",
+			"result_date": "2022-10-12",
+			"result_description": "ABSOLUTE NEUTROPHILS",
+			"result_modify_timestamp": "10/12/2022 4:48:01 AM",
+			"result_numeric": "3477",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "%",
+			"item_id": "427627",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427627",
+			"result_date": "2022-10-12",
+			"result_description": "LYMPHOCYTES",
+			"result_modify_timestamp": "10/12/2022 4:48:02 AM",
+			"result_numeric": "35.9",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "cells/uL",
+			"item_id": "427629",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427629",
+			"result_date": "2022-10-12",
+			"result_description": "ABSOLUTE LYMPHOCYTES",
+			"result_modify_timestamp": "10/12/2022 4:48:01 AM",
+			"result_numeric": "2405",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "%",
+			"item_id": "427630",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427630",
+			"result_date": "2022-10-12",
+			"result_description": "MONOCYTES",
+			"result_modify_timestamp": "10/12/2022 4:48:02 AM",
+			"result_numeric": "7.6",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "cells/uL",
+			"item_id": "427631",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427631",
+			"result_date": "2022-10-12",
+			"result_description": "ABSOLUTE MONOCYTES",
+			"result_modify_timestamp": "10/12/2022 4:48:02 AM",
+			"result_numeric": "509",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "%",
+			"item_id": "427632",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427632",
+			"result_date": "2022-10-12",
+			"result_description": "EOSINOPHILS",
+			"result_modify_timestamp": "10/12/2022 4:48:02 AM",
+			"result_numeric": "3.6",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "cells/uL",
+			"item_id": "427633",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427633",
+			"result_date": "2022-10-12",
+			"result_description": "ABSOLUTE EOSINOPHILS",
+			"result_modify_timestamp": "10/12/2022 4:48:02 AM",
+			"result_numeric": "241",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "%",
+			"item_id": "427634",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427634",
+			"result_date": "2022-10-12",
+			"result_description": "BASOPHILS",
+			"result_modify_timestamp": "10/12/2022 4:48:02 AM",
+			"result_numeric": "1.0",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "cells/uL",
+			"item_id": "427635",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427635",
+			"result_date": "2022-10-12",
+			"result_description": "ABSOLUTE BASOPHILS",
+			"result_modify_timestamp": "10/12/2022 4:48:02 AM",
+			"result_numeric": "67",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-11",
+			"encounter": {
+				"id": "416166"
+			},
+			"hl_units": "fL",
+			"item_id": "427641",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-11",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "68972",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "10289",
+				"id": "26307"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.26307.416166.427641",
+			"result_date": "2022-10-12",
+			"result_description": "MPV",
+			"result_modify_timestamp": "10/12/2022 4:48:01 AM",
+			"result_numeric": "8.7",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-19",
+			"encounter": {
+				"id": "417514"
+			},
+			"hl_units": "mcg/L",
+			"item_id": "425622",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-18",
+			"order_description": "CLOZAPINE (CLOZARIL), SERUM (1769)",
+			"order_id": "69203",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "11238",
+				"id": "27250"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.27250.417514.425622",
+			"result_date": "2022-10-22",
+			"result_description": "CLOZAPINE",
+			"result_modify_timestamp": "10/22/2022 11:07:02 PM",
+			"result_numeric": "426",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-19",
+			"encounter": {
+				"id": "417514"
+			},
+			"hl_units": "mcg/L",
+			"item_id": "425623",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-18",
+			"order_description": "CLOZAPINE (CLOZARIL), SERUM (1769)",
+			"order_id": "69203",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "11238",
+				"id": "27250"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.27250.417514.425623",
+			"result_date": "2022-10-22",
+			"result_description": "NORCLOZAPINE",
+			"result_modify_timestamp": "10/22/2022 11:07:02 PM",
+			"result_numeric": "163",
+			"reviewed_by_id": "9161"
+		}
+	},
+	{
+		"order_and_result": {
+			"collection_date": "2022-10-19",
+			"encounter": {
+				"id": "417514"
+			},
+			"hl_units": "Thousand/uL",
+			"item_id": "427608",
+			"lab_company_id": "5",
+			"lab_reviewed_flag": "1",
+			"order_date": "2022-10-18",
+			"order_description": "CBC (INCLUDES DIFF/PLT) (6399)",
+			"order_id": "69090",
+			"order_type": "Lab",
+			"patient": {
+				"account_no": "11238",
+				"id": "27250"
+			},
+			"practice": {
+				"apuid": "24928"
+			},
+			"provider": {
+				"id": "38345",
+				"npi": "1508122508"
+			},
+			"record_id": "24928.27250.417514.427608",
+			"result_date": "2022-10-22",
+			"result_description": "WHITE BLOOD CELL COUNT",
+			"result_modify_timestamp": "10/22/2022 11:07:02 PM",
+			"result_numeric": "6.6",
+			"reviewed_by_id": "9161"
+		}
+	}
+]

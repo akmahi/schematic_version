@@ -1,0 +1,814 @@
+[
+	{
+		"procedure": {
+			"answers": "09/20/2016",
+			"category_id": "311225",
+			"category_name": "Developmental screen",
+			"encounter": {
+				"date": "2022-02-03",
+				"id": "436659"
+			},
+			"item_id": "311226",
+			"item_name": "PEDS response form",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "11195",
+				"id": "11195"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1033655741"
+			},
+			"question": "PEDS Response form completed",
+			"question_id": "4030",
+			"record_id": "30271.11195.436659.4030"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child enjoy being swung, bounced on your knee, etc?",
+			"question_id": "4003",
+			"record_id": "30271.20723.341226.4003"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child take an interest in other children?",
+			"question_id": "4004",
+			"record_id": "30271.20723.341226.4004"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child like climbing on things, such as up stairs?",
+			"question_id": "4005",
+			"record_id": "30271.20723.341226.4005"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child enjoy playing peek-a-boo/hide-and-seek?",
+			"question_id": "4006",
+			"record_id": "30271.20723.341226.4006"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child ever pretend, for example, to talk on the phone or take care of a doll or pretend other things?",
+			"question_id": "4007",
+			"record_id": "30271.20723.341226.4007"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child ever use his/her index finger to point, to ask for something?",
+			"question_id": "4008",
+			"record_id": "30271.20723.341226.4008"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child ever use his/her index finger to point, to indicate interest in something?",
+			"question_id": "4009",
+			"record_id": "30271.20723.341226.4009"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Can your child play properly with small toys without just mouthing, fiddling, or dropping them?",
+			"question_id": "4010",
+			"record_id": "30271.20723.341226.4010"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child ever bring objects over to you to show you something?",
+			"question_id": "4011",
+			"record_id": "30271.20723.341226.4011"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child look you in the eye for more than a second or two?",
+			"question_id": "4012",
+			"record_id": "30271.20723.341226.4012"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child ever seem oversensitive to noise?",
+			"question_id": "4013",
+			"record_id": "30271.20723.341226.4013"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child smile in response to your face or your smile?",
+			"question_id": "4014",
+			"record_id": "30271.20723.341226.4014"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child imitate you?",
+			"question_id": "4015",
+			"record_id": "30271.20723.341226.4015"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child respond to his/her name when you call",
+			"question_id": "4016",
+			"record_id": "30271.20723.341226.4016"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "If you point to a toy across the room, does your child look at it?",
+			"question_id": "4017",
+			"record_id": "30271.20723.341226.4017"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child walk?",
+			"question_id": "4018",
+			"record_id": "30271.20723.341226.4018"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child look at things you are looking at",
+			"question_id": "4019",
+			"record_id": "30271.20723.341226.4019"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "No",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child make unusual finger movements near his/her face?",
+			"question_id": "4020",
+			"record_id": "30271.20723.341226.4020"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child try to attract your attention to his/her own activity",
+			"question_id": "4021",
+			"record_id": "30271.20723.341226.4021"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "No",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Have your ever wondered if your child is deaf?",
+			"question_id": "4022",
+			"record_id": "30271.20723.341226.4022"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child understand what people say?",
+			"question_id": "4023",
+			"record_id": "30271.20723.341226.4023"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "No",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child sometimes stare at nothing or wander with no purpose?",
+			"question_id": "4024",
+			"record_id": "30271.20723.341226.4024"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-02-23",
+				"id": "341226"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "20723",
+				"id": "20723"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1285693960"
+			},
+			"question": "Does your child look at your face to check your reaction when faced with something unfamiliar?",
+			"question_id": "4025",
+			"record_id": "30271.20723.341226.4025"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "07/20/2021",
+			"category_id": "311225",
+			"category_name": "Developmental screen",
+			"encounter": {
+				"date": "2021-07-20",
+				"id": "366950"
+			},
+			"item_id": "311226",
+			"item_name": "PEDS response form",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "19530",
+				"id": "19530"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1801238258"
+			},
+			"question": "PEDS Response form completed",
+			"question_id": "4030",
+			"record_id": "30271.19530.366950.4030"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-07-20",
+				"id": "366950"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "19530",
+				"id": "19530"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1801238258"
+			},
+			"question": "Does your child enjoy being swung, bounced on your knee, etc?",
+			"question_id": "4003",
+			"record_id": "30271.19530.366950.4003"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-07-20",
+				"id": "366950"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "19530",
+				"id": "19530"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1801238258"
+			},
+			"question": "Does your child take an interest in other children?",
+			"question_id": "4004",
+			"record_id": "30271.19530.366950.4004"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-07-20",
+				"id": "366950"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "19530",
+				"id": "19530"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1801238258"
+			},
+			"question": "Does your child like climbing on things, such as up stairs?",
+			"question_id": "4005",
+			"record_id": "30271.19530.366950.4005"
+		}
+	},
+	{
+		"procedure": {
+			"answers": "Yes",
+			"category_id": "311223",
+			"category_name": "M-CHAT",
+			"encounter": {
+				"date": "2021-07-20",
+				"id": "366950"
+			},
+			"item_id": "311224",
+			"item_name": "M-CHAT questionaire",
+			"main_category_id": "170670",
+			"main_category_name": "Procedure",
+			"patient": {
+				"account_num": "19530",
+				"id": "19530"
+			},
+			"practice": {
+				"apuid": "30271"
+			},
+			"provider": {
+				"npi": "1801238258"
+			},
+			"question": "Does your child enjoy playing peek-a-boo/hide-and-seek?",
+			"question_id": "4006",
+			"record_id": "30271.19530.366950.4006"
+		}
+	}
+]

@@ -1,0 +1,26 @@
+[tool.semantic_release]
+version_variable = "pyproject.toml:version"
+upload_to_release = false
+branch = "main"
+
+[tool.poetry]
+name = "omniparser"
+version = "0.1.0"
+description = "A python wrapper for omniparser"
+authors = ["Suresh Nakkeran"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+pyyaml = "6.0"
+smart-open = {version = "6.0.0", extras = ["all"]}
+semantic-release = "^0.1.0"
+
+
+[tool.poetry.group.test.dependencies]
+pytest = "^7.2.2"
+mypy = "^1.1.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,694 @@
+[
+	{
+		"vital": {
+			"captured_by": "9223",
+			"encounter": {
+				"id": "2459365"
+			},
+			"item_id": "215",
+			"modified_date": "2022-10-17",
+			"name": "Ht",
+			"patient": {
+				"account_no": "545690",
+				"id": "545690"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1659584084"
+			},
+			"record_id": "305922.545690.2459365.215",
+			"standard_vital": "Ht",
+			"value": "70'"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "9223",
+			"encounter": {
+				"id": "2459365"
+			},
+			"item_id": "199654",
+			"modified_date": "2022-10-17",
+			"name": "Pain scale",
+			"patient": {
+				"account_no": "545690",
+				"id": "545690"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1659584084"
+			},
+			"record_id": "305922.545690.2459365.199654",
+			"value": "0"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "542026",
+			"encounter": {
+				"id": "2546997"
+			},
+			"item_id": "211",
+			"modified_date": "2022-10-17",
+			"name": "Temp",
+			"patient": {
+				"account_no": "516952",
+				"id": "12828"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1467551002"
+			},
+			"record_id": "305922.12828.2546997.211",
+			"standard_vital": "Temp",
+			"value": "98.4"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "542026",
+			"encounter": {
+				"id": "2546997"
+			},
+			"item_id": "212",
+			"modified_date": "2022-10-17",
+			"name": "BP",
+			"patient": {
+				"account_no": "516952",
+				"id": "12828"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1467551002"
+			},
+			"record_id": "305922.12828.2546997.212",
+			"standard_vital": "BP",
+			"value": "118/68"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "542026",
+			"encounter": {
+				"id": "2546997"
+			},
+			"item_id": "213",
+			"modified_date": "2022-10-17",
+			"name": "HR",
+			"patient": {
+				"account_no": "516952",
+				"id": "12828"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1467551002"
+			},
+			"record_id": "305922.12828.2546997.213",
+			"value": "68"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "542026",
+			"encounter": {
+				"id": "2546997"
+			},
+			"item_id": "214",
+			"modified_date": "2022-10-17",
+			"name": "RR",
+			"patient": {
+				"account_no": "516952",
+				"id": "12828"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1467551002"
+			},
+			"record_id": "305922.12828.2546997.214",
+			"standard_vital": "RR",
+			"value": "16"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "542026",
+			"encounter": {
+				"id": "2546997"
+			},
+			"item_id": "216",
+			"modified_date": "2022-10-17",
+			"name": "Wt",
+			"patient": {
+				"account_no": "516952",
+				"id": "12828"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1467551002"
+			},
+			"record_id": "305922.12828.2546997.216",
+			"standard_vital": "Wt",
+			"value": "125"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "9223",
+			"encounter": {
+				"id": "2525555"
+			},
+			"item_id": "215",
+			"modified_date": "2022-10-12",
+			"name": "Ht",
+			"patient": {
+				"account_no": "531654",
+				"id": "531654"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1417179151"
+			},
+			"record_id": "305922.531654.2525555.215",
+			"standard_vital": "Ht",
+			"value": "68.4"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "9223",
+			"encounter": {
+				"id": "2525555"
+			},
+			"item_id": "199654",
+			"modified_date": "2022-10-12",
+			"name": "Pain scale",
+			"patient": {
+				"account_no": "531654",
+				"id": "531654"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1417179151"
+			},
+			"record_id": "305922.531654.2525555.199654",
+			"value": "0"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "529704",
+			"encounter": {
+				"id": "2531215"
+			},
+			"item_id": "211",
+			"modified_date": "2022-10-17",
+			"name": "Temp",
+			"patient": {
+				"account_no": "102088",
+				"id": "15774"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.15774.2531215.211",
+			"standard_vital": "Temp",
+			"value": "97.2"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "529704",
+			"encounter": {
+				"id": "2531215"
+			},
+			"item_id": "212",
+			"modified_date": "2022-10-17",
+			"name": "BP",
+			"patient": {
+				"account_no": "102088",
+				"id": "15774"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.15774.2531215.212",
+			"standard_vital": "BP",
+			"value": "118/76"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "529704",
+			"encounter": {
+				"id": "2531215"
+			},
+			"item_id": "214",
+			"modified_date": "2022-10-17",
+			"name": "RR",
+			"patient": {
+				"account_no": "102088",
+				"id": "15774"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.15774.2531215.214",
+			"standard_vital": "RR",
+			"value": "17"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "529704",
+			"encounter": {
+				"id": "2531215"
+			},
+			"item_id": "215",
+			"modified_date": "2022-10-17",
+			"name": "Ht",
+			"patient": {
+				"account_no": "102088",
+				"id": "15774"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.15774.2531215.215",
+			"standard_vital": "Ht",
+			"value": "50'"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "529704",
+			"encounter": {
+				"id": "2531215"
+			},
+			"item_id": "216",
+			"modified_date": "2022-10-17",
+			"name": "Wt",
+			"patient": {
+				"account_no": "102088",
+				"id": "15774"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.15774.2531215.216",
+			"standard_vital": "Wt",
+			"value": "72.6"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "529704",
+			"encounter": {
+				"id": "2531215"
+			},
+			"item_id": "170669",
+			"modified_date": "2022-10-17",
+			"name": "BMI",
+			"patient": {
+				"account_no": "102088",
+				"id": "15774"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.15774.2531215.170669",
+			"standard_vital": "BMI",
+			"value": "20.42"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "529704",
+			"encounter": {
+				"id": "2531215"
+			},
+			"item_id": "194603",
+			"modified_date": "2022-10-17",
+			"name": "Oxygen sat %",
+			"patient": {
+				"account_no": "102088",
+				"id": "15774"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.15774.2531215.194603",
+			"value": "98"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "529704",
+			"encounter": {
+				"id": "2531215"
+			},
+			"item_id": "195876",
+			"modified_date": "2022-10-17",
+			"name": "Pulse sitting",
+			"patient": {
+				"account_no": "102088",
+				"id": "15774"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.15774.2531215.195876",
+			"standard_vital": "PL",
+			"value": "70"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "539166",
+			"encounter": {
+				"id": "2533754"
+			},
+			"item_id": "215",
+			"modified_date": "2022-10-17",
+			"name": "Ht",
+			"patient": {
+				"account_no": "520912",
+				"id": "13711"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.13711.2533754.215",
+			"standard_vital": "Ht",
+			"value": "70 in"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "539166",
+			"encounter": {
+				"id": "2533754"
+			},
+			"item_id": "216",
+			"modified_date": "2022-10-17",
+			"name": "Wt",
+			"patient": {
+				"account_no": "520912",
+				"id": "13711"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.13711.2533754.216",
+			"standard_vital": "Wt",
+			"value": "297"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "539166",
+			"encounter": {
+				"id": "2533754"
+			},
+			"item_id": "170669",
+			"modified_date": "2022-10-17",
+			"name": "BMI",
+			"patient": {
+				"account_no": "520912",
+				"id": "13711"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.13711.2533754.170669",
+			"standard_vital": "BMI",
+			"value": "42.61"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "539166",
+			"encounter": {
+				"id": "2534007"
+			},
+			"item_id": "215",
+			"modified_date": "2022-10-17",
+			"name": "Ht",
+			"patient": {
+				"account_no": "505284",
+				"id": "11212"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.11212.2534007.215",
+			"standard_vital": "Ht",
+			"value": "65"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "539166",
+			"encounter": {
+				"id": "2534007"
+			},
+			"item_id": "216",
+			"modified_date": "2022-10-17",
+			"name": "Wt",
+			"patient": {
+				"account_no": "505284",
+				"id": "11212"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.11212.2534007.216",
+			"standard_vital": "Wt",
+			"value": "175"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "539166",
+			"encounter": {
+				"id": "2534007"
+			},
+			"item_id": "170669",
+			"modified_date": "2022-10-17",
+			"name": "BMI",
+			"patient": {
+				"account_no": "505284",
+				"id": "11212"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.11212.2534007.170669",
+			"standard_vital": "BMI",
+			"value": "29.12"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "539166",
+			"encounter": {
+				"id": "2526658"
+			},
+			"item_id": "215",
+			"modified_date": "2022-10-17",
+			"name": "Ht",
+			"patient": {
+				"account_no": "534136",
+				"id": "534136"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.534136.2526658.215",
+			"standard_vital": "Ht",
+			"value": "65'"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "539166",
+			"encounter": {
+				"id": "2526658"
+			},
+			"item_id": "216",
+			"modified_date": "2022-10-17",
+			"name": "Wt",
+			"patient": {
+				"account_no": "534136",
+				"id": "534136"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.534136.2526658.216",
+			"standard_vital": "Wt",
+			"value": "217.8"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "539166",
+			"encounter": {
+				"id": "2526658"
+			},
+			"item_id": "170669",
+			"modified_date": "2022-10-17",
+			"name": "BMI",
+			"patient": {
+				"account_no": "534136",
+				"id": "534136"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.534136.2526658.170669",
+			"standard_vital": "BMI",
+			"value": "36.24"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "539166",
+			"encounter": {
+				"id": "2529855"
+			},
+			"item_id": "215",
+			"modified_date": "2022-10-17",
+			"name": "Ht",
+			"patient": {
+				"account_no": "510541",
+				"id": "11878"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.11878.2529855.215",
+			"standard_vital": "Ht",
+			"value": "66.5"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "539166",
+			"encounter": {
+				"id": "2529855"
+			},
+			"item_id": "216",
+			"modified_date": "2022-10-17",
+			"name": "Wt",
+			"patient": {
+				"account_no": "510541",
+				"id": "11878"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.11878.2529855.216",
+			"standard_vital": "Wt",
+			"value": "203"
+		}
+	},
+	{
+		"vital": {
+			"captured_by": "539166",
+			"encounter": {
+				"id": "2529855"
+			},
+			"item_id": "170669",
+			"modified_date": "2022-10-17",
+			"name": "BMI",
+			"patient": {
+				"account_no": "510541",
+				"id": "11878"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"record_id": "305922.11878.2529855.170669",
+			"standard_vital": "BMI",
+			"value": "32.27"
+		}
+	}
+]

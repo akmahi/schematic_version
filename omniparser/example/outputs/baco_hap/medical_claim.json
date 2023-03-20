@@ -1,0 +1,163 @@
+[
+	{
+		"claim": {
+			"id": "107274487100",
+			"line_amount_paid": "0000000000000000.00",
+			"line_coinsurance_amount": "0000000000000000.00",
+			"line_copay_amount": "0000000000000000.00",
+			"line_deduct_amount": "0000000000000000.00",
+			"line_number": "002",
+			"line_place_of_service": "11",
+			"line_primary_diagnosis_code": "J0140",
+			"line_service_end_date": "20221019",
+			"line_service_start_date": "20221019",
+			"line_total_charges": "0000000000000000.00",
+			"line_type_of_service": "U314",
+			"patient": {
+				"address": {
+					"zip": "48183"
+				},
+				"dob": "19980808",
+				"first_name": "Test1",
+				"gender": "F",
+				"last_name": "FORTIN",
+				"relationship_code": "D",
+				"subscriber_id": "100621931"
+			},
+			"service_end_date": "20221019",
+			"service_start_date": "20221019",
+			"total_amount": "0000000000000139.00",
+			"type": "M"
+		}
+	},
+	{
+		"claim": {
+			"id": "107274487100",
+			"line_amount_paid": "0000000000000000.00",
+			"line_coinsurance_amount": "0000000000000000.00",
+			"line_copay_amount": "0000000000000000.00",
+			"line_deduct_amount": "0000000000000000.00",
+			"line_number": "001",
+			"line_place_of_service": "11",
+			"line_primary_diagnosis_code": "J0140",
+			"line_service_end_date": "20221019",
+			"line_service_start_date": "20221019",
+			"line_total_charges": "0000000000000139.00",
+			"line_type_of_service": "G224",
+			"patient": {
+				"address": {
+					"zip": "48183"
+				},
+				"dob": "19980808",
+				"first_name": "Test1",
+				"gender": "F",
+				"last_name": "FORTIN",
+				"relationship_code": "D",
+				"subscriber_id": "100621931"
+			},
+			"service_end_date": "20221019",
+			"service_start_date": "20221019",
+			"total_amount": "0000000000000139.00",
+			"type": "M"
+		}
+	},
+	{
+		"claim": {
+			"id": "107273780600",
+			"line_amount_paid": "0000000000000003.98",
+			"line_coinsurance_amount": "0000000000000000.0",
+			"line_copay_amount": "0000000000000000.00",
+			"line_deduct_amount": "0000000000000000.00",
+			"line_diagnosis_code_1": "Z6824",
+			"line_diagnosis_code_2": "R059",
+			"line_diagnosis_code_3": "M940",
+			"line_number": "003",
+			"line_place_of_service": "11",
+			"line_primary_diagnosis_code": "R490",
+			"line_service_end_date": "20221018",
+			"line_service_start_date": "20221018",
+			"line_total_charges": "0000000000000006.00",
+			"line_type_of_service": "K133",
+			"patient": {
+				"address": {
+					"zip": "48180"
+				},
+				"dob": "20030922",
+				"first_name": "Test12",
+				"gender": "F",
+				"last_name": "GADWELL",
+				"relationship_code": "D",
+				"subscriber_id": "100031148"
+			},
+			"service_end_date": "20221018",
+			"service_start_date": "20221018",
+			"total_amount": "0000000000000206.00",
+			"type": "M"
+		}
+	},
+	{
+		"claim": {
+			"id": "107273031600",
+			"line_amount_paid": "0000000000000024.37",
+			"line_coinsurance_amount": "0000000000000000.00",
+			"line_copay_amount": "0000000000000000.00",
+			"line_deduct_amount": "0000000000000000.00",
+			"line_number": "001",
+			"line_place_of_service": "11",
+			"line_primary_diagnosis_code": "Z20828",
+			"line_service_end_date": "20220920",
+			"line_service_start_date": "20220920",
+			"line_total_charges": "0000000000000024.37",
+			"line_type_of_service": "INV",
+			"patient": {
+				"address": {
+					"zip": "48235"
+				},
+				"dob": "19990215",
+				"first_name": "Test",
+				"gender": "M",
+				"last_name": "LYNCH",
+				"relationship_code": "S",
+				"subscriber_id": "100182012"
+			},
+			"service_end_date": "20220920",
+			"service_start_date": "20220920",
+			"total_amount": "0000000000000024.37",
+			"type": "M"
+		}
+	},
+	{
+		"claim": {
+			"id": "107281522300",
+			"line_amount_paid": "0000000000000015.00",
+			"line_coinsurance_amount": "0000000000000000.0",
+			"line_copay_amount": "0000000000000000.00",
+			"line_deduct_amount": "0000000000000000.00",
+			"line_diagnosis_code_1": "R262",
+			"line_diagnosis_code_2": "Z471",
+			"line_diagnosis_code_3": "Z96642",
+			"line_number": "002",
+			"line_place_of_service": "11",
+			"line_primary_diagnosis_code": "M25552",
+			"line_service_end_date": "20221024",
+			"line_service_start_date": "20221024",
+			"line_total_charges": "0000000000000105.00",
+			"line_type_of_service": "P1C1",
+			"patient": {
+				"address": {
+					"zip": "48166"
+				},
+				"dob": "19610624",
+				"first_name": "Test121",
+				"gender": "M",
+				"last_name": "PATTISON",
+				"relationship_code": "M",
+				"subscriber_id": "100147023"
+			},
+			"service_end_date": "20221024",
+			"service_start_date": "20221024",
+			"total_amount": "0000000000000475.00",
+			"type": "M"
+		}
+	}
+]

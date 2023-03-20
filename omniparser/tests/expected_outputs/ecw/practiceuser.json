@@ -1,0 +1,534 @@
+[
+	{
+		"practice_user": {
+			"date_of_birth": "0000-00-00",
+			"facility": {
+				"id": "37"
+			},
+			"first_name": "Subbarao",
+			"gender": "male",
+			"id": "532687",
+			"last_name": "Bhimani",
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.532687",
+			"speciality": "Neurology",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"facility": {
+				"id": "12"
+			},
+			"first_name": "Eva",
+			"gender": "female",
+			"id": "550632",
+			"last_name": "Dziergowska",
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.550632",
+			"speciality": "Psychiatry",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"date_of_birth": "0000-00-00",
+			"facility": {
+				"id": "37"
+			},
+			"first_name": "Eileen",
+			"gender": "Female",
+			"id": "532700",
+			"last_name": "Flynn-Richards",
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.532700",
+			"speciality": "Psychiatry",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"facility": {
+				"id": "0"
+			},
+			"first_name": "Alexus",
+			"gender": "Female",
+			"id": "552322",
+			"last_name": "Haddad",
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.552322",
+			"speciality": "Physician Assistant",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"date_of_birth": "0000-00-00",
+			"facility": {
+				"id": "37"
+			},
+			"first_name": "Raymond",
+			"gender": "male",
+			"id": "532714",
+			"last_name": "Hanson",
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.532714",
+			"speciality": "Physical Therapist",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"date_of_birth": "0000-00-00",
+			"facility": {
+				"id": "37"
+			},
+			"first_name": "Kevin",
+			"gender": "male",
+			"id": "532704",
+			"last_name": "Kearney",
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.532704",
+			"speciality": "Psychology",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"date_of_birth": "0000-00-00",
+			"facility": {
+				"id": "26"
+			},
+			"first_name": "Andrea",
+			"gender": "Not Selected",
+			"id": "543041",
+			"last_name": "Martinez Villalobos",
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.543041",
+			"speciality": "Physician Assistant",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"facility": {
+				"id": "26"
+			},
+			"first_name": "Anthonia",
+			"gender": "Female",
+			"id": "550639",
+			"last_name": "Onyemem",
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.550639",
+			"speciality": "Nurse Practitioner",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"facility": {
+				"id": "25"
+			},
+			"first_name": "Christina",
+			"gender": "Female",
+			"id": "552172",
+			"last_name": "Riolo",
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.552172",
+			"speciality": "Speech Therapy",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"facility": {
+				"id": "0"
+			},
+			"first_name": "Ann Marie",
+			"gender": "Not Selected",
+			"id": "552388",
+			"last_name": "Spinella",
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.552388",
+			"speciality": "Psychiatry",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"date_of_birth": "0000-00-00",
+			"facility": {
+				"id": "37"
+			},
+			"first_name": "Andrea",
+			"gender": "female",
+			"id": "532692",
+			"last_name": "Stengel",
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.532692",
+			"speciality": "Psychiatry",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"date_of_birth": "0000-00-00",
+			"facility": {
+				"id": "0"
+			},
+			"first_name": "Debra",
+			"id": "532817",
+			"last_name": "DiGiannurio",
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.532817",
+			"status": "Active",
+			"type": "Staff"
+		}
+	},
+	{
+		"practice_user": {
+			"date_of_birth": "1991-04-20",
+			"facility": {
+				"id": "0"
+			},
+			"first_name": "Alexander",
+			"gender": "male",
+			"id": "38696",
+			"last_name": "Dorrough",
+			"practice": {
+				"apuid": "24928"
+			},
+			"record_id": "24928.38696",
+			"speciality": "Dental General Practice",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"date_of_birth": "1967-08-26",
+			"facility": {
+				"id": "6"
+			},
+			"first_name": "Lori Ann",
+			"gender": "female",
+			"id": "38698",
+			"last_name": "Duke",
+			"practice": {
+				"apuid": "24928"
+			},
+			"record_id": "24928.38698",
+			"speciality": "Clinical social worker",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"facility": {
+				"id": "3"
+			},
+			"first_name": "Christopher",
+			"gender": "Male",
+			"id": "24424",
+			"last_name": "Montanaro DC NP",
+			"practice": {
+				"apuid": "306945"
+			},
+			"record_id": "306945.24424",
+			"speciality": "Family Medicine",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"facility": {
+				"id": "0"
+			},
+			"first_name": "Inna",
+			"gender": "Female",
+			"id": "34183",
+			"last_name": "Salisbury NP",
+			"practice": {
+				"apuid": "306945"
+			},
+			"record_id": "306945.34183",
+			"speciality": "Family Medicine",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"facility": {
+				"id": "3"
+			},
+			"first_name": "Ashley",
+			"gender": "Not Selected",
+			"id": "34186",
+			"last_name": "Williams",
+			"practice": {
+				"apuid": "306945"
+			},
+			"record_id": "306945.34186",
+			"speciality": "Mental health counselor",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"facility": {
+				"id": "0"
+			},
+			"first_name": "Ajay",
+			"gender": "Male",
+			"id": "6174142",
+			"last_name": "Jain",
+			"practice": {
+				"apuid": "5515"
+			},
+			"record_id": "5515.6174142",
+			"speciality": "Internal Medicine",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"facility": {
+				"id": "49"
+			},
+			"first_name": "Laurie",
+			"gender": "Female",
+			"id": "6151058",
+			"last_name": "Hutchins",
+			"practice": {
+				"apuid": "5515"
+			},
+			"record_id": "5515.6151058",
+			"speciality": "Nurse Practitioner",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"date_of_birth": "1952-03-02",
+			"facility": {
+				"id": "49"
+			},
+			"first_name": "Mymie",
+			"gender": "Female",
+			"id": "6050004",
+			"last_name": "Clinton",
+			"practice": {
+				"apuid": "5515"
+			},
+			"record_id": "5515.6050004",
+			"speciality": "Nurse Practitioner",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"facility": {
+				"id": "0"
+			},
+			"first_name": "Lorene",
+			"gender": "Female",
+			"id": "6133089",
+			"last_name": "Davis",
+			"practice": {
+				"apuid": "5515"
+			},
+			"record_id": "5515.6133089",
+			"speciality": "Nurse Practitioner",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"date_of_birth": "1956-03-25",
+			"facility": {
+				"id": "49"
+			},
+			"first_name": "Michael",
+			"gender": "Male",
+			"id": "6171796",
+			"last_name": "Austin",
+			"practice": {
+				"apuid": "5515"
+			},
+			"record_id": "5515.6171796",
+			"speciality": "Internal Medicine",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"facility": {
+				"id": "49"
+			},
+			"first_name": "Jenny",
+			"gender": "Female",
+			"id": "6184573",
+			"last_name": "Nunez",
+			"practice": {
+				"apuid": "5515"
+			},
+			"record_id": "5515.6184573",
+			"speciality": "Dental General Practice",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"facility": {
+				"id": "49"
+			},
+			"first_name": "Joseph",
+			"gender": "Male",
+			"id": "6050002",
+			"last_name": "Clifton",
+			"practice": {
+				"apuid": "5515"
+			},
+			"record_id": "5515.6050002",
+			"speciality": "Licensed Clinical Social Worker",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"facility": {
+				"id": "49"
+			},
+			"first_name": "Claudio",
+			"gender": "Male",
+			"id": "6132597",
+			"last_name": "Machado",
+			"practice": {
+				"apuid": "5515"
+			},
+			"record_id": "5515.6132597",
+			"speciality": "Pediatrics",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"facility": {
+				"id": "49"
+			},
+			"first_name": "Mark",
+			"gender": "Male",
+			"id": "6158324",
+			"last_name": "Haddock",
+			"practice": {
+				"apuid": "5515"
+			},
+			"record_id": "5515.6158324",
+			"speciality": "Chiropractor",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"date_of_birth": "1984-01-29",
+			"facility": {
+				"id": "49"
+			},
+			"first_name": "Loretta",
+			"gender": "Female",
+			"id": "6161881",
+			"last_name": "Church",
+			"practice": {
+				"apuid": "5515"
+			},
+			"record_id": "5515.6161881",
+			"speciality": "Physician Assistant",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"facility": {
+				"id": "49"
+			},
+			"first_name": "Pamela",
+			"gender": "Female",
+			"id": "6172052",
+			"last_name": "Sheldon",
+			"practice": {
+				"apuid": "5515"
+			},
+			"record_id": "5515.6172052",
+			"speciality": "Licensed Clinical Social Worker",
+			"status": "Active",
+			"type": "Provider"
+		}
+	},
+	{
+		"practice_user": {
+			"facility": {
+				"id": "49"
+			},
+			"first_name": "Paul",
+			"gender": "Male",
+			"id": "6173287",
+			"last_name": "Dorsett",
+			"practice": {
+				"apuid": "5515"
+			},
+			"record_id": "5515.6173287",
+			"speciality": "Physician Assistant",
+			"status": "Active",
+			"type": "Provider"
+		}
+	}
+]

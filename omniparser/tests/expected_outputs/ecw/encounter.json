@@ -1,0 +1,774 @@
+[
+	{
+		"encounter": {
+			"date": "2015-04-20",
+			"end_time": "08:30:00",
+			"facility": {
+				"id": "33"
+			},
+			"id": "678578",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "534105",
+				"id": "534105"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532719",
+				"npi": "1841223997"
+			},
+			"record_id": "305922.534105.678578",
+			"start_time": "08:15:00",
+			"status": "CHK",
+			"visit_type": "F/UP"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2014-06-10",
+			"end_time": "11:30:00",
+			"facility": {
+				"id": "25"
+			},
+			"id": "705342",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "506355",
+				"id": "11360"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532681",
+				"npi": "1194808725"
+			},
+			"record_id": "305922.11360.705342",
+			"start_time": "11:00:00",
+			"status": "CHK",
+			"visit_type": "A16ON/Hab"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2015-02-24",
+			"end_time": "09:30:00",
+			"facility": {
+				"id": "25"
+			},
+			"id": "705261",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "533222",
+				"id": "533222"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532678",
+				"npi": "1205940038"
+			},
+			"record_id": "305922.533222.705261",
+			"start_time": "09:00:00",
+			"status": "CHK",
+			"visit_type": "A16ON/Hab"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2011-12-02",
+			"end_time": "12:30:00",
+			"facility": {
+				"id": "26"
+			},
+			"id": "705365",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "535266",
+				"id": "535266"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532722",
+				"npi": "1629117296"
+			},
+			"record_id": "305922.535266.705365",
+			"start_time": "11:30:00",
+			"status": "CHK",
+			"visit_type": "PT Therapy"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2015-11-16",
+			"end_time": "10:30:00",
+			"facility": {
+				"id": "25"
+			},
+			"id": "705258",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "533015",
+				"id": "533015"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532849"
+			},
+			"record_id": "305922.533015.705258",
+			"start_time": "10:00:00",
+			"status": "CHK",
+			"visit_type": "A16ON/Hab"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2014-10-22",
+			"end_time": "12:00:00",
+			"facility": {
+				"id": "26"
+			},
+			"id": "705260",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "533151",
+				"id": "533151"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532669",
+				"npi": "1417179151"
+			},
+			"record_id": "305922.533151.705260",
+			"start_time": "11:30:00",
+			"status": "CHK",
+			"visit_type": "Dt F/U"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2010-10-27",
+			"end_time": "12:00:00",
+			"facility": {
+				"id": "26"
+			},
+			"id": "705262",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "533796",
+				"id": "533796"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532849"
+			},
+			"record_id": "305922.533796.705262",
+			"start_time": "11:30:00",
+			"status": "CHK",
+			"visit_type": "SpeechEval"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2015-02-25",
+			"end_time": "13:45:00",
+			"facility": {
+				"id": "26"
+			},
+			"id": "705266",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "534115",
+				"id": "534115"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532719",
+				"npi": "1841223997"
+			},
+			"record_id": "305922.534115.705266",
+			"start_time": "13:00:00",
+			"status": "CHK",
+			"visit_type": "CPE"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2014-01-24",
+			"end_time": "08:45:00",
+			"facility": {
+				"id": "33"
+			},
+			"id": "705275",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "531775",
+				"id": "531775"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532849"
+			},
+			"record_id": "305922.531775.705275",
+			"start_time": "08:30:00",
+			"status": "CHK",
+			"visit_type": "F/UP"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2011-10-06",
+			"end_time": "09:30:00",
+			"facility": {
+				"id": "26"
+			},
+			"id": "705281",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "103296",
+				"id": "9609"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532703",
+				"npi": "1225022072"
+			},
+			"record_id": "305922.9609.705281",
+			"start_time": "09:15:00",
+			"status": "CHK",
+			"visit_type": "Counsel45"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2013-09-19",
+			"end_time": "09:30:00",
+			"facility": {
+				"id": "26"
+			},
+			"id": "705273",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "533118",
+				"id": "533118"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532703",
+				"npi": "1225022072"
+			},
+			"record_id": "305922.533118.705273",
+			"start_time": "09:15:00",
+			"status": "CHK",
+			"visit_type": "Counsel45"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2015-04-13",
+			"end_time": "16:00:00",
+			"facility": {
+				"id": "26"
+			},
+			"id": "705276",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "533380",
+				"id": "533380"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532702",
+				"npi": "1467551002"
+			},
+			"record_id": "305922.533380.705276",
+			"start_time": "15:45:00",
+			"status": "CHK",
+			"visit_type": "Counsel45"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2015-03-27",
+			"end_time": "10:30:00",
+			"facility": {
+				"id": "25"
+			},
+			"id": "705280",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "533303",
+				"id": "533303"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532726",
+				"npi": "1437290483"
+			},
+			"record_id": "305922.533303.705280",
+			"start_time": "10:00:00",
+			"status": "CHK",
+			"visit_type": "A16ON/Hab"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2014-05-14",
+			"end_time": "09:00:00",
+			"facility": {
+				"id": "26"
+			},
+			"id": "705278",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "532939",
+				"id": "532939"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532849"
+			},
+			"record_id": "305922.532939.705278",
+			"start_time": "08:45:00",
+			"status": "CHK",
+			"visit_type": "F/UP"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2012-06-19",
+			"end_time": "13:00:00",
+			"facility": {
+				"id": "26"
+			},
+			"id": "705279",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "506799",
+				"id": "11430"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532717"
+			},
+			"record_id": "305922.11430.705279",
+			"start_time": "12:30:00",
+			"status": "CHK",
+			"visit_type": "PT Therapy"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2015-06-19",
+			"end_time": "14:15:00",
+			"facility": {
+				"id": "26"
+			},
+			"id": "705339",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "533288",
+				"id": "533288"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "9120",
+				"npi": "1891804704"
+			},
+			"record_id": "305922.533288.705339",
+			"start_time": "13:45:00",
+			"status": "CHK",
+			"visit_type": "Audiology"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2014-05-22",
+			"end_time": "13:00:00",
+			"facility": {
+				"id": "33"
+			},
+			"id": "705340",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "533782",
+				"id": "533782"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"record_id": "305922.533782.705340",
+			"start_time": "12:45:00",
+			"status": "CHK",
+			"visit_type": "Counsel45"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2012-05-29",
+			"end_time": "10:30:00",
+			"facility": {
+				"id": "26"
+			},
+			"id": "705341",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "533652",
+				"id": "533652"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"record_id": "305922.533652.705341",
+			"start_time": "10:15:00",
+			"status": "CHK",
+			"visit_type": "Counsel45"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2016-02-15",
+			"end_time": "17:00:00",
+			"facility": {
+				"id": "25"
+			},
+			"id": "698842",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "532901",
+				"id": "532901"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532714",
+				"npi": "1841377272"
+			},
+			"record_id": "305922.532901.698842",
+			"start_time": "16:30:00",
+			"status": "CHK",
+			"visit_type": "A16ON/Hab"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2013-04-09",
+			"end_time": "09:00:00",
+			"facility": {
+				"id": "26"
+			},
+			"id": "703707",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "532962",
+				"id": "532962"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532849"
+			},
+			"record_id": "305922.532962.703707",
+			"start_time": "08:45:00",
+			"status": "CHK",
+			"visit_type": "F/UP"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2010-05-24",
+			"end_time": "16:45:00",
+			"facility": {
+				"id": "25"
+			},
+			"id": "703830",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "533235",
+				"id": "533235"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532849"
+			},
+			"record_id": "305922.533235.703830",
+			"start_time": "16:15:00",
+			"status": "CHK",
+			"visit_type": "A16ON/Hab"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2016-05-03",
+			"end_time": "13:45:00",
+			"facility": {
+				"id": "26"
+			},
+			"id": "702823",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "529691",
+				"id": "529691"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532672",
+				"npi": "1386731784"
+			},
+			"record_id": "305922.529691.702823",
+			"start_time": "13:00:00",
+			"status": "CHK",
+			"visit_type": "CPE"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2015-07-24",
+			"end_time": "14:30:00",
+			"facility": {
+				"id": "26"
+			},
+			"id": "704912",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "533304",
+				"id": "533304"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532849"
+			},
+			"record_id": "305922.533304.704912",
+			"start_time": "14:00:00",
+			"status": "CHK",
+			"visit_type": "OS"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2014-10-29",
+			"end_time": "12:00:00",
+			"facility": {
+				"id": "25"
+			},
+			"id": "704914",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "533200",
+				"id": "533200"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532849"
+			},
+			"record_id": "305922.533200.704914",
+			"start_time": "11:30:00",
+			"status": "CHK",
+			"visit_type": "A16ON/Hab"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2013-11-06",
+			"end_time": "09:00:00",
+			"facility": {
+				"id": "33"
+			},
+			"id": "704917",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "532938",
+				"id": "532938"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532849"
+			},
+			"record_id": "305922.532938.704917",
+			"start_time": "08:30:00",
+			"status": "CHK",
+			"visit_type": "F/UP"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2010-08-05",
+			"end_time": "11:00:00",
+			"facility": {
+				"id": "26"
+			},
+			"id": "704919",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "533087",
+				"id": "533087"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532703",
+				"npi": "1225022072"
+			},
+			"record_id": "305922.533087.704919",
+			"start_time": "10:45:00",
+			"status": "CHK",
+			"visit_type": "Counsel45"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2013-03-26",
+			"end_time": "15:00:00",
+			"facility": {
+				"id": "25"
+			},
+			"id": "704920",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "533007",
+				"id": "533007"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532694",
+				"npi": "1235244211"
+			},
+			"record_id": "305922.533007.704920",
+			"start_time": "14:30:00",
+			"status": "CHK",
+			"visit_type": "A16ON/Hab"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2013-09-17",
+			"end_time": "12:15:00",
+			"facility": {
+				"id": "26"
+			},
+			"id": "704299",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "534184",
+				"id": "534184"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532727",
+				"npi": "1164505715"
+			},
+			"record_id": "305922.534184.704299",
+			"start_time": "11:30:00",
+			"status": "CHK",
+			"visit_type": "OS"
+		}
+	},
+	{
+		"encounter": {
+			"date": "2013-08-30",
+			"end_time": "10:30:00",
+			"facility": {
+				"id": "25"
+			},
+			"id": "704300",
+			"lock_status": "1",
+			"patient": {
+				"account_no": "531100",
+				"id": "531100"
+			},
+			"pos": "11",
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"id": "532849"
+			},
+			"record_id": "305922.531100.704300",
+			"start_time": "10:00:00",
+			"status": "CHK",
+			"visit_type": "A16ON/Hab"
+		}
+	}
+]

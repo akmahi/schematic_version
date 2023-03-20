@@ -1,0 +1,166 @@
+{
+  "parser_settings": {
+    "version": "omni.2.1",
+    "file_format_type": "csv2"
+  },
+  "file_declaration": {
+    "delimiter": "|",
+    "replace_double_quotes": true,
+    "records": [
+      { "rows": 1, "min": 1, "max": 1 },
+      {
+        "is_target": true,
+        "columns": [
+          {
+            "name": "name",
+            "index": 3
+          },
+          {
+            "name": "billing_name",
+            "index": 4
+          },
+          {
+            "name": "type",
+            "index": 2
+          },
+          {
+            "name": "location_rank",
+            "index": 11
+          },
+          {
+            "name": "taxonomy_code",
+            "index": 21
+          },
+          {
+            "name": "tin",
+            "index": 16
+          },
+          {
+            "name": "group_npi",
+            "index": 17
+          },
+          {
+            "name": "external_id",
+            "index": 18
+          },
+          {
+            "name": "line_1",
+            "index": 5
+          },
+          {
+            "name": "line_2",
+            "index": 6
+          },
+          {
+            "name": "city",
+            "index": 7
+          },
+          {
+            "name": "state",
+            "index": 8
+          },
+          {
+            "name": "zip",
+            "index": 9
+          },
+          {
+            "name": "country",
+            "index": 10
+          },
+          {
+            "name": "phone_work",
+            "index": 13
+          },
+          {
+            "name": "email",
+            "index": 12
+          },
+          {
+            "name": "fax",
+            "index": 14
+          },
+          {
+            "name": "lab_id",
+            "index": 19
+          },
+          {
+            "name": "lab_name",
+            "index": 20
+          },
+          {
+            "name": "contact_title",
+            "index": 22
+          },
+          {
+            "name": "contact_first_name",
+            "index": 23
+          },
+          {
+            "name": "contact_last_name",
+            "index": 24
+          },
+          {
+            "name": "contact_middle_initial",
+            "index": 25
+          },
+          {
+            "name": "contact_phone",
+            "index": 27
+          },
+          {
+            "name": "contact_email",
+            "index": 26
+          }
+        ]
+      }
+    ]
+  },
+  "transform_declarations": {
+    "FINAL_OUTPUT": {
+      "object": {
+        "practice": {
+          "object": {
+            "name": { "xpath": "name" },
+            "billing_name": { "xpath": "billing_name" },
+            "type": { "xpath": "type" },
+            "location_rank": { "xpath": "location_rank" },
+            "taxonomy_code": { "xpath": "taxonomy_code" },
+            "ssn": { "xpath": "ssn" },
+            "tin": { "xpath": "tin" },
+            "group_npi": { "xpath": "group_npi" },
+            "external_id":{ "xpath":"external_id" },
+            "address": {
+                "object": {
+                    "line1": { "xpath": "line_1" },
+                    "line2": { "xpath": "line_2" },
+                    "city": { "xpath": "city" },
+                    "state": { "xpath": "state" },
+                    "zip": { "xpath": "zip" },
+                    "country": { "xpath": "country" }
+                }
+            },
+            "phone_work": { "xpath": "phone_work" },
+            "email": { "xpath": "email" },
+            "fax": { "xpath": "fax" },
+            "lab": {
+              "object": {
+                "id": { "xpath": "lab_id" },
+                "name": { "xpath": "lab_name" }
+              }
+            },
+            "contact": {
+              "object": {
+                "title": { "xpath": "contact_title" },
+                "first_name": { "xpath": "contact_first_name" },
+                "last_name": { "xpath": "contact_last_name" },
+                "middle_initial": { "xpath": "contact_middle_initial" },
+                "phone": { "xpath": "contact_phone" },
+                "email": { "xpath": "contact_email" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

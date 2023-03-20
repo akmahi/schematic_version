@@ -1,0 +1,222 @@
+[
+	{
+		"care": {
+			"date_performed": "20220422",
+			"domain": "Cares",
+			"name": "SCREENING: DEPRESSION",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "1"
+		}
+	},
+	{
+		"care": {
+			"date_performed": "20210428",
+			"domain": "Cares",
+			"name": "SCREENING: DEPRESSION",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "2"
+		}
+	},
+	{
+		"care": {
+			"date_performed": "20220923",
+			"domain": "Cares",
+			"name": "SCREENING: DEPRESSION",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "3"
+		}
+	},
+	{
+		"care": {
+			"date_performed": "20190319",
+			"domain": "Cares",
+			"name": "SCREENING: FALL RISK",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "4"
+		}
+	},
+	{
+		"care": {
+			"date_performed": "20200303",
+			"domain": "Cares",
+			"name": "SCREENING: FALL RISK",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "5"
+		}
+	},
+	{
+		"care": {
+			"date_performed": "20210416",
+			"domain": "Cares",
+			"name": "SCREENING: FALL RISK",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "6"
+		}
+	},
+	{
+		"care": {
+			"date_performed": "20220517",
+			"domain": "Cares",
+			"name": "SCREENING: FALL RISK",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "7"
+		}
+	},
+	{
+		"care": {
+			"date_performed": "20220520",
+			"domain": "Cares",
+			"name": "SCREENING: GONORRHEA",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "8"
+		}
+	},
+	{
+		"care": {
+			"date_performed": "20220517",
+			"domain": "Cares",
+			"name": "BMI Plan",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "9"
+		}
+	},
+	{
+		"care": {
+			"date_performed": "20220520",
+			"domain": "Cares",
+			"name": "Cervical Cancer Screening",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "10"
+		}
+	}
+]

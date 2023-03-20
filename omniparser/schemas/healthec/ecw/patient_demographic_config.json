@@ -1,0 +1,455 @@
+{
+  "parser_settings": {
+    "version": "omni.2.1",
+    "file_format_type": "csv2"
+  },
+  "file_declaration": {
+    "delimiter": "|",
+    "replace_double_quotes": true,
+    "records": [
+      {
+        "rows": 1,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "is_target": true,
+        "columns": [
+          {
+            "name": "apuid",
+            "index": 1
+          },
+          {
+            "name": "record_id",
+            "index": 2
+          },
+          {
+            "name": "patient_id",
+            "index": 3
+          },
+          {
+            "name": "patient_account_no",
+            "index": 4
+          },
+          {
+            "name": "name_prefix",
+            "index": 5
+          },
+          {
+            "name": "name_suffix",
+            "index": 6
+          },
+          {
+            "name": "first_name",
+            "index": 7
+          },
+          {
+            "name": "middle_name",
+            "index": 8
+          },
+          {
+            "name": "last_name",
+            "index": 9
+          },
+          {
+            "name": "previous_name",
+            "index": 10
+          },
+          {
+            "name": "date_of_birth",
+            "index": 11
+          },
+          {
+            "name": "gender",
+            "index": 12
+          },
+          {
+            "name": "address_line_1",
+            "index": 13
+          },
+          {
+            "name": "address_line_2",
+            "index": 14
+          },
+          {
+            "name": "city",
+            "index": 15
+          },
+          {
+            "name": "state",
+            "index": 16
+          },
+          {
+            "name": "zip",
+            "index": 17
+          },
+          {
+            "name": "marital_status",
+            "index": 18
+          },
+          {
+            "name": "race",
+            "index": 19
+          },
+          {
+            "name": "language",
+            "index": 20
+          },
+          {
+            "name": "ethnic_group",
+            "index": 21
+          },
+          {
+            "name": "primary_phone_number",
+            "index": 22
+          },
+          {
+            "name": "secondary_phone_number",
+            "index": 23
+          },
+          {
+            "name": "primary_email",
+            "index": 24
+          },
+          {
+            "name": "patient_death_indication",
+            "index": 25
+          },
+          {
+            "name": "patient_death_date",
+            "index": 26
+          },
+          {
+            "name": "pcp_id",
+            "index": 27
+          },
+          {
+            "name": "provider_npi",
+            "index": 28
+          },
+          {
+            "name": "pcp_last_name",
+            "index": 29
+          },
+          {
+            "name": "pcp_first_name",
+            "index": 30
+          },
+          {
+            "name": "pcp_middle_initial",
+            "index": 31
+          },
+          {
+            "name": "pcp_suffix",
+            "index": 32
+          },
+          {
+            "name": "pcp_prefix",
+            "index": 33
+          },
+          {
+            "name": "primary_insurance_payor_name",
+            "index": 34
+          },
+          {
+            "name": "primary_insurance_insurane_id",
+            "index": 35
+          },
+          {
+            "name": "primary_insurance_payer_code",
+            "index": 36
+          },
+          {
+            "name": "primary_insurance_subscriber_no",
+            "index": 37
+          },
+          {
+            "name": "primary_insurance_medicaid_id",
+            "index": 38
+          },
+          {
+            "name": "primary_insurance_insurance_class",
+            "index": 39
+          },
+          {
+            "name": "primary_insurance_start_date",
+            "index": 40
+          },
+          {
+            "name": "primary_insurance_end_date",
+            "index": 41
+          },
+          {
+            "name": "secondary_insurance_payor_name",
+            "index": 42
+          },
+          {
+            "name": "secondary_insurance_insurance_id",
+            "index": 43
+          },
+          {
+            "name": "secondary_insurance_payer_code",
+            "index": 44
+          },
+          {
+            "name": "secondary_insurance_subscriber_no",
+            "index": 45
+          },
+          {
+            "name": "secondary_insurance_medicaid_id",
+            "index": 46
+          },
+          {
+            "name": "secondary_insurance_insurance_class",
+            "index": 47
+          },
+          {
+            "name": "secondary_insurance_start_date",
+            "index": 48
+          },
+          {
+            "name": "secondary_insurance_end_date",
+            "index": 49
+          },
+          {
+            "name": "tertiary_insurance_payor_name",
+            "index": 50
+          },
+          {
+            "name": "tertiary_insurance_insurance_id",
+            "index": 51
+          },
+          {
+            "name": "tertiary_insurance_payer_code",
+            "index": 52
+          },
+          {
+            "name": "tertiary_insurance_subscriber_no",
+            "index": 53
+          },
+          {
+            "name": "tertiary_insurance_medicaid_id",
+            "index": 54
+          },
+          {
+            "name": "tertiary_insurance_insurance_class",
+            "index": 55
+          },
+          {
+            "name": "tertiary_insurance_start_date",
+            "index": 56
+          },
+          {
+            "name": "tertiary_insurance_end_date",
+            "index": 57
+          }
+        ]
+      }
+    ]
+  },
+  "transform_declarations": {
+    "FINAL_OUTPUT": {
+      "object": {
+        "patient_demographic": {
+          "object": {
+            "record_id": {
+              "xpath": "record_id"
+            },
+            "id": {
+              "xpath": "patient_id"
+            },
+            "account_no": {
+              "xpath": "patient_account_no"
+            },
+            "name_prefix": {
+              "xpath": "name_prefix"
+            },
+            "name_suffix": {
+              "xpath": "name_suffix"
+            },
+            "first_name": {
+              "xpath": "first_name"
+            },
+            "middle_name": {
+              "xpath": "middle_name"
+            },
+            "last_name": {
+              "xpath": "last_name"
+            },
+            "previous_name": {
+              "xpath": "previous_name"
+            },
+            "date_of_birth": {
+              "xpath": "date_of_birth"
+            },
+            "gender": {
+              "xpath": "gender"
+            },
+            "address": {
+              "object": {
+                "line_1": {
+                  "xpath": "address_line_1"
+                },
+                "line_2": {
+                  "xpath": "address_line_2"
+                },
+                "city": {
+                  "xpath": "city"
+                },
+                "state": {
+                  "xpath": "state"
+                },
+                "zip": {
+                  "xpath": "zip"
+                }
+              }
+            },
+            "marital_status": {
+              "xpath": "marital_status"
+            },
+            "race": {
+              "xpath": "race"
+            },
+            "language": {
+              "xpath": "language"
+            },
+            "ethnic_group": {
+              "xpath": "ethnic_group"
+            },
+            "primary_phone": {
+              "xpath": "primary_phone_number"
+            },
+            "secondary_phone": {
+              "xpath": "secondary_phone_number"
+            },
+            "primary_email": {
+              "xpath": "primary_email"
+            },
+            "death_indication": {
+              "xpath": "patient_death_indication"
+            },
+            "death_date": {
+              "xpath": "patient_death_date"
+            },
+            "provider": {
+              "object": {
+                "id": {
+                  "xpath": "pcp_id"
+                },
+                "npi": {
+                  "xpath": "provider_npi"
+                },
+                "last_name": {
+                  "xpath": "pcp_last_name"
+                },
+                "first_name": {
+                  "xpath": "pcp_first_name"
+                },
+                "middle_name": {
+                  "xpath": "pcp_middle_initial"
+                },
+                "name_suffix": {
+                  "xpath": "pcp_suffix"
+                },
+                "name_prefix": {
+                  "xpath": "pcp_prefix"
+                }
+              }
+            },
+            "practice": {
+              "object": {
+                "apuid": {
+                  "xpath": "apuid"
+                }
+              }
+            },
+            "primary_insurance": {
+              "object": {
+                "payor_name": {
+                  "xpath": "primary_insurance_payor_name"
+                },
+                "id": {
+                  "xpath": "primary_insurance_insurance_id"
+                },
+                "payer_code": {
+                  "xpath": "primary_insurance_payer_code"
+                },
+                "subscriber_no": {
+                  "xpath": "primary_insurance_subscriber_no"
+                },
+                "medicaid_id": {
+                  "xpath": "primary_insurance_medicaid_id"
+                },
+                "class": {
+                  "xpath": "primary_insurance_insurance_class"
+                },
+                "start_date": {
+                  "xpath": "primary_insurance_start_date"
+                },
+                "end_date": {
+                  "xpath": "primary_insurance_end_date"
+                }
+              }
+            },
+            "secondary_insurance": {
+              "object": {
+                "payor_name": {
+                  "xpath": "secondary_insurance_payor_name"
+                },
+                "id": {
+                  "xpath": "secondary_insurance_insurance_id"
+                },
+                "payer_code": {
+                  "xpath": "secondary_insurance_payer_code"
+                },
+                "subscriber_no": {
+                  "xpath": "secondary_insurance_subscriber_no"
+                },
+                "medicaid_id": {
+                  "xpath": "secondary_insurance_medicaid_id"
+                },
+                "class": {
+                  "xpath": "secondary_insurance_insurance_class"
+                },
+                "start_date": {
+                  "xpath": "secondary_insurance_start_date"
+                },
+                "end_date": {
+                  "xpath": "secondary_insurance_end_date"
+                }
+              }
+            },
+            "tertiary_insurance": {
+              "object": {
+                "payor_name": {
+                  "xpath": "tertiary_insurance_payor_name"
+                },
+                "id": {
+                  "xpath": "tertiary_insurance_insurance_id"
+                },
+                "payer_code": {
+                  "xpath": "tertiary_insurance_payer_code"
+                },
+                "subscriber_no": {
+                  "xpath": "tertiary_insurance_subscriber_no"
+                },
+                "medicaid_id": {
+                  "xpath": "tertiary_insurance_medicaid_id"
+                },
+                "class": {
+                  "xpath": "tertiary_insurance_insurance_class"
+                },
+                "start_date": {
+                  "xpath": "tertiary_insurance_start_date"
+                },
+                "end_date": {
+                  "xpath": "tertiary_insurance_end_date"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

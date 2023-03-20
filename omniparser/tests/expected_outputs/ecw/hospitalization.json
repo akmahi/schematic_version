@@ -1,0 +1,577 @@
+[
+	{
+		"hospitalization": {
+			"date": "05/4/2018",
+			"encounter": {
+				"id": "2517824"
+			},
+			"patient": {
+				"account_no": "400317",
+				"id": "9977"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Twisted bowel, colonoscopy",
+			"record_id": "305922.9977.2517824.2"
+		}
+	},
+	{
+		"hospitalization": {
+			"encounter": {
+				"id": "2517824"
+			},
+			"patient": {
+				"account_no": "400317",
+				"id": "9977"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "none reported",
+			"record_id": "305922.9977.2517824.1"
+		}
+	},
+	{
+		"hospitalization": {
+			"encounter": {
+				"id": "2537450"
+			},
+			"patient": {
+				"account_no": "520235",
+				"id": "13532"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "none reported",
+			"record_id": "305922.13532.2537450.1"
+		}
+	},
+	{
+		"hospitalization": {
+			"encounter": {
+				"id": "2540717"
+			},
+			"patient": {
+				"account_no": "531301",
+				"id": "531301"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"record_id": "305922.531301.2540717.-1"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "12/2020",
+			"encounter": {
+				"id": "2546108"
+			},
+			"patient": {
+				"account_no": "508104",
+				"id": "11582"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "St.Catherine's- suicidal ideation/low NA",
+			"record_id": "305922.11582.2546108.2"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "9/2019",
+			"encounter": {
+				"id": "2546108"
+			},
+			"patient": {
+				"account_no": "508104",
+				"id": "11582"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Pilgrim  State for Depression/anxiety",
+			"record_id": "305922.11582.2546108.1"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "2018",
+			"encounter": {
+				"id": "2551331"
+			},
+			"patient": {
+				"account_no": "502825",
+				"id": "11069"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "G-Tube placement",
+			"record_id": "305922.11069.2551331.2"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "07/2018-09/2018",
+			"encounter": {
+				"id": "2551331"
+			},
+			"patient": {
+				"account_no": "502825",
+				"id": "11069"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Plainview Northwell- Not Eating",
+			"record_id": "305922.11069.2551331.1"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "12/2020",
+			"encounter": {
+				"id": "2527186"
+			},
+			"patient": {
+				"account_no": "540261",
+				"id": "540261"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Southside- psych",
+			"record_id": "305922.540261.2527186.1"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "7/9/21",
+			"encounter": {
+				"id": "2531535"
+			},
+			"patient": {
+				"account_no": "532178",
+				"id": "532178"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Mather ER for Grand Mal seizure/hit head on door- ER eval",
+			"record_id": "305922.532178.2531535.5"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "07/03/2018",
+			"encounter": {
+				"id": "2531535"
+			},
+			"patient": {
+				"account_no": "532178",
+				"id": "532178"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Huntington Hospital- Facial Contusion - uncertain",
+			"record_id": "305922.532178.2531535.4"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "06/06/2017",
+			"encounter": {
+				"id": "2531535"
+			},
+			"patient": {
+				"account_no": "532178",
+				"id": "532178"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Northwell- Seizure",
+			"record_id": "305922.532178.2531535.3"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "03/13/2017",
+			"encounter": {
+				"id": "2531535"
+			},
+			"patient": {
+				"account_no": "532178",
+				"id": "532178"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Northwell- Seizure",
+			"record_id": "305922.532178.2531535.2"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "05/2015",
+			"encounter": {
+				"id": "2531535"
+			},
+			"patient": {
+				"account_no": "532178",
+				"id": "532178"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Hit by motorvehicle; StonyBrook  Pelvic fx, Right MCL/ACL ligament damage",
+			"record_id": "305922.532178.2531535.1"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "06/2015",
+			"encounter": {
+				"id": "2544650"
+			},
+			"patient": {
+				"account_no": "400681",
+				"id": "10085"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "DVT right leg",
+			"record_id": "305922.10085.2544650.1"
+		}
+	},
+	{
+		"hospitalization": {
+			"encounter": {
+				"id": "2542571"
+			},
+			"patient": {
+				"account_no": "200019",
+				"id": "9720"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "none reported",
+			"record_id": "305922.9720.2542571.1"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "1/2020",
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "total colectomy and hernia repair",
+			"record_id": "305922.536047.2547790.11"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "3/2019",
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Ulcerative colitis and partial collectomy w/ illeostomy",
+			"record_id": "305922.536047.2547790.10"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "11/8/18-11/13/18",
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Acute exacurbation colitis, HCAP (Brookhaven)",
+			"record_id": "305922.536047.2547790.9"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "9/4/18- 9/18/18",
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Colitis, PNA, ICU",
+			"record_id": "305922.536047.2547790.8"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "9/1/17-9/9/17",
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Pneumonia;  UTI",
+			"record_id": "305922.536047.2547790.7"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "5/1-5/7/17",
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "UTI, ulcerative colitis, lactic acidosis, hyperglycemia",
+			"record_id": "305922.536047.2547790.6"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "11/2016",
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Ulcerative colitis.  Twice at Brookhaven and Stonybrook hospitals",
+			"record_id": "305922.536047.2547790.5"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "8/2016",
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "pneumonia",
+			"record_id": "305922.536047.2547790.4"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "7/2016",
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "pneumonia",
+			"record_id": "305922.536047.2547790.3"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "6/2016",
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "pneumonia",
+			"record_id": "305922.536047.2547790.2"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "5/2016",
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "pneumonia",
+			"record_id": "305922.536047.2547790.1"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "2000",
+			"encounter": {
+				"id": "2538462"
+			},
+			"patient": {
+				"account_no": "536913",
+				"id": "536913"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1396385019"
+			},
+			"reason": "Cellulitis",
+			"record_id": "305922.536913.2538462.1"
+		}
+	},
+	{
+		"hospitalization": {
+			"date": "2012",
+			"encounter": {
+				"id": "2533209"
+			},
+			"patient": {
+				"account_no": "552089",
+				"id": "552089"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1396385019"
+			},
+			"reason": "spinal and ankle fractures",
+			"record_id": "305922.552089.2533209.2"
+		}
+	}
+]

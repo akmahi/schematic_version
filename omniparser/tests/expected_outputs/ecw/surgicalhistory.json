@@ -1,0 +1,576 @@
+[
+	{
+		"surgical_history": {
+			"date": "1997",
+			"encounter": {
+				"id": "2419095"
+			},
+			"patient": {
+				"account_no": "526642",
+				"id": "526642"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "corrective repair of isotropia/alt blinker",
+			"record_id": "305922.526642.2419095.1"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "1994",
+			"encounter": {
+				"id": "2517824"
+			},
+			"patient": {
+				"account_no": "400317",
+				"id": "9977"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "laparotomy I & O peritoneal",
+			"record_id": "305922.9977.2517824.1"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "1994",
+			"encounter": {
+				"id": "2517824"
+			},
+			"patient": {
+				"account_no": "400317",
+				"id": "9977"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "appendectomy",
+			"record_id": "305922.9977.2517824.2"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "1994",
+			"encounter": {
+				"id": "2517824"
+			},
+			"patient": {
+				"account_no": "400317",
+				"id": "9977"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "decompression of small bowel",
+			"record_id": "305922.9977.2517824.3"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "1994",
+			"encounter": {
+				"id": "2517824"
+			},
+			"patient": {
+				"account_no": "400317",
+				"id": "9977"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "cholecystectomy",
+			"record_id": "305922.9977.2517824.4"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "1996",
+			"encounter": {
+				"id": "2517824"
+			},
+			"patient": {
+				"account_no": "400317",
+				"id": "9977"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "bowel obstruction",
+			"record_id": "305922.9977.2517824.5"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "1997",
+			"encounter": {
+				"id": "2517824"
+			},
+			"patient": {
+				"account_no": "400317",
+				"id": "9977"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "bowel obstruction",
+			"record_id": "305922.9977.2517824.6"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "2000",
+			"encounter": {
+				"id": "2517824"
+			},
+			"patient": {
+				"account_no": "400317",
+				"id": "9977"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "bowel obstruction",
+			"record_id": "305922.9977.2517824.7"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "05/20018",
+			"encounter": {
+				"id": "2517824"
+			},
+			"patient": {
+				"account_no": "400317",
+				"id": "9977"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Colonoscopy",
+			"record_id": "305922.9977.2517824.8"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "2/2019",
+			"encounter": {
+				"id": "2517824"
+			},
+			"patient": {
+				"account_no": "400317",
+				"id": "9977"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "reversal of colostomy",
+			"record_id": "305922.9977.2517824.9"
+		}
+	},
+	{
+		"surgical_history": {
+			"encounter": {
+				"id": "2537450"
+			},
+			"patient": {
+				"account_no": "520235",
+				"id": "13532"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "none reported",
+			"record_id": "305922.13532.2537450.1"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "11/02/2018",
+			"encounter": {
+				"id": "2540717"
+			},
+			"patient": {
+				"account_no": "531301",
+				"id": "531301"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Dental Rehabilitation",
+			"record_id": "305922.531301.2540717.1"
+		}
+	},
+	{
+		"surgical_history": {
+			"encounter": {
+				"id": "2546108"
+			},
+			"patient": {
+				"account_no": "508104",
+				"id": "11582"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"record_id": "305922.11582.2546108.-1"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "2007",
+			"encounter": {
+				"id": "2551331"
+			},
+			"patient": {
+				"account_no": "502825",
+				"id": "11069"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Peg tube placement then removed",
+			"record_id": "305922.11069.2551331.1"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "2016",
+			"encounter": {
+				"id": "2510419"
+			},
+			"patient": {
+				"account_no": "529253",
+				"id": "529253"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Oral surgery- Wisdom Teeth Removal",
+			"record_id": "305922.529253.2510419.1"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "1995",
+			"encounter": {
+				"id": "2527186"
+			},
+			"patient": {
+				"account_no": "540261",
+				"id": "540261"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "heart surgery, 3 years of age",
+			"record_id": "305922.540261.2527186.1"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "10/2017",
+			"encounter": {
+				"id": "2527186"
+			},
+			"patient": {
+				"account_no": "540261",
+				"id": "540261"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Pulm valve replaced, biprosthetic valve,primary ASD closure, tricuspid valvuloplasty",
+			"record_id": "305922.540261.2527186.2"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "2015",
+			"encounter": {
+				"id": "2531535"
+			},
+			"patient": {
+				"account_no": "532178",
+				"id": "532178"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Knee surgery following MVA",
+			"record_id": "305922.532178.2531535.1"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "12/22/21",
+			"encounter": {
+				"id": "2531535"
+			},
+			"patient": {
+				"account_no": "532178",
+				"id": "532178"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Oral surgery- Wisdom Teeth removed",
+			"record_id": "305922.532178.2531535.2"
+		}
+	},
+	{
+		"surgical_history": {
+			"encounter": {
+				"id": "2544650"
+			},
+			"patient": {
+				"account_no": "400681",
+				"id": "10085"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "None Reported",
+			"record_id": "305922.10085.2544650.1"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "9/10/03",
+			"encounter": {
+				"id": "2517560"
+			},
+			"patient": {
+				"account_no": "100047",
+				"id": "9321"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "Corrective surgeries for fisurectomy, anoplasty hemmorrhoids",
+			"record_id": "305922.9321.2517560.1"
+		}
+	},
+	{
+		"surgical_history": {
+			"encounter": {
+				"id": "2542571"
+			},
+			"patient": {
+				"account_no": "200019",
+				"id": "9720"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "NONE",
+			"record_id": "305922.9720.2542571.1"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "2011",
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "thyroidectomy",
+			"record_id": "305922.536047.2547790.1"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "1990",
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "C section",
+			"record_id": "305922.536047.2547790.2"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "1986",
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "gall bladder",
+			"record_id": "305922.536047.2547790.3"
+		}
+	},
+	{
+		"surgical_history": {
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "IVC filter",
+			"record_id": "305922.536047.2547790.4"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "March 2019",
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "partial colectomy with illeostomy",
+			"record_id": "305922.536047.2547790.5"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "1.2020",
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"reason": "total colectomy and hernia repair",
+			"record_id": "305922.536047.2547790.6"
+		}
+	},
+	{
+		"surgical_history": {
+			"date": "1987",
+			"encounter": {
+				"id": "2538462"
+			},
+			"patient": {
+				"account_no": "536913",
+				"id": "536913"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1396385019"
+			},
+			"reason": "Tubes in Right ear",
+			"record_id": "305922.536913.2538462.1"
+		}
+	}
+]

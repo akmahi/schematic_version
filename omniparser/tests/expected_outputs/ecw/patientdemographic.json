@@ -1,0 +1,1385 @@
+[
+	{
+		"patient_demographic": {
+			"account_no": "100011",
+			"address": {
+				"city": "East Islip",
+				"line_1": "66 Quintuck Lane",
+				"state": "NY",
+				"zip": "11730"
+			},
+			"date_of_birth": "1975-08-15",
+			"death_indication": "N",
+			"ethnic_group": "Refused to Report",
+			"first_name": "Richard",
+			"gender": "male",
+			"id": "9309",
+			"language": "English",
+			"last_name": "Ramaglia",
+			"marital_status": "Unknown",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "syretah.montgomery@ddiny.org",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "6PU6FN5HD75"
+			},
+			"primary_phone": "631-859-9358",
+			"provider": {
+				"first_name": "Nancy",
+				"id": "9172",
+				"last_name": "Fortin",
+				"middle_name": "ANPC",
+				"npi": "1679623896"
+			},
+			"race": "White",
+			"record_id": "305922.9309",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "CF16667G"
+			},
+			"secondary_phone": "631-375-4995"
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100016",
+			"address": {
+				"city": "Hampton Bays",
+				"line_1": "33A Bellows Pond Road",
+				"state": "NY",
+				"zip": "11946-2101"
+			},
+			"date_of_birth": "1978-06-13",
+			"death_indication": "N",
+			"ethnic_group": "Refused to Report",
+			"first_name": "Shihjay",
+			"gender": "male",
+			"id": "9312",
+			"language": "English",
+			"last_name": "Wang",
+			"marital_status": "Single",
+			"middle_name": "D",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "Shihjay.Wang@gmail.com",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "4KA6F64GQ61"
+			},
+			"primary_phone": "631-723-1391",
+			"provider": {
+				"first_name": "Susan",
+				"id": "9135",
+				"last_name": "Melnick",
+				"name_suffix": "ANP-C",
+				"npi": "1366565202"
+			},
+			"race": "Asian",
+			"record_id": "305922.9312",
+			"secondary_insurance": {
+				"class": "ART16",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "BW13677V"
+			}
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100018",
+			"address": {
+				"city": "Shirley",
+				"line_1": "47 Semour Drive",
+				"state": "NY",
+				"zip": "11967"
+			},
+			"date_of_birth": "1985-09-29",
+			"death_indication": "N",
+			"ethnic_group": "Non Hispanic",
+			"first_name": "Gerard",
+			"gender": "male",
+			"id": "9313",
+			"language": "English",
+			"last_name": "Arnoth",
+			"marital_status": "Single",
+			"name_prefix": "Dr.",
+			"name_suffix": "Jr",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "gerard.arnoth@gmail.com",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "8JR3NP2RU97"
+			},
+			"primary_phone": "631-729-3684",
+			"provider": {
+				"first_name": "Susan",
+				"id": "9135",
+				"last_name": "Melnick",
+				"name_suffix": "ANP-C",
+				"npi": "1366565202"
+			},
+			"race": "White",
+			"record_id": "305922.9313",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "BH82313Q"
+			}
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100022",
+			"address": {
+				"city": "Mount Sinai",
+				"line_1": "699 Mount Sinai Coram Rd",
+				"state": "NY",
+				"zip": "11766"
+			},
+			"date_of_birth": "1960-06-11",
+			"death_indication": "N",
+			"ethnic_group": "Declined to Specify",
+			"first_name": "Cathy",
+			"gender": "female",
+			"id": "9315",
+			"language": "English",
+			"last_name": "Yodice",
+			"marital_status": "Single",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "kathy.kelly@ddiinfo.org",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "3MF7KY8RH79"
+			},
+			"primary_phone": "631-474-2128",
+			"provider": {
+				"first_name": "Nancy",
+				"id": "9124",
+				"last_name": "Fortin",
+				"name_suffix": "ANP-C",
+				"npi": "1679623896"
+			},
+			"race": "White",
+			"record_id": "305922.9315",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "AN31296J"
+			},
+			"secondary_phone": "631-387-2213"
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100036",
+			"address": {
+				"city": "Baiting Hollow",
+				"line_1": "94 Southfield Road",
+				"state": "NY",
+				"zip": "11933-1417"
+			},
+			"date_of_birth": "1981-10-22",
+			"death_indication": "N",
+			"ethnic_group": "Non Hispanic",
+			"first_name": "Craig",
+			"gender": "Male",
+			"id": "9317",
+			"language": "English",
+			"last_name": "Shaffer",
+			"marital_status": "Single",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "susanm@eed-a.org",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"start_date": "2008-06-01",
+				"subscriber_no": "4TR0QV1XN12"
+			},
+			"primary_phone": "631-591-1396",
+			"provider": {
+				"first_name": "Matthew",
+				"id": "548367",
+				"last_name": "Brown",
+				"npi": "1396385019"
+			},
+			"race": "White",
+			"record_id": "305922.9317",
+			"secondary_insurance": {
+				"class": "MD",
+				"id": "717",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid NY",
+				"start_date": "2001-01-01",
+				"subscriber_no": "CN17735F"
+			}
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100044",
+			"address": {
+				"city": "Ridge",
+				"line_1": "5 Gulldip Road",
+				"state": "NY",
+				"zip": "11961-2980"
+			},
+			"date_of_birth": "1979-02-10",
+			"death_indication": "N",
+			"ethnic_group": "Non Hispanic",
+			"first_name": "John",
+			"gender": "Male",
+			"id": "9319",
+			"language": "English",
+			"last_name": "Zupanic",
+			"marital_status": "Single",
+			"middle_name": "C",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "patty.marx@ddiny.org",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "7RG1GE9NY93"
+			},
+			"primary_phone": "631-406-7699",
+			"provider": {
+				"first_name": "Matthew",
+				"id": "548367",
+				"last_name": "Brown",
+				"npi": "1396385019"
+			},
+			"race": "Two or More Races",
+			"record_id": "305922.9319",
+			"secondary_insurance": {
+				"class": "COMM",
+				"end_date": "2099-02-10",
+				"id": "666",
+				"payer_code": "PAPER",
+				"payor_name": "Champva Insurance",
+				"start_date": "2005-10-06",
+				"subscriber_no": "126626383"
+			},
+			"tertiary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "BU82372V"
+			}
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100045",
+			"address": {
+				"city": "Bayport",
+				"line_1": "718 Middle Road",
+				"state": "NY",
+				"zip": "11705"
+			},
+			"date_of_birth": "1977-05-03",
+			"death_indication": "N",
+			"ethnic_group": "Refused to Report",
+			"first_name": "Thomas",
+			"gender": "Male",
+			"id": "9320",
+			"language": "English",
+			"last_name": "Hanley",
+			"marital_status": "Unknown",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "branislava.x.derosa@opwdd.ny.gov",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "6U71Q42YM25"
+			},
+			"primary_phone": "631-472-5729",
+			"provider": {
+				"first_name": "Jaclyn",
+				"id": "540636",
+				"last_name": "DiMattei",
+				"middle_name": "S",
+				"name_suffix": "NP",
+				"npi": "1093238222"
+			},
+			"race": "White",
+			"record_id": "305922.9320",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "AZ31108N"
+			},
+			"secondary_phone": "631-228-4769"
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100047",
+			"address": {
+				"city": "Selden",
+				"line_1": "41 Pine Street",
+				"state": "NY",
+				"zip": "11784"
+			},
+			"date_of_birth": "1977-10-08",
+			"death_indication": "N",
+			"ethnic_group": "Non Hispanic",
+			"first_name": "Jason",
+			"gender": "male",
+			"id": "9321",
+			"language": "English",
+			"last_name": "Urban",
+			"marital_status": "Single",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "cynthia.herrera@ddiny.org",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "7JH6EC4HF79"
+			},
+			"primary_phone": "631-696-5343",
+			"provider": {
+				"first_name": "Nancy",
+				"id": "9124",
+				"last_name": "Fortin",
+				"name_suffix": "ANP-C",
+				"npi": "1679623896"
+			},
+			"race": "White",
+			"record_id": "305922.9321",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "BU72679P"
+			},
+			"secondary_phone": "631-241-2092"
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100050",
+			"address": {
+				"city": "Greenlawn",
+				"line_1": "23 Browning Drive",
+				"state": "NY",
+				"zip": "11740"
+			},
+			"date_of_birth": "1974-10-15",
+			"death_indication": "N",
+			"ethnic_group": "Non Hispanic",
+			"first_name": "Kimberly",
+			"gender": "Female",
+			"id": "9322",
+			"language": "English",
+			"last_name": "Flood",
+			"marital_status": "Single",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "seneye.walters@ddiny.org",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "8DJ6G68VV82"
+			},
+			"primary_phone": "631-262-7627",
+			"provider": {
+				"first_name": "Jaclyn",
+				"id": "540636",
+				"last_name": "DiMattei",
+				"middle_name": "S",
+				"name_suffix": "NP",
+				"npi": "1093238222"
+			},
+			"race": "White",
+			"record_id": "305922.9322",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "BV03666F"
+			},
+			"secondary_phone": "631-921-3567"
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100071",
+			"address": {
+				"city": "Bayshore",
+				"line_1": "2057 Union Blvd  Apt 1C",
+				"state": "NY",
+				"zip": "11706-8038"
+			},
+			"date_of_birth": "1980-09-02",
+			"death_indication": "N",
+			"ethnic_group": "Non Hispanic",
+			"first_name": "Travis",
+			"gender": "Male",
+			"id": "9329",
+			"language": "English",
+			"last_name": "Negron",
+			"marital_status": "Single",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "mbennett@sco.org",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "7MU9G90MQ46"
+			},
+			"primary_phone": "631-357-0615",
+			"provider": {
+				"first_name": "Jaclyn",
+				"id": "540636",
+				"last_name": "DiMattei",
+				"middle_name": "S",
+				"name_suffix": "NP",
+				"npi": "1093238222"
+			},
+			"race": "Black or African-American",
+			"record_id": "305922.9329",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "DA66117G"
+			}
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100074",
+			"address": {
+				"city": "Medford",
+				"line_1": "127-2  Lincoln Road",
+				"state": "NY",
+				"zip": "11763"
+			},
+			"date_of_birth": "1953-11-20",
+			"death_indication": "N",
+			"ethnic_group": "Refused to Report",
+			"first_name": "Carlo",
+			"gender": "male",
+			"id": "9330",
+			"language": "English",
+			"last_name": "Deluca",
+			"marital_status": "Single",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "5M37JF3YR35"
+			},
+			"primary_phone": "631-345-6858",
+			"provider": {
+				"first_name": "Joseph",
+				"id": "532678",
+				"last_name": "Gagliano",
+				"middle_name": "LCSW",
+				"npi": "1205940038"
+			},
+			"race": "White",
+			"record_id": "305922.9330",
+			"secondary_insurance": {
+				"class": "MD",
+				"id": "717",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid NY",
+				"subscriber_no": "AM72301P"
+			}
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100080",
+			"address": {
+				"city": "Commack",
+				"line_1": "22 Maridon Lane",
+				"state": "NY",
+				"zip": "11725-1916"
+			},
+			"date_of_birth": "1971-09-06",
+			"death_indication": "N",
+			"ethnic_group": "Declined to Specify",
+			"first_name": "Michael",
+			"gender": "male",
+			"id": "9331",
+			"language": "English",
+			"last_name": "Perkins",
+			"marital_status": "Single",
+			"middle_name": "J",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "senaye.walters@ddiny.org",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "8JA8HN9JD41"
+			},
+			"primary_phone": "631-499-6175",
+			"provider": {
+				"first_name": "Jaclyn",
+				"id": "540636",
+				"last_name": "DiMattei",
+				"middle_name": "S",
+				"name_suffix": "NP",
+				"npi": "1093238222"
+			},
+			"race": "Black or African-American",
+			"record_id": "305922.9331",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "BU95617X"
+			}
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100094",
+			"address": {
+				"city": "Ridge",
+				"line_1": "73 Wading River Hollow Rd",
+				"line_2": "Day Hab Program",
+				"state": "NY",
+				"zip": "11961"
+			},
+			"date_of_birth": "1979-09-24",
+			"death_indication": "N",
+			"ethnic_group": "Refused to Report",
+			"first_name": "Daniel",
+			"gender": "male",
+			"id": "9332",
+			"language": "English",
+			"last_name": "Kahrau",
+			"marital_status": "Single",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "Colene.Rambarose@ddiny.org",
+			"primary_insurance": {
+				"class": "A",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "BW17994X"
+			},
+			"primary_phone": "631-821-3239",
+			"provider": {
+				"first_name": "Susan",
+				"id": "9135",
+				"last_name": "Melnick",
+				"name_suffix": "ANP-C",
+				"npi": "1366565202"
+			},
+			"race": "White",
+			"record_id": "305922.9332"
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100118",
+			"address": {
+				"city": "Central Islip",
+				"line_1": "1255 Islip Avenue  Apt 8",
+				"state": "NY",
+				"zip": "11722-4244"
+			},
+			"date_of_birth": "1967-12-09",
+			"death_indication": "N",
+			"ethnic_group": "Non Hispanic",
+			"first_name": "Cynthia",
+			"gender": "female",
+			"id": "9333",
+			"language": "English",
+			"last_name": "Borders",
+			"marital_status": "Unknown",
+			"name_prefix": "Mrs.",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "swtness101@gmail.com",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "8W11E73MW27"
+			},
+			"primary_phone": "631-524-4529",
+			"provider": {
+				"first_name": "Nancy",
+				"id": "9124",
+				"last_name": "Fortin",
+				"name_suffix": "ANP-C",
+				"npi": "1679623896"
+			},
+			"race": "Black or African-American",
+			"record_id": "305922.9333",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"start_date": "2016-08-25",
+				"subscriber_no": "AV01860A"
+			},
+			"secondary_phone": "631-524-4529"
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100120",
+			"address": {
+				"city": "East Northport",
+				"line_1": "669 Larkfield Road",
+				"state": "NY",
+				"zip": "11731-5912"
+			},
+			"date_of_birth": "1972-11-19",
+			"death_indication": "N",
+			"ethnic_group": "Refused to Report",
+			"first_name": "Ira",
+			"gender": "Male",
+			"id": "9334",
+			"language": "English",
+			"last_name": "Karasik",
+			"marital_status": "Unknown",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "lishportal@gmail.com",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "2WV5KC6DV71"
+			},
+			"primary_phone": "631-462-9791",
+			"provider": {
+				"first_name": "Andrea",
+				"id": "543041",
+				"last_name": "Martinez Villalobos",
+				"npi": "1003280041"
+			},
+			"race": "White",
+			"record_id": "305922.9334",
+			"secondary_insurance": {
+				"class": "COMM",
+				"id": "739",
+				"payer_code": "87726",
+				"payor_name": "UHC Empire Plan",
+				"start_date": "2006-01-01",
+				"subscriber_no": "890166628"
+			},
+			"tertiary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "BY67049Y"
+			}
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100128",
+			"address": {
+				"city": "Nesconset",
+				"line_1": "19 Bond Lane",
+				"state": "NY",
+				"zip": "11767-1503"
+			},
+			"date_of_birth": "1964-11-05",
+			"death_indication": "N",
+			"ethnic_group": "Non Hispanic",
+			"first_name": "Kevin",
+			"gender": "male",
+			"id": "9336",
+			"language": "English",
+			"last_name": "Garvey",
+			"marital_status": "Single",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "jessica.bartholomew@ddiny.org",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "8QV6CF3DK43"
+			},
+			"primary_phone": "631-265-1904",
+			"provider": {
+				"first_name": "Nancy",
+				"id": "9124",
+				"last_name": "Fortin",
+				"name_suffix": "ANP-C",
+				"npi": "1679623896"
+			},
+			"race": "White",
+			"record_id": "305922.9336",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "717",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid NY",
+				"subscriber_no": "CJ60616C"
+			}
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100149",
+			"address": {
+				"city": "NESCONSET",
+				"line_1": "19 BOND LN",
+				"state": "NY",
+				"zip": "11767-1503"
+			},
+			"date_of_birth": "1974-01-05",
+			"death_indication": "N",
+			"ethnic_group": "Non Hispanic",
+			"first_name": "Richard",
+			"gender": "Male",
+			"id": "9338",
+			"language": "English",
+			"last_name": "Eschmann",
+			"marital_status": "Unknown",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "jessica.bartholomew@ddiny.org",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "5W68X11NT68"
+			},
+			"primary_phone": "631-265-1904",
+			"provider": {
+				"first_name": "Nancy",
+				"id": "9124",
+				"last_name": "Fortin",
+				"name_suffix": "ANP-C",
+				"npi": "1679623896"
+			},
+			"race": "White",
+			"record_id": "305922.9338",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "BU81420E"
+			},
+			"secondary_phone": "631-387-2203"
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100210",
+			"address": {
+				"city": "Mount Sinai",
+				"line_1": "168 Mt Sinai Avenue",
+				"state": "NY",
+				"zip": "11766"
+			},
+			"date_of_birth": "1980-09-28",
+			"death_indication": "N",
+			"ethnic_group": "Refused to Report",
+			"first_name": "Thomas",
+			"gender": "Male",
+			"id": "9344",
+			"language": "English",
+			"last_name": "Bozeth",
+			"marital_status": "Single",
+			"middle_name": "M",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "Christen.LaLumia@ddiny.org",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "2FT2VP4QK91"
+			},
+			"primary_phone": "631-928-8835",
+			"provider": {
+				"first_name": "David",
+				"id": "532674",
+				"last_name": "Kugler",
+				"middle_name": "MD",
+				"npi": "1174570147"
+			},
+			"race": "White",
+			"record_id": "305922.9344",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "BY78325N"
+			},
+			"secondary_phone": "631-807-6026"
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100211",
+			"address": {
+				"city": "Melville",
+				"line_1": "218 Old South Path",
+				"state": "NY",
+				"zip": "11747"
+			},
+			"date_of_birth": "1978-04-04",
+			"death_indication": "N",
+			"ethnic_group": "Non Hispanic",
+			"first_name": "Joseph",
+			"gender": "male",
+			"id": "9345",
+			"language": "English",
+			"last_name": "Coyle",
+			"marital_status": "Single",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "dawm.a.smith@opwdd.ny.gov",
+			"primary_insurance": {
+				"class": "A",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "AM67996J"
+			},
+			"primary_phone": "631-547-0661",
+			"provider": {
+				"first_name": "N",
+				"id": "539864",
+				"last_name": "FORTIN"
+			},
+			"race": "White",
+			"record_id": "305922.9345",
+			"secondary_phone": "631-416-2647"
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100247",
+			"address": {
+				"city": "Ridge",
+				"line_1": "15 Woodlot Road",
+				"state": "NY",
+				"zip": "11961-1908"
+			},
+			"date_of_birth": "1950-10-09",
+			"death_indication": "N",
+			"ethnic_group": "Non Hispanic",
+			"first_name": "Carmen",
+			"gender": "female",
+			"id": "9349",
+			"language": "English",
+			"last_name": "Meroles",
+			"marital_status": "Unknown",
+			"middle_name": "M",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "Lfarrell2@familyres.org",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "1VC6K27UR43"
+			},
+			"primary_phone": "631-345-0779",
+			"provider": {
+				"first_name": "Matthew",
+				"id": "548367",
+				"last_name": "Brown",
+				"npi": "1396385019"
+			},
+			"race": "White",
+			"record_id": "305922.9349",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "717",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid NY",
+				"subscriber_no": "AN00890S"
+			}
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100305",
+			"address": {
+				"city": "Flanders",
+				"line_1": "864 Pleasure Dr",
+				"state": "NY",
+				"zip": "11901"
+			},
+			"date_of_birth": "1960-01-27",
+			"death_indication": "N",
+			"ethnic_group": "Non Hispanic",
+			"first_name": "Sandra",
+			"gender": "Female",
+			"id": "9354",
+			"language": "English",
+			"last_name": "Steliaros",
+			"marital_status": "Single",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "whiskey@ighl.org",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "3VG6E23YR76"
+			},
+			"primary_phone": "631-727-0779",
+			"provider": {
+				"first_name": "Susan",
+				"id": "9135",
+				"last_name": "Melnick",
+				"name_suffix": "ANP-C",
+				"npi": "1366565202"
+			},
+			"race": "White",
+			"record_id": "305922.9354",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "AN21091X"
+			}
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100311",
+			"address": {
+				"city": "Patchogue",
+				"line_1": "98 Hospital Road",
+				"state": "NY",
+				"zip": "11772"
+			},
+			"date_of_birth": "1956-04-18",
+			"death_indication": "N",
+			"ethnic_group": "Non Hispanic",
+			"first_name": "Wendy",
+			"gender": "Female",
+			"id": "9356",
+			"language": "English",
+			"last_name": "Rothberg",
+			"marital_status": "Unknown",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "9W23FP3WT15"
+			},
+			"primary_phone": "631-289-2444",
+			"provider": {
+				"first_name": "Eileen",
+				"id": "532672",
+				"last_name": "Ingenito",
+				"middle_name": "ANP",
+				"npi": "1386731784"
+			},
+			"race": "White",
+			"record_id": "305922.9356",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "AB70205Z"
+			}
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100439",
+			"address": {
+				"city": "Coram",
+				"line_1": "24 Harrison Ave",
+				"state": "NY",
+				"zip": "11727"
+			},
+			"date_of_birth": "1976-04-15",
+			"death_indication": "N",
+			"ethnic_group": "Non Hispanic",
+			"first_name": "Brian",
+			"gender": "male",
+			"id": "9368",
+			"language": "English",
+			"last_name": "Ozello",
+			"marital_status": "Unknown",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "avaleoricciardo@fegs.org",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "8P06MM3WX76"
+			},
+			"primary_phone": "631-320-3853",
+			"provider": {
+				"first_name": "Matthew",
+				"id": "548367",
+				"last_name": "Brown",
+				"npi": "1396385019"
+			},
+			"race": "White",
+			"record_id": "305922.9368",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "CQ08592G"
+			},
+			"secondary_phone": "917-631-3551"
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100443",
+			"address": {
+				"city": "Amityville",
+				"line_1": "22 Green Ave",
+				"state": "NY",
+				"zip": "11701"
+			},
+			"date_of_birth": "1968-04-18",
+			"death_indication": "N",
+			"ethnic_group": "Refused to Report",
+			"first_name": "Patrick",
+			"gender": "male",
+			"id": "9369",
+			"language": "English",
+			"last_name": "Sabino",
+			"marital_status": "Unknown",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "lishportal@gmail.com",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "8WU7CV7QW71"
+			},
+			"primary_phone": "631-598-5824",
+			"provider": {
+				"first_name": "Nancy",
+				"id": "9124",
+				"last_name": "Fortin",
+				"name_suffix": "ANP-C",
+				"npi": "1679623896"
+			},
+			"race": "White",
+			"record_id": "305922.9369",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "BM47876G"
+			},
+			"secondary_phone": "516-242-7714"
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100460",
+			"address": {
+				"city": "Bohemia",
+				"line_1": "296 Bake Ave",
+				"state": "NY",
+				"zip": "11716"
+			},
+			"date_of_birth": "1983-11-12",
+			"death_indication": "N",
+			"ethnic_group": "Declined to Specify",
+			"first_name": "Corey",
+			"gender": "male",
+			"id": "9370",
+			"language": "English",
+			"last_name": "Bellman",
+			"marital_status": "Unknown",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "9ag6vu5rq46"
+			},
+			"primary_phone": "631-750-5908",
+			"provider": {
+				"first_name": "Nancy",
+				"id": "9124",
+				"last_name": "Fortin",
+				"name_suffix": "ANP-C",
+				"npi": "1679623896"
+			},
+			"race": "White",
+			"record_id": "305922.9370",
+			"secondary_insurance": {
+				"class": "MD",
+				"id": "717",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid NY",
+				"subscriber_no": "CE46899N"
+			}
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100630",
+			"address": {
+				"city": "Plainview",
+				"line_1": "1 Gary Place",
+				"state": "NY",
+				"zip": "11803-3102"
+			},
+			"date_of_birth": "1990-06-07",
+			"death_indication": "N",
+			"ethnic_group": "Non Hispanic",
+			"first_name": "Marc",
+			"gender": "male",
+			"id": "9376",
+			"language": "English",
+			"last_name": "Bloise",
+			"marital_status": "Single",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "michelle.greco@ddiny.org",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "1WX5Y34KN67"
+			},
+			"primary_phone": "516-938-3573",
+			"provider": {
+				"first_name": "Jaclyn",
+				"id": "540636",
+				"last_name": "DiMattei",
+				"middle_name": "S",
+				"name_suffix": "NP",
+				"npi": "1093238222"
+			},
+			"race": "White",
+			"record_id": "305922.9376",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "CA25506Z"
+			},
+			"secondary_phone": "631-258-3059"
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100787",
+			"address": {
+				"city": "Wyandanch",
+				"line_1": "126 Washington Ave",
+				"state": "NY",
+				"zip": "11798"
+			},
+			"date_of_birth": "1976-03-21",
+			"death_indication": "N",
+			"ethnic_group": "Hispanic",
+			"first_name": "Marta",
+			"gender": "female",
+			"id": "9388",
+			"language": "English",
+			"last_name": "Velazquez",
+			"marital_status": "Unknown",
+			"middle_name": "YY",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "paolafigueroa1957@gmail.com",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"start_date": "2010-04-01",
+				"subscriber_no": "9U11MY8AU15"
+			},
+			"primary_phone": "631-940-9605",
+			"provider": {
+				"first_name": "Nancy",
+				"id": "9124",
+				"last_name": "Fortin",
+				"name_suffix": "ANP-C",
+				"npi": "1679623896"
+			},
+			"race": "White",
+			"record_id": "305922.9388",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "BC20395S"
+			},
+			"secondary_phone": "631-520-8512"
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100833",
+			"address": {
+				"city": "HUNTINGTN STA",
+				"line_1": "43 EVERT ST",
+				"state": "NY",
+				"zip": "11746-3541"
+			},
+			"date_of_birth": "1989-08-31",
+			"death_indication": "N",
+			"ethnic_group": "Hispanic",
+			"first_name": "Francheska",
+			"gender": "Female",
+			"id": "9391",
+			"language": "English",
+			"last_name": "Soto",
+			"marital_status": "Unknown",
+			"middle_name": "M",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_insurance": {
+				"class": "C",
+				"payer_code": "55247",
+				"payor_name": "HIP HEALTH PLAN OF GRTR NY",
+				"subscriber_no": "ABW55695S01"
+			},
+			"primary_phone": "631-974-2797",
+			"provider": {
+				"first_name": "Andrea",
+				"id": "532692",
+				"last_name": "Stengel",
+				"middle_name": "PHMNP",
+				"npi": "1235225871"
+			},
+			"race": "Other",
+			"record_id": "305922.9391",
+			"secondary_phone": "631-974-2797"
+		}
+	},
+	{
+		"patient_demographic": {
+			"account_no": "100915",
+			"address": {
+				"city": "Coram",
+				"line_1": "4 Wintergreen Dr",
+				"state": "NY",
+				"zip": "11727-2216"
+			},
+			"date_of_birth": "1960-03-09",
+			"death_indication": "N",
+			"first_name": "Lawrence",
+			"gender": "male",
+			"id": "9398",
+			"language": "English",
+			"last_name": "Ursitti",
+			"marital_status": "Single",
+			"name_prefix": "Sir",
+			"practice": {
+				"apuid": "305922"
+			},
+			"primary_email": "lkrebs@epicli.org",
+			"primary_insurance": {
+				"class": "B",
+				"payer_code": "NYMCR",
+				"payor_name": "Medicare Part A FQHC",
+				"subscriber_no": "2C09QD3TP29"
+			},
+			"primary_phone": "631-473-2821",
+			"provider": {
+				"first_name": "Jaclyn",
+				"id": "540636",
+				"last_name": "DiMattei",
+				"middle_name": "S",
+				"name_suffix": "NP",
+				"npi": "1093238222"
+			},
+			"race": "White",
+			"record_id": "305922.9398",
+			"secondary_insurance": {
+				"class": "A",
+				"id": "833",
+				"payer_code": "141797357",
+				"payor_name": "Medicaid OMRDD 95",
+				"subscriber_no": "AB94553S"
+			}
+		}
+	}
+]

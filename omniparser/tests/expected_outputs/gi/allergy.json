@@ -1,0 +1,208 @@
+[
+	{
+		"allergy": {
+			"code": "20176",
+			"domain": "Allergies",
+			"name": "NO KNOWN DRUG, FOOD OR CONTACT ALLERGIES",
+			"patient": {
+				"date_of_birth": "19511217",
+				"external_id": "1084322",
+				"first_name": "Patrick",
+				"last_name": "Crosson"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "1",
+			"start_date": "20080728"
+		}
+	},
+	{
+		"allergy": {
+			"code": "4252",
+			"domain": "Allergies",
+			"name": "CERESIN WAX",
+			"patient": {
+				"date_of_birth": "19731116",
+				"external_id": "3556771",
+				"first_name": "Joy",
+				"last_name": "Tranchida"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"reaction": {
+				"code": "1040",
+				"name": "Swelling, lips/throat/tongue"
+			},
+			"row": "2"
+		}
+	},
+	{
+		"allergy": {
+			"code": "4393",
+			"domain": "Allergies",
+			"name": "CODEINE",
+			"patient": {
+				"date_of_birth": "19551224",
+				"external_id": "4130915",
+				"first_name": "Cynthia",
+				"last_name": "Gosselin"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "3",
+			"start_date": "20080728"
+		}
+	},
+	{
+		"allergy": {
+			"code": "1000003",
+			"domain": "Allergies",
+			"name": "SEASONAL ALLERGIES",
+			"patient": {
+				"date_of_birth": "20040229",
+				"external_id": "3394409",
+				"first_name": "Ryan",
+				"last_name": "Addis"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"reaction": {
+				"code": "1046",
+				"name": "Other"
+			},
+			"row": "4",
+			"start_date": "20150429"
+		}
+	},
+	{
+		"allergy": {
+			"code": "4184",
+			"domain": "Allergies",
+			"name": "CAMPHOR",
+			"patient": {
+				"date_of_birth": "19530224",
+				"external_id": "1309044",
+				"first_name": "Mary",
+				"last_name": "Burrell"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"reaction": {
+				"code": "1046",
+				"name": "Other"
+			},
+			"row": "5",
+			"start_date": "20150429"
+		}
+	},
+	{
+		"allergy": {
+			"code": "7057",
+			"domain": "Allergies",
+			"name": "MOMETASONE",
+			"patient": {
+				"date_of_birth": "19420626",
+				"external_id": "1255122",
+				"first_name": "John",
+				"last_name": "Lopiccola"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"reaction": {
+				"code": "1018",
+				"name": "Headache"
+			},
+			"row": "6",
+			"start_date": "20150429"
+		}
+	},
+	{
+		"allergy": {
+			"code": "20176",
+			"domain": "Allergies",
+			"name": "NO KNOWN DRUG, FOOD OR CONTACT ALLERGIES",
+			"patient": {
+				"date_of_birth": "19390802",
+				"external_id": "1444962",
+				"first_name": "Daniel",
+				"last_name": "Kolesar"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "7",
+			"start_date": "20080728"
+		}
+	},
+	{
+		"allergy": {
+			"code": "5076",
+			"domain": "Allergies",
+			"name": "IODINE",
+			"patient": {
+				"date_of_birth": "19660510",
+				"external_id": "4120218",
+				"first_name": "Jill",
+				"last_name": "Haines"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"reaction": {
+				"code": "1016",
+				"name": "GI Distress"
+			},
+			"row": "8",
+			"start_date": "20080619"
+		}
+	},
+	{
+		"allergy": {
+			"code": "16293",
+			"domain": "Allergies",
+			"name": "CIPROFLOXACIN",
+			"patient": {
+				"date_of_birth": "19590513",
+				"external_id": "4131245",
+				"first_name": "Betty",
+				"last_name": "Peeples"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"reaction": {
+				"code": "1002",
+				"name": "Anaphylaxis/Shock"
+			},
+			"row": "9",
+			"start_date": "20080620"
+		}
+	},
+	{
+		"allergy": {
+			"code": "16128",
+			"domain": "Allergies",
+			"name": "AMOXICILLIN-POT CLAVULANATE",
+			"patient": {
+				"date_of_birth": "19320301",
+				"external_id": "2226293",
+				"first_name": "Louise",
+				"last_name": "Drummond"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"reaction": {
+				"code": "1010",
+				"name": "Dizziness"
+			},
+			"row": "10"
+		}
+	}
+]

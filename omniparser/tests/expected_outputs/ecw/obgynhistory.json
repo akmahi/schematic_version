@@ -1,0 +1,818 @@
+[
+	{
+		"obgyn_history": {
+			"answer_id": "3686",
+			"answers": "irritability",
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-24",
+				"id": "673750"
+			},
+			"item_id": "269102",
+			"item_name": "Premenstrual Syndrome",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "10923",
+				"id": "10924"
+			},
+			"practice": {
+				"apuid": "32144"
+			},
+			"provider": {
+				"npi": "1235205972"
+			},
+			"question": "symptoms:",
+			"question_id": "1448",
+			"record_id": "32144.10924.673750.1448"
+		}
+	},
+	{
+		"obgyn_history": {
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-24",
+				"id": "623962"
+			},
+			"item_id": "269101",
+			"item_name": "Menstruation:",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "13002",
+				"id": "13001"
+			},
+			"practice": {
+				"apuid": "32144"
+			},
+			"provider": {
+				"npi": "1235205972"
+			},
+			"question": "Lasts:",
+			"question_id": "1445",
+			"record_id": "32144.13001.623962.1445"
+		}
+	},
+	{
+		"obgyn_history": {
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "714249"
+			},
+			"item_id": "269100",
+			"item_name": "Menarche:",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "34238",
+				"id": "34238"
+			},
+			"practice": {
+				"apuid": "306945"
+			},
+			"provider": {
+				"npi": "1669957486"
+			},
+			"question": "Age of onset of maternal menarche:",
+			"question_id": "1442",
+			"record_id": "306945.34238.714249.1442"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answers": "Yes",
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "714249"
+			},
+			"item_id": "275371",
+			"item_name": "Breast Health Screening",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "34238",
+				"id": "34238"
+			},
+			"practice": {
+				"apuid": "306945"
+			},
+			"provider": {
+				"npi": "1669957486"
+			},
+			"question": "Received a Clinical Breast Exam",
+			"question_id": "3761",
+			"record_id": "306945.34238.714249.3761"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answer_id": "1990",
+			"answers": "1 year ago",
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-25",
+				"id": "2364838"
+			},
+			"item_id": "256239",
+			"item_name": "Last PAP:",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6079479",
+				"id": "6079479"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1306337332"
+			},
+			"question": "when done?",
+			"question_id": "1161",
+			"record_id": "5515.6079479.2364838.1161"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answers": "Yes",
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-25",
+				"id": "2364838"
+			},
+			"item_id": "256239",
+			"item_name": "Last PAP:",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6079479",
+				"id": "6079479"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1306337332"
+			},
+			"question": "Encouraged patient to follow up annually",
+			"question_id": "1162",
+			"record_id": "5515.6079479.2364838.1162"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answers": "No",
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-25",
+				"id": "2364838"
+			},
+			"item_id": "256239",
+			"item_name": "Last PAP:",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6079479",
+				"id": "6079479"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1306337332"
+			},
+			"question": "Medical Release form given",
+			"question_id": "1163",
+			"record_id": "5515.6079479.2364838.1163"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answers": "09/19/2022",
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-25",
+				"id": "2364838"
+			},
+			"item_id": "256236",
+			"item_name": "LMP:",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6079479",
+				"id": "6079479"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1306337332"
+			},
+			"question": "Date:",
+			"question_id": "1698",
+			"record_id": "5515.6079479.2364838.1698"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answers": "12",
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-25",
+				"id": "2364838"
+			},
+			"item_id": "412967",
+			"item_name": "Menarche (onset):",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6079479",
+				"id": "6079479"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1306337332"
+			},
+			"question": "Age (years):",
+			"question_id": "4299",
+			"record_id": "5515.6079479.2364838.4299"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answer_id": "1992",
+			"answers": "3 years ago",
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-25",
+				"id": "2362781"
+			},
+			"item_id": "256239",
+			"item_name": "Last PAP:",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6085569",
+				"id": "6085569"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1982168415"
+			},
+			"question": "when done?",
+			"question_id": "1161",
+			"record_id": "5515.6085569.2362781.1161"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answers": "10/13/2022",
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-25",
+				"id": "2362781"
+			},
+			"item_id": "256236",
+			"item_name": "LMP:",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6085569",
+				"id": "6085569"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1982168415"
+			},
+			"question": "Date:",
+			"question_id": "1698",
+			"record_id": "5515.6085569.2362781.1698"
+		}
+	},
+	{
+		"obgyn_history": {
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-25",
+				"id": "2362781"
+			},
+			"item_id": "412967",
+			"item_name": "Menarche (onset):",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6085569",
+				"id": "6085569"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1982168415"
+			},
+			"question": "Age (years):",
+			"question_id": "4299",
+			"record_id": "5515.6085569.2362781.4299"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answers": "1",
+			"category_id": "138211",
+			"category_name": "Ob History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-27",
+				"id": "2369193"
+			},
+			"item_id": "278295",
+			"item_name": "Pregnancies",
+			"main_category_name": "ObHistory",
+			"patient": {
+				"account_no": "6085673",
+				"id": "6085673"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1285299289"
+			},
+			"question": "total:",
+			"question_id": "1699",
+			"record_id": "5515.6085673.2369193.1699"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answers": "1",
+			"category_id": "138211",
+			"category_name": "Ob History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-27",
+				"id": "2369193"
+			},
+			"item_id": "138214",
+			"item_name": "Total living",
+			"main_category_name": "ObHistory",
+			"patient": {
+				"account_no": "6085673",
+				"id": "6085673"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1285299289"
+			},
+			"question": "children:",
+			"question_id": "1700",
+			"record_id": "5515.6085673.2369193.1700"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answers": "1",
+			"category_id": "138211",
+			"category_name": "Ob History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-27",
+				"id": "2369193"
+			},
+			"item_id": "199644",
+			"item_name": "Full-term delivery",
+			"main_category_name": "ObHistory",
+			"patient": {
+				"account_no": "6085673",
+				"id": "6085673"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1285299289"
+			},
+			"question": "how many:",
+			"question_id": "1701",
+			"record_id": "5515.6085673.2369193.1701"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answer_id": "1991",
+			"answers": "2 years ago",
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-26",
+				"id": "2370397"
+			},
+			"item_id": "256239",
+			"item_name": "Last PAP:",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6086040",
+				"id": "6086040"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1659865087"
+			},
+			"question": "when done?",
+			"question_id": "1161",
+			"record_id": "5515.6086040.2370397.1161"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answer_id": "2897",
+			"answers": "not medically indicated",
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-26",
+				"id": "2370397"
+			},
+			"item_id": "256248",
+			"item_name": "Mammogram:",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6086040",
+				"id": "6086040"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1659865087"
+			},
+			"question": "patient not in age range:",
+			"question_id": "1697",
+			"record_id": "5515.6086040.2370397.1697"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answers": "10/08/2022",
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-26",
+				"id": "2370397"
+			},
+			"item_id": "256236",
+			"item_name": "LMP:",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6086040",
+				"id": "6086040"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1659865087"
+			},
+			"question": "Date:",
+			"question_id": "1698",
+			"record_id": "5515.6086040.2370397.1698"
+		}
+	},
+	{
+		"obgyn_history": {
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-26",
+				"id": "2370397"
+			},
+			"item_id": "412967",
+			"item_name": "Menarche (onset):",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6086040",
+				"id": "6086040"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1659865087"
+			},
+			"question": "Age (years):",
+			"question_id": "4299",
+			"record_id": "5515.6086040.2370397.4299"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answer_id": "14243",
+			"answers": "> 3 years ago",
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2363066"
+			},
+			"item_id": "256239",
+			"item_name": "Last PAP:",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6093817",
+				"id": "6093817"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1871036319"
+			},
+			"question": "when done?",
+			"question_id": "1161",
+			"record_id": "5515.6093817.2363066.1161"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answer_id": "2504",
+			"answers": "none",
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2363066"
+			},
+			"item_id": "279741",
+			"item_name": "Sexual Abuse:",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6093817",
+				"id": "6093817"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1871036319"
+			},
+			"question": "history:",
+			"question_id": "1405",
+			"record_id": "5515.6093817.2363066.1405"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answers": "07/14/2022",
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2363066"
+			},
+			"item_id": "256236",
+			"item_name": "LMP:",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6093817",
+				"id": "6093817"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1871036319"
+			},
+			"question": "Date:",
+			"question_id": "1698",
+			"record_id": "5515.6093817.2363066.1698"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answers": "4",
+			"category_id": "138211",
+			"category_name": "Ob History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2363066"
+			},
+			"item_id": "278295",
+			"item_name": "Pregnancies",
+			"main_category_name": "ObHistory",
+			"patient": {
+				"account_no": "6093817",
+				"id": "6093817"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1871036319"
+			},
+			"question": "total:",
+			"question_id": "1699",
+			"record_id": "5515.6093817.2363066.1699"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answers": "4",
+			"category_id": "138211",
+			"category_name": "Ob History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2363066"
+			},
+			"item_id": "138214",
+			"item_name": "Total living",
+			"main_category_name": "ObHistory",
+			"patient": {
+				"account_no": "6093817",
+				"id": "6093817"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1871036319"
+			},
+			"question": "children:",
+			"question_id": "1700",
+			"record_id": "5515.6093817.2363066.1700"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answers": "4",
+			"category_id": "138211",
+			"category_name": "Ob History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2363066"
+			},
+			"item_id": "199644",
+			"item_name": "Full-term delivery",
+			"main_category_name": "ObHistory",
+			"patient": {
+				"account_no": "6093817",
+				"id": "6093817"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1871036319"
+			},
+			"question": "how many:",
+			"question_id": "1701",
+			"record_id": "5515.6093817.2363066.1701"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answers": "12",
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2363066"
+			},
+			"item_id": "412967",
+			"item_name": "Menarche (onset):",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6093817",
+				"id": "6093817"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1871036319"
+			},
+			"question": "Age (years):",
+			"question_id": "4299",
+			"record_id": "5515.6093817.2363066.4299"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answer_id": "14244",
+			"answers": "UTD",
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2363066"
+			},
+			"item_id": "278067",
+			"item_name": "Breast Health Screening:",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6093817",
+				"id": "6093817"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1871036319"
+			},
+			"question": "Breast Self-Exam",
+			"question_id": "4653",
+			"record_id": "5515.6093817.2363066.4653"
+		}
+	},
+	{
+		"obgyn_history": {
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2363066"
+			},
+			"item_id": "256248",
+			"item_name": "Mammogram:",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6093817",
+				"id": "6093817"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1871036319"
+			},
+			"question": "Last mammogram:",
+			"question_id": "970",
+			"record_id": "5515.6093817.2363066.970"
+		}
+	},
+	{
+		"obgyn_history": {
+			"answer_id": "14243",
+			"answers": "> 3 years ago",
+			"category_id": "138212",
+			"category_name": "GYN History",
+			"ecw_struct_id": "0",
+			"encounter": {
+				"date": "2022-10-18",
+				"id": "2349480"
+			},
+			"item_id": "256239",
+			"item_name": "Last PAP:",
+			"main_category_name": "GYNHistory",
+			"patient": {
+				"account_no": "6096390",
+				"id": "6096390"
+			},
+			"practice": {
+				"apuid": "5515"
+			},
+			"provider": {
+				"npi": "1548638877"
+			},
+			"question": "when done?",
+			"question_id": "1161",
+			"record_id": "5515.6096390.2349480.1161"
+		}
+	}
+]

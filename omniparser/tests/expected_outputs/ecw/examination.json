@@ -1,0 +1,813 @@
+[
+	{
+		"examination": {
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2510439"
+			},
+			"item_id": "21471",
+			"item_name": "Start/End Times",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "539681",
+				"id": "539681"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Start Time:",
+			"question_id": "1321",
+			"record_id": "305922.539681.2510439.1321"
+		}
+	},
+	{
+		"examination": {
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2510439"
+			},
+			"item_id": "21473",
+			"item_name": "Precautions/Contraindications",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "539681",
+				"id": "539681"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Start Time:",
+			"question_id": "1321",
+			"record_id": "305922.539681.2510439.1321"
+		}
+	},
+	{
+		"examination": {
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2510439"
+			},
+			"item_id": "21474",
+			"item_name": "Subjective",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "539681",
+				"id": "539681"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Start Time:",
+			"question_id": "1321",
+			"record_id": "305922.539681.2510439.1321"
+		}
+	},
+	{
+		"examination": {
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2510439"
+			},
+			"item_id": "21475",
+			"item_name": "Speech Therapy Treatment Modalities",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "539681",
+				"id": "539681"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Start Time:",
+			"question_id": "1321",
+			"record_id": "305922.539681.2510439.1321"
+		}
+	},
+	{
+		"examination": {
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2510439"
+			},
+			"item_id": "21476",
+			"item_name": "NOTE",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "539681",
+				"id": "539681"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Start Time:",
+			"question_id": "1321",
+			"record_id": "305922.539681.2510439.1321"
+		}
+	},
+	{
+		"examination": {
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2510439"
+			},
+			"item_id": "21471",
+			"item_name": "Start/End Times",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "539681",
+				"id": "539681"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "End Time:",
+			"question_id": "1322",
+			"record_id": "305922.539681.2510439.1322"
+		}
+	},
+	{
+		"examination": {
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2510439"
+			},
+			"item_id": "21473",
+			"item_name": "Precautions/Contraindications",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "539681",
+				"id": "539681"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "End Time:",
+			"question_id": "1322",
+			"record_id": "305922.539681.2510439.1322"
+		}
+	},
+	{
+		"examination": {
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2510439"
+			},
+			"item_id": "21474",
+			"item_name": "Subjective",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "539681",
+				"id": "539681"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "End Time:",
+			"question_id": "1322",
+			"record_id": "305922.539681.2510439.1322"
+		}
+	},
+	{
+		"examination": {
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2510439"
+			},
+			"item_id": "21475",
+			"item_name": "Speech Therapy Treatment Modalities",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "539681",
+				"id": "539681"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "End Time:",
+			"question_id": "1322",
+			"record_id": "305922.539681.2510439.1322"
+		}
+	},
+	{
+		"examination": {
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2510439"
+			},
+			"item_id": "21476",
+			"item_name": "NOTE",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "539681",
+				"id": "539681"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "End Time:",
+			"question_id": "1322",
+			"record_id": "305922.539681.2510439.1322"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "2287,2296,",
+			"answers": "Articulatory Drills, Conversational Topic Maintenance, Comprehension of WH- Questions, Sequencing",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2510439"
+			},
+			"item_id": "21471",
+			"item_name": "Start/End Times",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "539681",
+				"id": "539681"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Treatment Modalities:",
+			"question_id": "1323",
+			"record_id": "305922.539681.2510439.1323"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "2287,2296,",
+			"answers": "Articulatory Drills, Conversational Topic Maintenance, Comprehension of WH- Questions, Sequencing",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2510439"
+			},
+			"item_id": "21473",
+			"item_name": "Precautions/Contraindications",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "539681",
+				"id": "539681"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Treatment Modalities:",
+			"question_id": "1323",
+			"record_id": "305922.539681.2510439.1323"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "2287,2296,",
+			"answers": "Articulatory Drills, Conversational Topic Maintenance, Comprehension of WH- Questions, Sequencing",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2510439"
+			},
+			"item_id": "21474",
+			"item_name": "Subjective",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "539681",
+				"id": "539681"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Treatment Modalities:",
+			"question_id": "1323",
+			"record_id": "305922.539681.2510439.1323"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "2287,2296,",
+			"answers": "Articulatory Drills, Conversational Topic Maintenance, Comprehension of WH- Questions, Sequencing",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2510439"
+			},
+			"item_id": "21475",
+			"item_name": "Speech Therapy Treatment Modalities",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "539681",
+				"id": "539681"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Treatment Modalities:",
+			"question_id": "1323",
+			"record_id": "305922.539681.2510439.1323"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "2287,2296,",
+			"answers": "Articulatory Drills, Conversational Topic Maintenance, Comprehension of WH- Questions, Sequencing",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2510439"
+			},
+			"item_id": "21476",
+			"item_name": "NOTE",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "539681",
+				"id": "539681"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Treatment Modalities:",
+			"question_id": "1323",
+			"record_id": "305922.539681.2510439.1323"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "0",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2509800"
+			},
+			"item_id": "21471",
+			"item_name": "Start/End Times",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "508452",
+				"id": "11630"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Start Time:",
+			"question_id": "1321",
+			"record_id": "305922.11630.2509800.1321"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "0",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2509800"
+			},
+			"item_id": "21473",
+			"item_name": "Precautions/Contraindications",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "508452",
+				"id": "11630"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Start Time:",
+			"question_id": "1321",
+			"record_id": "305922.11630.2509800.1321"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "0",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2509800"
+			},
+			"item_id": "21474",
+			"item_name": "Subjective",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "508452",
+				"id": "11630"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Start Time:",
+			"question_id": "1321",
+			"record_id": "305922.11630.2509800.1321"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "0",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2509800"
+			},
+			"item_id": "21475",
+			"item_name": "Speech Therapy Treatment Modalities",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "508452",
+				"id": "11630"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Start Time:",
+			"question_id": "1321",
+			"record_id": "305922.11630.2509800.1321"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "0",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2509800"
+			},
+			"item_id": "21476",
+			"item_name": "NOTE",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "508452",
+				"id": "11630"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Start Time:",
+			"question_id": "1321",
+			"record_id": "305922.11630.2509800.1321"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "0",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2509800"
+			},
+			"item_id": "21471",
+			"item_name": "Start/End Times",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "508452",
+				"id": "11630"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "End Time:",
+			"question_id": "1322",
+			"record_id": "305922.11630.2509800.1322"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "0",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2509800"
+			},
+			"item_id": "21473",
+			"item_name": "Precautions/Contraindications",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "508452",
+				"id": "11630"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "End Time:",
+			"question_id": "1322",
+			"record_id": "305922.11630.2509800.1322"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "0",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2509800"
+			},
+			"item_id": "21474",
+			"item_name": "Subjective",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "508452",
+				"id": "11630"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "End Time:",
+			"question_id": "1322",
+			"record_id": "305922.11630.2509800.1322"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "0",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2509800"
+			},
+			"item_id": "21475",
+			"item_name": "Speech Therapy Treatment Modalities",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "508452",
+				"id": "11630"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "End Time:",
+			"question_id": "1322",
+			"record_id": "305922.11630.2509800.1322"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "0",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2509800"
+			},
+			"item_id": "21476",
+			"item_name": "NOTE",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "508452",
+				"id": "11630"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "End Time:",
+			"question_id": "1322",
+			"record_id": "305922.11630.2509800.1322"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "2282,2284,",
+			"answers": "Communication Board, Speech Output Device, Vocabulary Expansion, Social Reciprocity/Turn Taking, Joint Attention, Categorization, Comprehension of WH- Questions, Comprehension of Yes/No Questions, Caregiver Training",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2509800"
+			},
+			"item_id": "21471",
+			"item_name": "Start/End Times",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "508452",
+				"id": "11630"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Treatment Modalities:",
+			"question_id": "1323",
+			"record_id": "305922.11630.2509800.1323"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "2282,2284,",
+			"answers": "Communication Board, Speech Output Device, Vocabulary Expansion, Social Reciprocity/Turn Taking, Joint Attention, Categorization, Comprehension of WH- Questions, Comprehension of Yes/No Questions, Caregiver Training",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2509800"
+			},
+			"item_id": "21473",
+			"item_name": "Precautions/Contraindications",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "508452",
+				"id": "11630"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Treatment Modalities:",
+			"question_id": "1323",
+			"record_id": "305922.11630.2509800.1323"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "2282,2284,",
+			"answers": "Communication Board, Speech Output Device, Vocabulary Expansion, Social Reciprocity/Turn Taking, Joint Attention, Categorization, Comprehension of WH- Questions, Comprehension of Yes/No Questions, Caregiver Training",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2509800"
+			},
+			"item_id": "21474",
+			"item_name": "Subjective",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "508452",
+				"id": "11630"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Treatment Modalities:",
+			"question_id": "1323",
+			"record_id": "305922.11630.2509800.1323"
+		}
+	},
+	{
+		"examination": {
+			"answer_id": "2282,2284,",
+			"answers": "Communication Board, Speech Output Device, Vocabulary Expansion, Social Reciprocity/Turn Taking, Joint Attention, Categorization, Comprehension of WH- Questions, Comprehension of Yes/No Questions, Caregiver Training",
+			"category_id": "419371",
+			"category_name": "DAILY NOTE",
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2509800"
+			},
+			"item_id": "21475",
+			"item_name": "Speech Therapy Treatment Modalities",
+			"main_category_id": "419371",
+			"main_category_name": "419371",
+			"patient": {
+				"account_no": "508452",
+				"id": "11630"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1073244257"
+			},
+			"question": "Treatment Modalities:",
+			"question_id": "1323",
+			"record_id": "305922.11630.2509800.1323"
+		}
+	}
+]

@@ -1,0 +1,548 @@
+[
+	{
+		"demographic": {
+			"address": {
+				"city": "CANTON",
+				"line1": "439 CHERRY HILL POINTE DR",
+				"state": "MI",
+				"zip": "48187"
+			},
+			"advance_directives": "0",
+			"caremanager": {
+				"first_name": "WILLIAM",
+				"last_name": "AARON"
+			},
+			"date_of_birth": "19580204",
+			"domain": "Demographics",
+			"email": "william70108@gmail.com",
+			"ethnicity": {
+				"code": "8",
+				"name": "Non Hispanic/Latino"
+			},
+			"first_name": "WILLIAM",
+			"gender": "M",
+			"home_phone": "5868727779",
+			"last_name": "AARON",
+			"marital_status": {
+				"code": "30",
+				"name": "Married"
+			},
+			"middle_name": "S",
+			"mihin_common_key": "AEC2DKOTNYVRD2FSQOQW3INO5NPNH6AAFTILH24R",
+			"patient": {
+				"date_of_birth": "19580204",
+				"external_id": "1886064",
+				"first_name": "WILLIAM",
+				"last_name": "AARON"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"primary_language": {
+				"code": "91",
+				"name": "English"
+			},
+			"primary_physician": {
+				"npi": "207Q00000X"
+			},
+			"provider_partnership": "10",
+			"provider_partnership_date": "20221111",
+			"race": {
+				"code": "4",
+				"name": "White or Caucasian"
+			},
+			"row": "1",
+			"ssn": "324583755"
+		}
+	},
+	{
+		"demographic": {
+			"address": {
+				"city": "FARMINGTON HILLS",
+				"line1": "23683 CORA AVE",
+				"state": "MI",
+				"zip": "48336"
+			},
+			"advance_directives": "0",
+			"caremanager": {
+				"first_name": "TAMMY",
+				"last_name": "ABBATE"
+			},
+			"date_of_birth": "19630306",
+			"domain": "Demographics",
+			"email": "acheeks2@aol.com",
+			"ethnicity": {
+				"code": "8",
+				"name": "Non Hispanic/Latino"
+			},
+			"first_name": "TAMMY",
+			"gender": "F",
+			"home_phone": "2483084144",
+			"last_name": "ABBATE",
+			"marital_status": {
+				"code": "30",
+				"name": "Married"
+			},
+			"middle_name": "D",
+			"mihin_common_key": "AGWMBE34XIBRD2EGFAIYUNX4L3BYA5FFDR4D7IC6",
+			"patient": {
+				"date_of_birth": "19630306",
+				"external_id": "4688993",
+				"first_name": "TAMMY",
+				"last_name": "ABBATE"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"primary_language": {
+				"code": "91",
+				"name": "English"
+			},
+			"provider_partnership": "10",
+			"provider_partnership_date": "20180920",
+			"race": {
+				"code": "4",
+				"name": "White or Caucasian"
+			},
+			"row": "2",
+			"ssn": "368700518"
+		}
+	},
+	{
+		"demographic": {
+			"address": {
+				"city": "DEARBORN HEIGHTS",
+				"line1": "675 BERWYN",
+				"state": "MI",
+				"zip": "48127"
+			},
+			"advance_directives": "0",
+			"caremanager": {
+				"first_name": "MOHAMAD",
+				"last_name": "ABDALLAH"
+			},
+			"date_of_birth": "19470825",
+			"domain": "Demographics",
+			"ethnicity": {
+				"code": "7",
+				"name": "Arab or Middle Eastern Descent"
+			},
+			"first_name": "MOHAMAD",
+			"gender": "M",
+			"home_phone": "3138461855",
+			"last_name": "ABDALLAH",
+			"marital_status": {
+				"code": "30",
+				"name": "Married"
+			},
+			"mihin_common_key": "AFK327ACK5MBD2EYB53QTTFHONEB5JBA3YHY4BF3",
+			"patient": {
+				"date_of_birth": "19470825",
+				"external_id": "4734955",
+				"first_name": "MOHAMAD",
+				"last_name": "ABDALLAH"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"primary_language": {
+				"code": "352",
+				"name": "Unknown"
+			},
+			"primary_physician": {
+				"npi": "207R00000X"
+			},
+			"provider_partnership": "10",
+			"provider_partnership_date": "20191114",
+			"race": {
+				"code": "4",
+				"name": "White or Caucasian"
+			},
+			"row": "3",
+			"ssn": "370842824"
+		}
+	},
+	{
+		"demographic": {
+			"address": {
+				"city": "DEARBORN",
+				"line1": "7847 E MORROW CIRCLE",
+				"state": "MI",
+				"zip": "48126"
+			},
+			"advance_directives": "0",
+			"caremanager": {
+				"first_name": "JOSEPH",
+				"last_name": "ABELA"
+			},
+			"date_of_birth": "19460226",
+			"domain": "Demographics",
+			"email": "Josephabela46@gmail.com",
+			"ethnicity": {
+				"code": "13",
+				"name": "Other"
+			},
+			"first_name": "JOSEPH",
+			"gender": "M",
+			"home_phone": "3139317458",
+			"last_name": "ABELA",
+			"marital_status": {
+				"code": "30",
+				"name": "Married"
+			},
+			"mihin_common_key": "AH6F7LDAKVVRD2EYB53QTTFHONEDPVCCFH76HQYH",
+			"patient": {
+				"date_of_birth": "19460226",
+				"external_id": "5730317",
+				"first_name": "JOSEPH",
+				"last_name": "ABELA"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"primary_language": {
+				"code": "91",
+				"name": "English"
+			},
+			"provider_partnership": "10",
+			"provider_partnership_date": "20221216",
+			"race": {
+				"code": "6",
+				"name": "Other"
+			},
+			"row": "4",
+			"ssn": "372462718"
+		}
+	},
+	{
+		"demographic": {
+			"address": {
+				"city": "MELVINDALE",
+				"line1": "18591 Ruth St",
+				"state": "MI",
+				"zip": "48122"
+			},
+			"advance_directives": "0",
+			"caremanager": {
+				"first_name": "Ghada",
+				"last_name": "ABO ALI"
+			},
+			"date_of_birth": "19920405",
+			"domain": "Demographics",
+			"email": "Mohroose2012@hotmail.com",
+			"ethnicity": {
+				"code": "8",
+				"name": "Non Hispanic/Latino"
+			},
+			"first_name": "Ghada",
+			"gender": "F",
+			"home_phone": "5176177503",
+			"last_name": "ABO ALI",
+			"marital_status": {
+				"code": "30",
+				"name": "Married"
+			},
+			"mihin_common_key": "AGS7FJGQMP2RD2FSQOQW3INO5NPPVVIMBQMD6B6Z",
+			"patient": {
+				"date_of_birth": "19920405",
+				"external_id": "9430913",
+				"first_name": "Ghada",
+				"last_name": "ABO ALI"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"primary_language": {
+				"code": "20",
+				"name": "Arabic"
+			},
+			"primary_physician": {
+				"npi": "207R00000X"
+			},
+			"provider_partnership": "10",
+			"provider_partnership_date": "20210924",
+			"race": {
+				"code": "4",
+				"name": "White or Caucasian"
+			},
+			"row": "5",
+			"ssn": "999999999"
+		}
+	},
+	{
+		"demographic": {
+			"address": {
+				"city": "LIVONIA",
+				"line1": "15324 SHADYSIDE ST",
+				"state": "MI",
+				"zip": "48154"
+			},
+			"advance_directives": "0",
+			"caremanager": {
+				"first_name": "DEBRA",
+				"last_name": "ABRAHAM"
+			},
+			"date_of_birth": "19550526",
+			"domain": "Demographics",
+			"email": "DABR1955@SBCGLOBAL.NET",
+			"ethnicity": {
+				"code": "8",
+				"name": "Non Hispanic/Latino"
+			},
+			"first_name": "DEBRA",
+			"gender": "F",
+			"home_phone": "7345027274",
+			"last_name": "ABRAHAM",
+			"marital_status": {
+				"code": "10",
+				"name": "Divorced"
+			},
+			"middle_name": "V",
+			"mihin_common_key": "AFOJNWE5G5VBDZ47BLRZYHA2PBGEST7F6WUH554L",
+			"patient": {
+				"date_of_birth": "19550526",
+				"external_id": "1855356",
+				"first_name": "DEBRA",
+				"last_name": "ABRAHAM"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"primary_language": {
+				"code": "91",
+				"name": "English"
+			},
+			"provider_partnership": "10",
+			"provider_partnership_date": "20181009",
+			"race": {
+				"code": "4",
+				"name": "White or Caucasian"
+			},
+			"row": "6",
+			"ssn": "263829985"
+		}
+	},
+	{
+		"demographic": {
+			"address": {
+				"city": "DEARBORN",
+				"line1": "4244 MAPLE",
+				"state": "MI",
+				"zip": "48126"
+			},
+			"advance_directives": "0",
+			"caremanager": {
+				"first_name": "KAMIL",
+				"last_name": "ABRAHAM"
+			},
+			"date_of_birth": "19830920",
+			"domain": "Demographics",
+			"email": "kamilabraham@gmail.com",
+			"ethnicity": {
+				"code": "7",
+				"name": "Arab or Middle Eastern Descent"
+			},
+			"first_name": "KAMIL",
+			"gender": "M",
+			"home_phone": "3134102750",
+			"last_name": "ABRAHAM",
+			"marital_status": {
+				"code": "60",
+				"name": "Single"
+			},
+			"mihin_common_key": "AFRFYC6PUGIRD2MBE5I7EU5VGKFOM7TCXWXCPVU6",
+			"patient": {
+				"date_of_birth": "19830920",
+				"external_id": "4844007",
+				"first_name": "KAMIL",
+				"last_name": "ABRAHAM"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"primary_language": {
+				"code": "91",
+				"name": "English"
+			},
+			"primary_physician": {
+				"npi": "207R00000X"
+			},
+			"provider_partnership": "10",
+			"provider_partnership_date": "20180321",
+			"race": {
+				"code": "4",
+				"name": "White or Caucasian"
+			},
+			"row": "7",
+			"ssn": "385926252"
+		}
+	},
+	{
+		"demographic": {
+			"address": {
+				"city": "DEARBORN",
+				"line1": "24729 WINONA ST",
+				"state": "MI",
+				"zip": "48124"
+			},
+			"advance_directives": "0",
+			"advance_directives_date": "20150728",
+			"caremanager": {
+				"first_name": "KATHLEEN",
+				"last_name": "ABRAMCZYK"
+			},
+			"date_of_birth": "19460117",
+			"domain": "Demographics",
+			"email": "lkabram@aol.com",
+			"ethnicity": {
+				"code": "8",
+				"name": "Non Hispanic/Latino"
+			},
+			"first_name": "KATHLEEN",
+			"gender": "F",
+			"home_phone": "3135635689",
+			"last_name": "ABRAMCZYK",
+			"marital_status": {
+				"code": "30",
+				"name": "Married"
+			},
+			"middle_name": "F",
+			"mihin_common_key": "AHY7MHF3NYVBD2FSQOQW3INO5NPCAVQ4S2EPVO3S",
+			"patient": {
+				"date_of_birth": "19460117",
+				"external_id": "3454577",
+				"first_name": "KATHLEEN",
+				"last_name": "ABRAMCZYK"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"primary_language": {
+				"code": "91",
+				"name": "English"
+			},
+			"primary_physician": {
+				"npi": "207R00000X"
+			},
+			"provider_partnership": "10",
+			"provider_partnership_date": "20211220",
+			"race": {
+				"code": "4",
+				"name": "White or Caucasian"
+			},
+			"row": "8",
+			"ssn": "362487638"
+		}
+	},
+	{
+		"demographic": {
+			"address": {
+				"city": "SOUTHGATE",
+				"line1": "13046 EDISON",
+				"state": "MI",
+				"zip": "48195"
+			},
+			"advance_directives": "0",
+			"caremanager": {
+				"first_name": "CRISSIE",
+				"last_name": "ADAMS"
+			},
+			"date_of_birth": "19840113",
+			"domain": "Demographics",
+			"email": "crissie.adams1@yahoo.com",
+			"ethnicity": {
+				"code": "8",
+				"name": "Non Hispanic/Latino"
+			},
+			"first_name": "CRISSIE",
+			"gender": "F",
+			"home_phone": "3137427954",
+			"last_name": "ADAMS",
+			"marital_status": {
+				"code": "60",
+				"name": "Single"
+			},
+			"mihin_common_key": "AFBZGYEH34IRD2FRDB3QP2ROAL5TNMAL22K377IB",
+			"patient": {
+				"date_of_birth": "19840113",
+				"external_id": "5359047",
+				"first_name": "CRISSIE",
+				"last_name": "ADAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"primary_language": {
+				"code": "91",
+				"name": "English"
+			},
+			"primary_physician": {
+				"npi": "207Q00000X"
+			},
+			"provider_partnership": "10",
+			"provider_partnership_date": "20221227",
+			"race": {
+				"code": "1",
+				"name": "Black or African American"
+			},
+			"row": "9",
+			"ssn": "372940352"
+		}
+	},
+	{
+		"demographic": {
+			"address": {
+				"city": "DETROIT",
+				"line1": "9552 AUBURN",
+				"state": "MI",
+				"zip": "482281676"
+			},
+			"advance_directives": "0",
+			"advance_directives_date": "20160613",
+			"caremanager": {
+				"first_name": "ROSEMARY",
+				"last_name": "ADAMS"
+			},
+			"date_of_birth": "19560227",
+			"domain": "Demographics",
+			"email": "bestmomever313@gmail.com",
+			"ethnicity": {
+				"code": "8",
+				"name": "Non Hispanic/Latino"
+			},
+			"first_name": "ROSEMARY",
+			"gender": "F",
+			"home_phone": "3138355852",
+			"last_name": "ADAMS",
+			"marital_status": {
+				"code": "60",
+				"name": "Single"
+			},
+			"mihin_common_key": "AETFJPT2NHZBD2FSQOQW3INO5NPJFVBNNAU7NMIG",
+			"patient": {
+				"date_of_birth": "19560227",
+				"external_id": "4523663",
+				"first_name": "ROSEMARY",
+				"last_name": "ADAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"primary_language": {
+				"code": "91",
+				"name": "English"
+			},
+			"primary_physician": {
+				"npi": "207Q00000X"
+			},
+			"provider_partnership": "10",
+			"provider_partnership_date": "20210416",
+			"race": {
+				"code": "1",
+				"name": "Black or African American"
+			},
+			"row": "10",
+			"ssn": "319549813"
+		}
+	}
+]

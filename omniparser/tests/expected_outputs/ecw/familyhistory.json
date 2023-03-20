@@ -1,0 +1,557 @@
+[
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2419095"
+			},
+			"patient": {
+				"account_no": "526642",
+				"id": "526642"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Paternal Grand Father",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2419095"
+			},
+			"patient": {
+				"account_no": "526642",
+				"id": "526642"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Father",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2419095"
+			},
+			"patient": {
+				"account_no": "526642",
+				"id": "526642"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Mother",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2517824"
+			},
+			"patient": {
+				"account_no": "400317",
+				"id": "9977"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Father",
+			"status": "unknown"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2517824"
+			},
+			"patient": {
+				"account_no": "400317",
+				"id": "9977"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Mother",
+			"status": "deceased"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2537450"
+			},
+			"patient": {
+				"account_no": "520235",
+				"id": "13532"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Father",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2537450"
+			},
+			"patient": {
+				"account_no": "520235",
+				"id": "13532"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Mother",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2540717"
+			},
+			"patient": {
+				"account_no": "531301",
+				"id": "531301"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Father",
+			"status": "unknown"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2540717"
+			},
+			"patient": {
+				"account_no": "531301",
+				"id": "531301"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Mother",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2546108"
+			},
+			"icd_code": "429.9",
+			"icd_desc": "Cardiopathy",
+			"icd_item_id": "110448",
+			"patient": {
+				"account_no": "508104",
+				"id": "11582"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"record_id": "305922.11582.2546108.10688.110448",
+			"relationship": "Father",
+			"status": "deceased"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2546108"
+			},
+			"patient": {
+				"account_no": "508104",
+				"id": "11582"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Mother",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2551331"
+			},
+			"patient": {
+				"account_no": "502825",
+				"id": "11069"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Father",
+			"status": "unknown"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2551331"
+			},
+			"patient": {
+				"account_no": "502825",
+				"id": "11069"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Mother",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2510419"
+			},
+			"patient": {
+				"account_no": "529253",
+				"id": "529253"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Father",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2510419"
+			},
+			"patient": {
+				"account_no": "529253",
+				"id": "529253"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Mother",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2527186"
+			},
+			"patient": {
+				"account_no": "540261",
+				"id": "540261"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Father",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2527186"
+			},
+			"patient": {
+				"account_no": "540261",
+				"id": "540261"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Mother",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2531535"
+			},
+			"patient": {
+				"account_no": "532178",
+				"id": "532178"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Father",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2531535"
+			},
+			"patient": {
+				"account_no": "532178",
+				"id": "532178"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Mother",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2544650"
+			},
+			"patient": {
+				"account_no": "400681",
+				"id": "10085"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Father",
+			"status": "deceased"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2544650"
+			},
+			"patient": {
+				"account_no": "400681",
+				"id": "10085"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Mother",
+			"status": "deceased"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2517560"
+			},
+			"patient": {
+				"account_no": "100047",
+				"id": "9321"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Father",
+			"status": "deceased"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2517560"
+			},
+			"patient": {
+				"account_no": "100047",
+				"id": "9321"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Mother",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2542571"
+			},
+			"patient": {
+				"account_no": "200019",
+				"id": "9720"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Siblings",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2542571"
+			},
+			"patient": {
+				"account_no": "200019",
+				"id": "9720"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Father",
+			"status": "deceased"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2542571"
+			},
+			"patient": {
+				"account_no": "200019",
+				"id": "9720"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Mother",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Children",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Father",
+			"status": "alive"
+		}
+	},
+	{
+		"family_history": {
+			"encounter": {
+				"id": "2547790"
+			},
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"relationship": "Mother",
+			"status": "deceased"
+		}
+	}
+]

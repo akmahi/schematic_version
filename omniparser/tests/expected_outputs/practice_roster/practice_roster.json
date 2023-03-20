@@ -1,0 +1,122 @@
+[
+	{
+		"practice": {
+			"address": {
+				"city": "Augusta",
+				"country": "USA",
+				"line1": "219 Capitol Street",
+				"line2": "Suite 5",
+				"state": "ME",
+				"zip": "04330"
+			},
+			"billing_name": "Family Focused Healthcare",
+			"contact": {
+				"first_name": "Bethany",
+				"middle_initial": "Pinkham",
+				"phone": "207-213-6713"
+			},
+			"fax": "207-213-6713",
+			"group_npi": "1568867885",
+			"location_rank": "1",
+			"name": "Family Focused Healthcare",
+			"phone_work": "207-213-6713",
+			"tin": "472155341",
+			"type": "4"
+		}
+	},
+	{
+		"practice": {
+			"address": {
+				"city": "Waterville",
+				"country": "USA",
+				"line1": "325A Kennedy Memorial Drive",
+				"state": "ME",
+				"zip": "04901"
+			},
+			"billing_name": "Eye Care of Maine",
+			"contact": {
+				"first_name": "Becky",
+				"middle_initial": "Applebee",
+				"phone": "207-873-2731"
+			},
+			"fax": "207-873-1106",
+			"group_npi": "1710953336",
+			"location_rank": "1",
+			"name": "Eye Care of Maine",
+			"phone_work": "207-873-2731",
+			"tin": "010316462",
+			"type": "4"
+		}
+	},
+	{
+		"practice": {
+			"address": {
+				"city": "Augusta",
+				"country": "USA",
+				"line1": "35 Medical Center Parkway",
+				"line2": "Suite 201",
+				"state": "ME",
+				"zip": "04330"
+			},
+			"billing_name": "Kennebec Anesthesia Associates (A)",
+			"contact": {
+				"first_name": "Karen",
+				"middle_initial": "Wheeler",
+				"phone": "207-620-1136"
+			},
+			"fax": "207-430-4020",
+			"group_npi": "1992789184",
+			"location_rank": "1",
+			"name": "Kennebec Anesthesia Associates (A)",
+			"phone_work": "207-620-1136",
+			"tin": "010318691",
+			"type": "4"
+		}
+	},
+	{
+		"practice": {
+			"address": {
+				"city": "Augusta",
+				"country": "USA",
+				"line1": "227 Eastern Ave",
+				"state": "ME",
+				"zip": "04330"
+			},
+			"billing_name": "Atlee Gleaton Eye Care",
+			"contact": {
+				"first_name": "Leah",
+				"middle_initial": "Delisle",
+				"phone": "207-622-3185"
+			},
+			"fax": "207-622-5697",
+			"group_npi": "1932284171",
+			"location_rank": "1",
+			"name": "Atlee Gleaton Eye Care",
+			"phone_work": "207-622-3185",
+			"tin": "010324279",
+			"type": "4"
+		}
+	},
+	{
+		"practice": {
+			"address": {
+				"city": "Augusta",
+				"country": "USA",
+				"line1": "35 Medical Center Parkway",
+				"state": "ME",
+				"zip": "04330"
+			},
+			"billing_name": "Pathology Associates PA",
+			"contact": {
+				"phone": "207-626-1409"
+			},
+			"fax": "207-626-1046",
+			"group_npi": "1346300738",
+			"location_rank": "1",
+			"name": "Pathology Associates PA",
+			"phone_work": "207-626-1409",
+			"tin": "010350921",
+			"type": "4"
+		}
+	}
+]

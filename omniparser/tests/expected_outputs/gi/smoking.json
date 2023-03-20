@@ -1,0 +1,183 @@
+[
+	{
+		"smoking": {
+			"code": "5",
+			"domain": "Smoking Status",
+			"last_confirmed_date": "20221209",
+			"name": "Never",
+			"patient": {
+				"date_of_birth": "19390701",
+				"external_id": "5226682",
+				"first_name": "Shoshi",
+				"last_name": "Aal Iessa"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "1"
+		}
+	},
+	{
+		"smoking": {
+			"code": "5",
+			"domain": "Smoking Status",
+			"last_confirmed_date": "20221219",
+			"name": "Never",
+			"patient": {
+				"date_of_birth": "19880331",
+				"external_id": "9549212",
+				"first_name": "Syeda",
+				"last_name": "Abbas"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "2"
+		}
+	},
+	{
+		"smoking": {
+			"code": "4",
+			"domain": "Smoking Status",
+			"last_confirmed_date": "20221216",
+			"name": "Former",
+			"patient": {
+				"date_of_birth": "20040425",
+				"external_id": "3455635",
+				"first_name": "Theresa",
+				"last_name": "Abbo"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "3"
+		}
+	},
+	{
+		"smoking": {
+			"code": "1",
+			"domain": "Smoking Status",
+			"last_confirmed_date": "20221218",
+			"name": "Every Day",
+			"patient": {
+				"date_of_birth": "19870629",
+				"external_id": "9801985",
+				"first_name": "Amane",
+				"last_name": "Abdallah"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "4"
+		}
+	},
+	{
+		"smoking": {
+			"code": "4",
+			"domain": "Smoking Status",
+			"last_confirmed_date": "20221212",
+			"name": "Former",
+			"patient": {
+				"date_of_birth": "19550918",
+				"external_id": "9778775",
+				"first_name": "Laurie",
+				"last_name": "Abdella"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "5"
+		}
+	},
+	{
+		"smoking": {
+			"code": "4",
+			"domain": "Smoking Status",
+			"end_date": "20220801",
+			"last_confirmed_date": "20221129",
+			"name": "Former",
+			"patient": {
+				"date_of_birth": "19560225",
+				"external_id": "9787678",
+				"first_name": "Md",
+				"last_name": "Abdin"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "6"
+		}
+	},
+	{
+		"smoking": {
+			"code": "5",
+			"domain": "Smoking Status",
+			"last_confirmed_date": "20221202",
+			"name": "Never",
+			"patient": {
+				"date_of_birth": "19760521",
+				"external_id": "6242799",
+				"first_name": "Yousif",
+				"last_name": "Abdo"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "7"
+		}
+	},
+	{
+		"smoking": {
+			"code": "5",
+			"domain": "Smoking Status",
+			"last_confirmed_date": "20221213",
+			"name": "Never",
+			"patient": {
+				"date_of_birth": "20010125",
+				"external_id": "9448301",
+				"first_name": "Aiman",
+				"last_name": "Abdullah"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "8"
+		}
+	},
+	{
+		"smoking": {
+			"code": "5",
+			"domain": "Smoking Status",
+			"last_confirmed_date": "20221220",
+			"name": "Never",
+			"patient": {
+				"date_of_birth": "20050922",
+				"external_id": "9803381",
+				"first_name": "Leeth",
+				"last_name": "Abi Nabot"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "9"
+		}
+	},
+	{
+		"smoking": {
+			"code": "5",
+			"domain": "Smoking Status",
+			"last_confirmed_date": "20221216",
+			"name": "Never",
+			"patient": {
+				"date_of_birth": "19680101",
+				"external_id": "9801030",
+				"first_name": "Ramon",
+				"last_name": "Abreu"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"row": "10"
+		}
+	}
+]

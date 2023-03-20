@@ -1,0 +1,274 @@
+[
+	{
+		"provider": {
+			"aco_effective_date": "08181999",
+			"aco_network_name": "Kennebec Region Health Alliance",
+			"aco_provider_status": "Active",
+			"aco_signed_contract": "Y",
+			"external_id": "10903711",
+			"first_name": "Linda",
+			"insurance_plan": {
+				"company_name": "EBPA"
+			},
+			"last_name": "Schumacher-Feero",
+			"name_suffix": "MD",
+			"npi": "1821064023",
+			"pcp_flag": "SPC",
+			"phone_work": "207-622-3185",
+			"practice": {
+				"group_npi": "1932284171",
+				"location_rank": "1",
+				"name": "Atlee Gleaton Eye Care",
+				"tin": "010324279"
+			},
+			"specialty_code": "18",
+			"taxonomy_code": "207W00000X",
+			"work_location_priority": "P"
+		}
+	},
+	{
+		"provider": {
+			"aco_effective_date": "08181999",
+			"aco_network_name": "Kennebec Region Health Alliance",
+			"aco_provider_status": "Active",
+			"aco_signed_contract": "Y",
+			"external_id": "10903711",
+			"first_name": "Linda",
+			"insurance_plan": {
+				"company_name": "Soarian"
+			},
+			"last_name": "Schumacher-Feero",
+			"name_suffix": "MD",
+			"npi": "1821064023",
+			"pcp_flag": "SPC",
+			"phone_work": "207-622-3185",
+			"practice": {
+				"group_npi": "1932284171",
+				"location_rank": "1",
+				"name": "Atlee Gleaton Eye Care",
+				"tin": "010324279"
+			},
+			"specialty_code": "18",
+			"taxonomy_code": "207W00000X",
+			"work_location_priority": "P"
+		}
+	},
+	{
+		"provider": {
+			"aco_effective_date": "02192014",
+			"aco_network_name": "Kennebec Region Health Alliance",
+			"aco_provider_status": "Active",
+			"aco_signed_contract": "Y",
+			"first_name": "Monica",
+			"insurance_plan": {
+				"company_name": "EBPA"
+			},
+			"last_name": "Trask",
+			"name_suffix": "PA",
+			"npi": "1740522648",
+			"pcp_flag": "PCP",
+			"phone_work": "207-872-4303",
+			"practice": {
+				"group_npi": "1568867885",
+				"location_rank": "1",
+				"name": "Family Focused Healthcare",
+				"tin": "472155341"
+			},
+			"specialty_code": "97",
+			"taxonomy_code": "363A00000X",
+			"work_location_priority": "P"
+		}
+	},
+	{
+		"provider": {
+			"aco_effective_date": "02192014",
+			"aco_network_name": "Kennebec Region Health Alliance",
+			"aco_provider_status": "Active",
+			"aco_signed_contract": "Y",
+			"first_name": "Monica",
+			"insurance_plan": {
+				"company_name": "Soarian"
+			},
+			"last_name": "Trask",
+			"name_suffix": "PA",
+			"npi": "1740522648",
+			"pcp_flag": "PCP",
+			"phone_work": "207-872-4303",
+			"practice": {
+				"group_npi": "1568867885",
+				"location_rank": "1",
+				"name": "Family Focused Healthcare",
+				"tin": "472155341"
+			},
+			"specialty_code": "97",
+			"taxonomy_code": "363A00000X",
+			"work_location_priority": "P"
+		}
+	},
+	{
+		"provider": {
+			"aco_effective_date": "05061998",
+			"aco_network_name": "Kennebec Region Health Alliance",
+			"aco_provider_status": "Active",
+			"aco_signed_contract": "Y",
+			"external_id": "10904076",
+			"first_name": "Steve",
+			"insurance_plan": {
+				"company_name": "EBPA"
+			},
+			"last_name": "Witkin",
+			"name_suffix": "MD",
+			"npi": "1790772887",
+			"pcp_flag": "SPC",
+			"phone_work": "207-873-2731",
+			"practice": {
+				"group_npi": "1710953336",
+				"location_rank": "1",
+				"name": "Eye Care of Maine",
+				"tin": "010316462"
+			},
+			"specialty_code": "18",
+			"taxonomy_code": "207W00000X",
+			"work_location_priority": "P"
+		}
+	},
+	{
+		"provider": {
+			"aco_effective_date": "05061998",
+			"aco_network_name": "Kennebec Region Health Alliance",
+			"aco_provider_status": "Active",
+			"aco_signed_contract": "Y",
+			"external_id": "10904076",
+			"first_name": "Steve",
+			"insurance_plan": {
+				"company_name": "Soarian"
+			},
+			"last_name": "Witkin",
+			"name_suffix": "MD",
+			"npi": "1790772887",
+			"pcp_flag": "SPC",
+			"phone_work": "207-873-2731",
+			"practice": {
+				"group_npi": "1710953336",
+				"location_rank": "1",
+				"name": "Eye Care of Maine",
+				"tin": "010316462"
+			},
+			"specialty_code": "18",
+			"taxonomy_code": "207W00000X",
+			"work_location_priority": "P"
+		}
+	},
+	{
+		"provider": {
+			"aco_effective_date": "08172011",
+			"aco_network_name": "Kennebec Region Health Alliance",
+			"aco_provider_status": "Active",
+			"aco_signed_contract": "Y",
+			"email": "Jason.Wyse@MaineGeneral.org",
+			"external_id": "12273992",
+			"first_name": "Jason",
+			"insurance_plan": {
+				"company_name": "EBPA"
+			},
+			"last_name": "Wyse",
+			"name_suffix": "MD",
+			"npi": "1093906786",
+			"pcp_flag": "SPC",
+			"phone_work": "207-620-1136",
+			"practice": {
+				"group_npi": "1992789184",
+				"location_rank": "1",
+				"name": "Kennebec Anesthesia Associates (A)",
+				"tin": "010318691"
+			},
+			"specialty_code": "5",
+			"taxonomy_code": "207L00000X",
+			"work_location_priority": "P"
+		}
+	},
+	{
+		"provider": {
+			"aco_effective_date": "08172011",
+			"aco_network_name": "Kennebec Region Health Alliance",
+			"aco_provider_status": "Active",
+			"aco_signed_contract": "Y",
+			"email": "Jason.Wyse@MaineGeneral.org",
+			"external_id": "12273992",
+			"first_name": "Jason",
+			"insurance_plan": {
+				"company_name": "Soarian"
+			},
+			"last_name": "Wyse",
+			"name_suffix": "MD",
+			"npi": "1093906786",
+			"pcp_flag": "SPC",
+			"phone_work": "207-620-1136",
+			"practice": {
+				"group_npi": "1992789184",
+				"location_rank": "1",
+				"name": "Kennebec Anesthesia Associates (A)",
+				"tin": "010318691"
+			},
+			"specialty_code": "5",
+			"taxonomy_code": "207L00000X",
+			"work_location_priority": "P"
+		}
+	},
+	{
+		"provider": {
+			"aco_effective_date": "11202013",
+			"aco_network_name": "Kennebec Region Health Alliance",
+			"aco_provider_status": "Active",
+			"aco_signed_contract": "Y",
+			"email": "Laura.Nelsen@MaineGeneral.org",
+			"external_id": "12518868",
+			"first_name": "Laura",
+			"insurance_plan": {
+				"company_name": "EBPA"
+			},
+			"last_name": "Nelsen",
+			"name_suffix": "MD",
+			"npi": "1770704728",
+			"pcp_flag": "SPC",
+			"phone_work": "207-626-1409",
+			"practice": {
+				"group_npi": "1346300738",
+				"location_rank": "1",
+				"name": "Pathology Associates PA",
+				"tin": "010350921"
+			},
+			"specialty_code": "22",
+			"taxonomy_code": "207ZP0102X",
+			"work_location_priority": "P"
+		}
+	},
+	{
+		"provider": {
+			"aco_effective_date": "11202013",
+			"aco_network_name": "Kennebec Region Health Alliance",
+			"aco_provider_status": "Active",
+			"aco_signed_contract": "Y",
+			"email": "Laura.Nelsen@MaineGeneral.org",
+			"external_id": "12518868",
+			"first_name": "Laura",
+			"insurance_plan": {
+				"company_name": "Soarian"
+			},
+			"last_name": "Nelsen",
+			"name_suffix": "MD",
+			"npi": "1770704728",
+			"pcp_flag": "SPC",
+			"phone_work": "207-626-1409",
+			"practice": {
+				"group_npi": "1346300738",
+				"location_rank": "1",
+				"name": "Pathology Associates PA",
+				"tin": "010350921"
+			},
+			"specialty_code": "22",
+			"taxonomy_code": "207ZP0102X",
+			"work_location_priority": "P"
+		}
+	}
+]

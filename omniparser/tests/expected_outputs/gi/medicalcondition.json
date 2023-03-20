@@ -1,0 +1,192 @@
+[
+	{
+		"medical_condition": {
+			"code": "V45.82",
+			"dictionary": "ICD9",
+			"domain": "Medical Conditions",
+			"external": {
+				"external_id": "Epic"
+			},
+			"name": "Stented coronary artery",
+			"patient": {
+				"date_of_birth": "19721219",
+				"external_id": "2761135",
+				"first_name": "LLOYD",
+				"last_name": "AARON"
+			},
+			"row": "1",
+			"start_date": "20150605"
+		}
+	},
+	{
+		"medical_condition": {
+			"code": "414.01, V45.82",
+			"dictionary": "ICD9",
+			"domain": "Medical Conditions",
+			"external": {
+				"external_id": "Epic"
+			},
+			"name": "CAD S/P percutaneous coronary angioplasty",
+			"patient": {
+				"date_of_birth": "19721219",
+				"external_id": "2761135",
+				"first_name": "LLOYD",
+				"last_name": "AARON"
+			},
+			"row": "2",
+			"start_date": "20160630"
+		}
+	},
+	{
+		"medical_condition": {
+			"code": "786.2",
+			"dictionary": "ICD9",
+			"domain": "Medical Conditions",
+			"external": {
+				"external_id": "Epic"
+			},
+			"name": "Cough",
+			"patient": {
+				"date_of_birth": "19721219",
+				"external_id": "2761135",
+				"first_name": "LLOYD",
+				"last_name": "AARON"
+			},
+			"row": "3",
+			"start_date": "20221017"
+		}
+	},
+	{
+		"medical_condition": {
+			"code": "V45.89",
+			"dictionary": "ICD9",
+			"domain": "Medical Conditions",
+			"external": {
+				"external_id": "Epic"
+			},
+			"name": "S/P cardiac catheterization",
+			"patient": {
+				"date_of_birth": "19721219",
+				"external_id": "2761135",
+				"first_name": "LLOYD",
+				"last_name": "AARON"
+			},
+			"row": "4",
+			"start_date": "20200812"
+		}
+	},
+	{
+		"medical_condition": {
+			"code": "272.4",
+			"dictionary": "ICD9",
+			"domain": "Medical Conditions",
+			"external": {
+				"external_id": "Epic"
+			},
+			"name": "Hyperlipidemia",
+			"patient": {
+				"date_of_birth": "19721219",
+				"external_id": "2761135",
+				"first_name": "LLOYD",
+				"last_name": "AARON"
+			},
+			"row": "5",
+			"start_date": "20150612"
+		}
+	},
+	{
+		"medical_condition": {
+			"code": "414.00",
+			"dictionary": "ICD9",
+			"domain": "Medical Conditions",
+			"external": {
+				"external_id": "Epic"
+			},
+			"name": "CAD (coronary artery disease)",
+			"patient": {
+				"date_of_birth": "19721219",
+				"external_id": "2761135",
+				"first_name": "LLOYD",
+				"last_name": "AARON"
+			},
+			"row": "6",
+			"start_date": "20160630"
+		}
+	},
+	{
+		"medical_condition": {
+			"code": "786.50",
+			"dictionary": "ICD9",
+			"domain": "Medical Conditions",
+			"external": {
+				"external_id": "Epic"
+			},
+			"name": "Chest pain",
+			"patient": {
+				"date_of_birth": "19721219",
+				"external_id": "2761135",
+				"first_name": "LLOYD",
+				"last_name": "AARON"
+			},
+			"row": "7",
+			"start_date": "20180710"
+		}
+	},
+	{
+		"medical_condition": {
+			"code": "786.09",
+			"dictionary": "ICD9",
+			"domain": "Medical Conditions",
+			"external": {
+				"external_id": "Epic"
+			},
+			"name": "Dyspnea on exertion",
+			"patient": {
+				"date_of_birth": "19721219",
+				"external_id": "2761135",
+				"first_name": "LLOYD",
+				"last_name": "AARON"
+			},
+			"row": "8",
+			"start_date": "20221017"
+		}
+	},
+	{
+		"medical_condition": {
+			"code": "V45.89",
+			"dictionary": "ICD9",
+			"domain": "Medical Conditions",
+			"external": {
+				"external_id": "Epic"
+			},
+			"name": "S/P left heart catheterization by percutaneous approach",
+			"patient": {
+				"date_of_birth": "19721219",
+				"external_id": "2761135",
+				"first_name": "LLOYD",
+				"last_name": "AARON"
+			},
+			"row": "9",
+			"start_date": "20200812"
+		}
+	},
+	{
+		"medical_condition": {
+			"code": "401.9",
+			"dictionary": "ICD9",
+			"domain": "Medical Conditions",
+			"external": {
+				"external_id": "Epic"
+			},
+			"name": "Essential hypertension",
+			"patient": {
+				"date_of_birth": "19721219",
+				"external_id": "2761135",
+				"first_name": "LLOYD",
+				"last_name": "AARON"
+			},
+			"row": "10",
+			"start_date": "20150507"
+		}
+	}
+]

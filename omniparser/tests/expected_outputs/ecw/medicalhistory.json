@@ -1,0 +1,491 @@
+[
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2015-04-20",
+				"id": "678578"
+			},
+			"patient": {
+				"id": "534105"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"record_id": "305922.534105"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2014-06-10",
+				"id": "705342"
+			},
+			"patient": {
+				"id": "11360"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1194808725"
+			},
+			"record_id": "305922.11360"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2015-02-24",
+				"id": "705261"
+			},
+			"patient": {
+				"id": "533222"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1205940038"
+			},
+			"record_id": "305922.533222"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2011-12-02",
+				"id": "705365"
+			},
+			"patient": {
+				"id": "535266"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1629117296"
+			},
+			"record_id": "305922.535266"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2015-11-16",
+				"id": "705258"
+			},
+			"patient": {
+				"id": "533015"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.533015"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2014-10-22",
+				"id": "705260"
+			},
+			"patient": {
+				"id": "533151"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1417179151"
+			},
+			"record_id": "305922.533151"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2010-10-27",
+				"id": "705262"
+			},
+			"patient": {
+				"id": "533796"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.533796"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2015-02-25",
+				"id": "705266"
+			},
+			"patient": {
+				"id": "534115"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"record_id": "305922.534115"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2014-01-24",
+				"id": "705275"
+			},
+			"patient": {
+				"id": "531775"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531775"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2011-10-06",
+				"id": "705281"
+			},
+			"patient": {
+				"id": "9609"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1225022072"
+			},
+			"record_id": "305922.9609"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2013-09-19",
+				"id": "705273"
+			},
+			"patient": {
+				"id": "533118"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1225022072"
+			},
+			"record_id": "305922.533118"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2015-04-13",
+				"id": "705276"
+			},
+			"patient": {
+				"id": "533380"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1467551002"
+			},
+			"record_id": "305922.533380"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2015-03-27",
+				"id": "705280"
+			},
+			"patient": {
+				"id": "533303"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1437290483"
+			},
+			"record_id": "305922.533303"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2014-05-14",
+				"id": "705278"
+			},
+			"patient": {
+				"id": "532939"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.532939"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2012-06-19",
+				"id": "705279"
+			},
+			"patient": {
+				"id": "11430"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.11430"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2015-06-19",
+				"id": "705339"
+			},
+			"patient": {
+				"id": "533288"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1891804704"
+			},
+			"record_id": "305922.533288"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2014-05-22",
+				"id": "705340"
+			},
+			"patient": {
+				"id": "533782"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1780671446"
+			},
+			"record_id": "305922.533782"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2012-05-29",
+				"id": "705341"
+			},
+			"patient": {
+				"id": "533652"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1780671446"
+			},
+			"record_id": "305922.533652"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2016-02-15",
+				"id": "698842"
+			},
+			"patient": {
+				"id": "532901"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841377272"
+			},
+			"record_id": "305922.532901"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2013-04-09",
+				"id": "703707"
+			},
+			"patient": {
+				"id": "532962"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.532962"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2010-05-24",
+				"id": "703830"
+			},
+			"patient": {
+				"id": "533235"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.533235"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2016-05-03",
+				"id": "702823"
+			},
+			"patient": {
+				"id": "529691"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1386731784"
+			},
+			"record_id": "305922.529691"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2015-07-24",
+				"id": "704912"
+			},
+			"patient": {
+				"id": "533304"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.533304"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2014-10-29",
+				"id": "704914"
+			},
+			"patient": {
+				"id": "533200"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.533200"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2013-11-06",
+				"id": "704917"
+			},
+			"patient": {
+				"id": "532938"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.532938"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2010-08-05",
+				"id": "704919"
+			},
+			"patient": {
+				"id": "533087"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1225022072"
+			},
+			"record_id": "305922.533087"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2013-03-26",
+				"id": "704920"
+			},
+			"patient": {
+				"id": "533007"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1235244211"
+			},
+			"record_id": "305922.533007"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2013-09-17",
+				"id": "704299"
+			},
+			"patient": {
+				"id": "534184"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1164505715"
+			},
+			"record_id": "305922.534184"
+		}
+	},
+	{
+		"medical_history": {
+			"encounter": {
+				"date": "2013-08-30",
+				"id": "704300"
+			},
+			"patient": {
+				"id": "531100"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.531100"
+		}
+	}
+]

@@ -1,0 +1,30 @@
+apuid|FacilityID|FacilityName|AddressLine1|AddressLine2|City|State|Zip
+305922|26|LISH Central Islip|159 Carleton Ave||Central Islip|NY|11722-4172
+24928|6|FQHC - HVRHC (Brewster)|15 Mt. Ebo Road||Brewster|NY|105094004
+5515|75|zzzzAPP Dole Berry Co|||Baxley|GA|31513
+5515|267|BUL Shann Peanut|5225 harville rd||Statesboro|GA|30458
+5515|268|APP Black Water Farms|237 red dot rd||Baxley|GA|31513
+308116|2|Cerebral Palsy Association Of Nassau|380 WASHINGTON AVE||ROOSEVELT|NY|11575-1845
+16041|136|.Fayetteville Office|4211 Medical Center Drive|Suite 214|Fayetteville|NY|13066-6636
+5509|49|Million Pines Personal Care Home, LLC|115 Dodd Circle||Statesboro|GA|304580000
+17261|57|Rising Star|1980 N Olden Ave #10||Ewing|NJ|08618
+17261|76|Senior Star Adult Day Care|||||
+17261|84|Senior Comfort|||||
+17261|112|Princeton Surgical Associates, PA|5 Plainsboro Rd|Suite 400|Plainsboro|NJ|08536
+27|6|Windsor Regional Medical Associates|300A Princeton Htown Rd 102||East Windsor|NJ|085201421
+30271|2|The Caswell Family Medical Center|439 US HIGHWAY 158  W||Yanceyville|NC|27379-8304
+30271|36|CFMC Telehealth|439 US Hwy 158 W||Yanceyville|NC|27379-8304
+30271|37|JAHC TELEHEALTH|207 E MEADOW RD|STE 6|EDEN|NC|27288-3469
+30271|45|North Village Pharmacy|1493 MAIN ST||YANCEYVILLE|NC|27379-8793
+322648|4|Lovelace Women's Hospital|4701 MONTGOMERY BLVD NE||ALBUQUERQUE|NM|871091219
+9520|3|Capital Health System Mercer|446 Bellevue Ave||Trenton|NJ|086184502
+9520|4|Centrastate Medical Center| 901 W Main St||Freehold|NJ|077282537
+9520|6|Hunterdon Medical Center|2100 Wescott Drive||Flemington|NJ|088221412
+9520|9|Princeton Healthcare System|One Plainsboro Rd||Princeton|NJ|085363211
+9520|19|Capital Health at Hopewell|One Capital Health Way||Pennington|NJ|085344130
+9520|58|Mercer County Surgery Center|2A Princess Road||Lawrenceville|NJ|08648-2325
+9520|84|Bucks County Surgical Suites|2800 Kelly Road|Suite 100|Warrington|PA|18976-3626
+9520|94|Inspira Medical Center Mullica Hill|155 Bridgeton Pike||Mullica Hill|NJ|080622638
+9520|124|Inspira Medical Center - Vineland|1505 W Sherman Avenue||Vineland|NJ|08360-7059
+30271|3|zzz Brian Center|1086 N Main St.||Yanceyville|NC|273791508
+30271|4|zzz Caswell House|535 U.S. Hwy 158 W||Yanceyville|NC|273798305

@@ -1,0 +1,145 @@
+{
+  "parser_settings": {
+    "version": "omni.2.1",
+    "file_format_type": "csv2"
+  },
+  "file_declaration": {
+    "delimiter": ",",
+    "replace_double_quotes": false,
+    "records": [
+      {
+        "rows": 1,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "is_target": true,
+        "columns": [
+          {
+            "name": "row1",
+            "index": 1
+          },
+          {
+            "name": "domain",
+            "index": 2
+          },
+          {
+            "name": "patient_first_name",
+            "index": 3
+          },
+          {
+            "name": "patient_last_name",
+            "index": 4
+          },
+          {
+            "name": "patient_date_of_birth",
+            "index": 5
+          },
+          {
+            "name": "external_patient_id",
+            "index": 6
+          },
+          {
+            "name": "external_practice_id",
+            "index": 7
+          },
+          {
+            "name": "status_code",
+            "index": 8
+          },
+          {
+            "name": "status_name",
+            "index": 9
+          },
+          {
+            "name": "status_dictionary_name",
+            "index": 10
+          },
+          {
+            "name": "start_date",
+            "index": 11
+          },
+          {
+            "name": "end_date",
+            "index": 12
+          },
+          {
+            "name": "last_confirmed_date",
+            "index": 13
+          },
+          {
+            "name": "vendor",
+            "index": 14
+          },
+          {
+            "name": "source_type",
+            "index": 15
+          }
+        ]
+      }
+    ]
+  },
+  "transform_declarations": {
+    "FINAL_OUTPUT": {
+      "object": {
+        "smoking": {
+          "object": {
+            "row": {
+              "xpath": "row1"
+            },
+            "domain": {
+              "xpath": "domain"
+            },
+            "code": {
+              "xpath": "status_code"
+            },
+            "name": {
+              "xpath": "status_name"
+            },
+            "dictionary": {
+              "xpath": "status_dictionary_name"
+            },
+            "start_date": {
+              "xpath": "start_date"
+            },
+            "end_date": {
+              "xpath": "end_date"
+            },
+            "last_confirmed_date": {
+              "xpath": "last_confirmed_date"
+            },
+            "vendor": {
+              "xpath": "vendor"
+            },
+            "source_type": {
+              "xpath": "source_type"
+            },
+            "patient": {
+              "object": {
+                "external_id": {
+                  "xpath": "external_patient_id"
+                },
+                "first_name": {
+                  "xpath": "patient_first_name"
+                },
+                "last_name": {
+                  "xpath": "patient_last_name"
+                },
+                "date_of_birth": {
+                  "xpath": "patient_date_of_birth"
+                }
+              }
+            },
+            "practice": {
+              "object": {
+                "external_id": {
+                  "xpath": "external_practice_id"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

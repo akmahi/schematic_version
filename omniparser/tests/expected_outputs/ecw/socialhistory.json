@@ -1,0 +1,843 @@
+[
+	{
+		"social_history": {
+			"answers": "Yes",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2459365"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "545690",
+				"id": "545690"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1659584084"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.545690.2459365.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2419095"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "526642",
+				"id": "526642"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.526642.2419095.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2517824"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "400317",
+				"id": "9977"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.9977.2517824.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2537450"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "520235",
+				"id": "13532"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.13532.2537450.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2540717"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "531301",
+				"id": "531301"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.531301.2540717.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2546108"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "508104",
+				"id": "11582"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.11582.2546108.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2551331"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "502825",
+				"id": "11069"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.11069.2551331.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2510419"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "529253",
+				"id": "529253"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.529253.2510419.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2527186"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "540261",
+				"id": "540261"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.540261.2527186.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2531535"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "532178",
+				"id": "532178"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.532178.2531535.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2544650"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "400681",
+				"id": "10085"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.10085.2544650.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2517560"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "100047",
+				"id": "9321"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.9321.2517560.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2542571"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "200019",
+				"id": "9720"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.9720.2542571.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "Yes",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2547790"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "536047",
+				"id": "536047"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.536047.2547790.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2538462"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "536913",
+				"id": "536913"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1396385019"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.536913.2538462.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2533209"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "552089",
+				"id": "552089"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1396385019"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.552089.2533209.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2531144"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "536403",
+				"id": "536403"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1396385019"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.536403.2531144.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "Yes",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2532849"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "550284",
+				"id": "550284"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1396385019"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.550284.2532849.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2552645"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "516744",
+				"id": "12807"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.12807.2552645.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2514075"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "532441",
+				"id": "532441"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1417179151"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.532441.2514075.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2506224"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "532949",
+				"id": "532949"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.532949.2506224.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2526959"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "533210",
+				"id": "533210"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.533210.2526959.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2539443"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "533855",
+				"id": "533855"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.533855.2539443.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2540894"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "536778",
+				"id": "536778"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.536778.2540894.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2550040"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "534454",
+				"id": "534454"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.534454.2550040.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "Yes",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2552051"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "544783",
+				"id": "544783"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.544783.2552051.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2398600"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "533396",
+				"id": "533396"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.533396.2398600.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2515651"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "516185",
+				"id": "12692"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.12692.2515651.895"
+		}
+	},
+	{
+		"social_history": {
+			"answers": "No",
+			"category_id": "10619",
+			"category_name": "Social History",
+			"ecw_struct_id": "9",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2526331"
+			},
+			"item_id": "282119",
+			"item_name": "Sexual hx",
+			"main_category_id": "10462",
+			"main_category_name": "Annual Physical",
+			"patient": {
+				"account_no": "552293",
+				"id": "552293"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1841223997"
+			},
+			"question": "Had sex in the past 12 months (vaginal, oral, or anal)",
+			"question_id": "895",
+			"record_id": "305922.552293.2526331.895"
+		}
+	}
+]

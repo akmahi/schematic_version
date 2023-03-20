@@ -1,0 +1,524 @@
+[
+	{
+		"provider": {
+			"first_name": "Ruth",
+			"insurance_plan": {
+				"effective_date": "20190101",
+				"end_date": "20191231",
+				"plan_name": "MSSP Participant"
+			},
+			"last_name": "Mays",
+			"middle_initial": "Evans",
+			"npi": "1003840778",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	},
+	{
+		"provider": {
+			"first_name": "Michelle",
+			"insurance_plan": {
+				"company_external_id": "P00039",
+				"company_name": "Beaumont ACO",
+				"effective_date": "20170101",
+				"end_date": "20221231",
+				"plan_name": "BCN"
+			},
+			"last_name": "Diebold",
+			"middle_initial": "M.",
+			"npi": "1003896960",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	},
+	{
+		"provider": {
+			"first_name": "Arash",
+			"insurance_plan": {
+				"company_external_id": "P00039",
+				"company_name": "Oakwood Accountable Care Organization, L.L.C.",
+				"effective_date": "20180928",
+				"end_date": "20181031",
+				"plan_name": "PGIP"
+			},
+			"last_name": "Kiarash",
+			"npi": "1003921891",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	},
+	{
+		"provider": {
+			"first_name": "Angela",
+			"insurance_plan": {
+				"company_external_id": "P00039",
+				"company_name": "Beaumont ACO",
+				"effective_date": "20200413",
+				"end_date": "20200731",
+				"plan_name": "PGIP"
+			},
+			"last_name": "Seabright",
+			"middle_initial": "J",
+			"npi": "1013202399",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	},
+	{
+		"provider": {
+			"first_name": "Angela",
+			"insurance_plan": {
+				"company_external_id": "P00039",
+				"company_name": "Beaumont ACO",
+				"effective_date": "20200101",
+				"end_date": "20210331",
+				"plan_name": "BCN"
+			},
+			"last_name": "Seabright",
+			"middle_initial": "J",
+			"npi": "1013202399",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	},
+	{
+		"provider": {
+			"first_name": "Angela",
+			"insurance_plan": {
+				"company_external_id": "P00039",
+				"company_name": "Beaumont ACO",
+				"effective_date": "20191101",
+				"end_date": "20200731",
+				"plan_name": "PGIP-PCP"
+			},
+			"last_name": "Seabright",
+			"middle_initial": "J",
+			"npi": "1013202399",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	},
+	{
+		"provider": {
+			"first_name": "Angela",
+			"insurance_plan": {
+				"company_external_id": "P00039",
+				"company_name": "Beaumont ACO",
+				"effective_date": "20180501",
+				"end_date": "20181231",
+				"plan_name": "Priority"
+			},
+			"last_name": "Seabright",
+			"middle_initial": "J",
+			"npi": "1013202399",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	},
+	{
+		"provider": {
+			"first_name": "Nikola",
+			"insurance_plan": {
+				"company_external_id": "P00039",
+				"company_name": "Beaumont ACO",
+				"effective_date": "20191101",
+				"end_date": "20200131",
+				"plan_name": "PGIP-PCP"
+			},
+			"last_name": "Conrad",
+			"middle_initial": "C",
+			"npi": "1013279371",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	},
+	{
+		"provider": {
+			"first_name": "Nikola",
+			"insurance_plan": {
+				"company_external_id": "P00039",
+				"company_name": "Beaumont ACO",
+				"effective_date": "20190924",
+				"end_date": "20191231",
+				"plan_name": "MSSP Participant"
+			},
+			"last_name": "Conrad",
+			"middle_initial": "C",
+			"npi": "1013279371",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	},
+	{
+		"provider": {
+			"first_name": "James",
+			"insurance_plan": {
+				"company_external_id": "P00039",
+				"company_name": "Beaumont ACO",
+				"effective_date": "20160101",
+				"end_date": "20191231",
+				"plan_name": "MSSP Participant"
+			},
+			"last_name": "Choi",
+			"npi": "1013359645",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	},
+	{
+		"provider": {
+			"first_name": "James",
+			"insurance_plan": {
+				"company_external_id": "P00039",
+				"company_name": "Beaumont ACO",
+				"effective_date": "20170301",
+				"end_date": "20190930",
+				"plan_name": "PGIP-PCP"
+			},
+			"last_name": "Choi",
+			"npi": "1013359645",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	},
+	{
+		"provider": {
+			"first_name": "James",
+			"insurance_plan": {
+				"company_external_id": "P00039",
+				"company_name": "Beaumont ACO",
+				"effective_date": "20190801",
+				"end_date": "20191231",
+				"plan_name": "Priority"
+			},
+			"last_name": "Choi",
+			"npi": "1013359645",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	},
+	{
+		"provider": {
+			"first_name": "James",
+			"insurance_plan": {
+				"company_external_id": "P00039",
+				"company_name": "Beaumont ACO",
+				"effective_date": "20170102",
+				"end_date": "20221231",
+				"plan_name": "BCN"
+			},
+			"last_name": "Choi",
+			"npi": "1013359645",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	},
+	{
+		"provider": {
+			"first_name": "James",
+			"insurance_plan": {
+				"company_external_id": "P00039",
+				"company_name": "Beaumont ACO",
+				"effective_date": "20180401",
+				"end_date": "20191231",
+				"plan_name": "BCBS - Complete"
+			},
+			"last_name": "Choi",
+			"npi": "1013359645",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	},
+	{
+		"provider": {
+			"first_name": "James",
+			"insurance_plan": {
+				"company_external_id": "P00039",
+				"company_name": "Beaumont ACO",
+				"effective_date": "20170101",
+				"end_date": "20191231",
+				"plan_name": "HAP"
+			},
+			"last_name": "Choi",
+			"npi": "1013359645",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	},
+	{
+		"provider": {
+			"first_name": "Christopher",
+			"insurance_plan": {
+				"company_external_id": "P00039",
+				"company_name": "Beaumont ACO",
+				"effective_date": "20190101",
+				"end_date": "20190630",
+				"plan_name": "HAP"
+			},
+			"last_name": "LaJeunesse",
+			"middle_initial": "M",
+			"npi": "1013369917",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	},
+	{
+		"provider": {
+			"first_name": "Christopher",
+			"insurance_plan": {
+				"company_external_id": "P00039",
+				"company_name": "Beaumont ACO",
+				"effective_date": "20201103",
+				"end_date": "20210228",
+				"plan_name": "BCN"
+			},
+			"last_name": "LaJeunesse",
+			"middle_initial": "M",
+			"npi": "1013369917",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	},
+	{
+		"provider": {
+			"first_name": "Christopher",
+			"insurance_plan": {
+				"company_external_id": "P00039",
+				"company_name": "Beaumont ACO",
+				"effective_date": "20200706",
+				"end_date": "20201231",
+				"plan_name": "Priority"
+			},
+			"last_name": "LaJeunesse",
+			"middle_initial": "M",
+			"npi": "1013369917",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	},
+	{
+		"provider": {
+			"first_name": "Rachel",
+			"insurance_plan": {
+				"company_external_id": "P00039",
+				"company_name": "Beaumont ACO",
+				"effective_date": "20200101",
+				"end_date": "20201202",
+				"plan_name": "MSSP Participant"
+			},
+			"last_name": "Rogers",
+			"npi": "1013438068",
+			"pcp_flag": "PCP",
+			"practice": {
+				"address": {
+					"city": "Southfield",
+					"line1": "26901 Beaumont Blvd",
+					"state": "MI",
+					"zip": "48033"
+				},
+				"external_id": "9999999",
+				"name": "Span Not In MTS",
+				"tin": "999999999"
+			},
+			"work_location_priority": "N"
+		}
+	}
+]

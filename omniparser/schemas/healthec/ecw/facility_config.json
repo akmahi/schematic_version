@@ -1,0 +1,96 @@
+{
+  "parser_settings": {
+    "version": "omni.2.1",
+    "file_format_type": "csv2"
+  },
+  "file_declaration": {
+    "delimiter": "|",
+    "replace_double_quotes": true,
+    "records": [
+      {
+        "rows": 1,
+        "min": 1,
+        "max": 1
+      },
+      {
+        "is_target": true,
+        "columns": [
+          {
+            "name": "apuid",
+            "index": 1
+          },
+          {
+            "name": "facility_id",
+            "index": 2
+          },
+          {
+            "name": "facility_name",
+            "index": 3
+          },
+          {
+            "name": "address_line_1",
+            "index": 4
+          },
+          {
+            "name": "address_line_2",
+            "index": 5
+          },
+          {
+            "name": "city",
+            "index": 6
+          },
+          {
+            "name": "state",
+            "index": 7
+          },
+          {
+            "name": "zip",
+            "index": 8
+          }
+        ]
+      }
+    ]
+  },
+  "transform_declarations": {
+    "FINAL_OUTPUT": {
+      "object": {
+        "facility": {
+          "object": {
+            "id": {
+              "xpath": "facility_id"
+            },
+            "name": {
+              "xpath": "facility_name"
+            },
+            "address": {
+              "object": {
+                "line_1": {
+                  "xpath": "address_line_1"
+                },
+                "line_2": {
+                  "xpath": "address_line_2"
+                },
+                "city": {
+                  "xpath": "city"
+                },
+                "state": {
+                  "xpath": "state"
+                },
+                "zip": {
+                  "xpath": "zip"
+                }
+              }
+            },
+            "practice": {
+              "object": {
+                "apuid": {
+                  "xpath": "apuid"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

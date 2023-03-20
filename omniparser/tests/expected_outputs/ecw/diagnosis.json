@@ -1,0 +1,524 @@
+[
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-16",
+				"id": "2552026"
+			},
+			"icd_code": "M54.32",
+			"name": "Back pain with left-sided sciatica",
+			"patient": {
+				"account_no": "533230",
+				"id": "533230"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.533230.2552026.768705"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-14",
+				"id": "2526032"
+			},
+			"icd_code": "Z01.21",
+			"name": "Encounter for dental examination and cleaning with abnormal findings",
+			"patient": {
+				"account_no": "549865",
+				"id": "549865"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.549865.2526032.412280"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-12",
+				"id": "2465032"
+			},
+			"icd_code": "F72",
+			"name": "Severe intellectual disabilities",
+			"patient": {
+				"account_no": "551818",
+				"id": "551818"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.551818.2465032.347778"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-12",
+				"id": "2465032"
+			},
+			"icd_code": "Z01.20",
+			"name": "Encounter for dental examination and cleaning without abnormal finding",
+			"patient": {
+				"account_no": "551818",
+				"id": "551818"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.551818.2465032.444508"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-12",
+				"id": "2465032"
+			},
+			"icd_code": "Encounter for dental",
+			"name": "Encounter for dental examination and cleaning without abnormal finding",
+			"patient": {
+				"account_no": "551818",
+				"id": "551818"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.551818.2465032.444508"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2490312"
+			},
+			"icd_code": "F40.9",
+			"name": "Phobic anxiety disorder, unspecified",
+			"patient": {
+				"account_no": "532358",
+				"id": "532358"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.532358.2490312.347651"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2490312"
+			},
+			"icd_code": "F41.1",
+			"name": "Generalized anxiety disorder",
+			"patient": {
+				"account_no": "532358",
+				"id": "532358"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.532358.2490312.347653"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2490312"
+			},
+			"icd_code": "F70",
+			"name": "Mild intellectual disabilities",
+			"patient": {
+				"account_no": "532358",
+				"id": "532358"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.532358.2490312.347776"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2490312"
+			},
+			"icd_code": "F43.10",
+			"name": "Post traumatic stress disorder",
+			"patient": {
+				"account_no": "532358",
+				"id": "532358"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.532358.2490312.415661"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2490312"
+			},
+			"icd_code": "F84.5",
+			"name": "Asperger's disorder",
+			"patient": {
+				"account_no": "532358",
+				"id": "532358"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.532358.2490312.416248"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2490327"
+			},
+			"icd_code": "F41.1",
+			"name": "Generalized anxiety disorder",
+			"patient": {
+				"account_no": "542851",
+				"id": "542851"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.542851.2490327.347653"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2490327"
+			},
+			"icd_code": "F84.0",
+			"name": "Autistic disorder",
+			"patient": {
+				"account_no": "542851",
+				"id": "542851"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.542851.2490327.347795"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2490327"
+			},
+			"icd_code": "F90.2",
+			"name": "Attention-deficit hyperactivity disorder, combined type",
+			"patient": {
+				"account_no": "542851",
+				"id": "542851"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.542851.2490327.347805"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2490327"
+			},
+			"icd_code": "F43.10",
+			"name": "Post traumatic stress disorder",
+			"patient": {
+				"account_no": "542851",
+				"id": "542851"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.542851.2490327.415661"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2490342"
+			},
+			"icd_code": "F34.1",
+			"name": "Dysthymic disorder",
+			"patient": {
+				"account_no": "541227",
+				"id": "541227"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.541227.2490342.347625"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2490342"
+			},
+			"icd_code": "F43.23",
+			"name": "Persistent adjustment disorder with mixed anxiety and depressed mood",
+			"patient": {
+				"account_no": "541227",
+				"id": "541227"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.541227.2490342.683593"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2503637"
+			},
+			"icd_code": "F84.0",
+			"name": "Autism",
+			"patient": {
+				"account_no": "535840",
+				"id": "535840"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.535840.2503637.343493"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2503637"
+			},
+			"icd_code": "Z79.899",
+			"name": "Other long term (current) drug therapy",
+			"patient": {
+				"account_no": "535840",
+				"id": "535840"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.535840.2503637.413012"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2503637"
+			},
+			"icd_code": "H54.0",
+			"name": "Blind",
+			"patient": {
+				"account_no": "535840",
+				"id": "535840"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.535840.2503637.422677"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2503637"
+			},
+			"icd_code": "F25.0",
+			"name": "Schizoaffective disorder, bipolar type with good prognostic features and with catatonia",
+			"patient": {
+				"account_no": "535840",
+				"id": "535840"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.535840.2503637.423194"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2520126"
+			},
+			"icd_code": "F41.1",
+			"name": "Generalized anxiety disorder",
+			"patient": {
+				"account_no": "542515",
+				"id": "542515"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.542515.2520126.347653"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2520126"
+			},
+			"icd_code": "F40.01",
+			"name": "Panic disorder with agoraphobia",
+			"patient": {
+				"account_no": "542515",
+				"id": "542515"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.542515.2520126.663257"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2532730"
+			},
+			"icd_code": "F34.1",
+			"name": "Dysthymic disorder",
+			"patient": {
+				"account_no": "536282",
+				"id": "536282"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.536282.2532730.347625"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2532730"
+			},
+			"icd_code": "F63.81",
+			"name": "Intermittent explosive disorder",
+			"patient": {
+				"account_no": "536282",
+				"id": "536282"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.536282.2532730.347751"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2532730"
+			},
+			"icd_code": "F70",
+			"name": "Mild intellectual disability",
+			"patient": {
+				"account_no": "536282",
+				"id": "536282"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.536282.2532730.414608"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2532730"
+			},
+			"icd_code": "F90.2",
+			"name": "Attention deficit hyperactivity disorder (ADHD), combined type",
+			"patient": {
+				"account_no": "536282",
+				"id": "536282"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.536282.2532730.414778"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2503649"
+			},
+			"icd_code": "F31.4",
+			"name": "Bipolar 1 disorder, depressed, severe",
+			"patient": {
+				"account_no": "536055",
+				"id": "536055"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.536055.2503649.423370"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2490352"
+			},
+			"icd_code": "F41.0",
+			"name": "Panic disorder without agoraphobia",
+			"patient": {
+				"account_no": "533230",
+				"id": "533230"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.533230.2490352.415027"
+		}
+	},
+	{
+		"diagnois": {
+			"encounter": {
+				"date": "2022-10-11",
+				"id": "2490352"
+			},
+			"icd_code": "F32.9",
+			"name": "Depression, unspecified depression type",
+			"patient": {
+				"account_no": "533230",
+				"id": "533230"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"record_id": "305922.533230.2490352.417555"
+		}
+	}
+]

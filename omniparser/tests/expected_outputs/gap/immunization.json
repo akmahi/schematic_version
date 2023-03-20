@@ -1,0 +1,242 @@
+[
+	{
+		"immunization": {
+			"code": "100208",
+			"date_performed": "20210312",
+			"domain": "Immunizations",
+			"name": "COVID-19 VACCINE (PFIZER)",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "1",
+			"vaccine_lot_number": "EN6207"
+		}
+	},
+	{
+		"immunization": {
+			"code": "100150",
+			"date_performed": "20201022",
+			"domain": "Immunizations",
+			"name": "INFLUENZA VACCINE, INJECTION, QUADRIVALENT (PRESERVATIVE-FREE)",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "2",
+			"vaccine_lot_number": "UJ427AB"
+		}
+	},
+	{
+		"immunization": {
+			"code": "100150",
+			"date_performed": "20171128",
+			"domain": "Immunizations",
+			"name": "INFLUENZA VACCINE, INJECTION, QUADRIVALENT (PRESERVATIVE-FREE)",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "3",
+			"vaccine_lot_number": "JL59K"
+		}
+	},
+	{
+		"immunization": {
+			"code": "100150",
+			"date_performed": "20181025",
+			"domain": "Immunizations",
+			"name": "INFLUENZA VACCINE, INJECTION, QUADRIVALENT (PRESERVATIVE-FREE)",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "4",
+			"vaccine_lot_number": "UJ046AB"
+		}
+	},
+	{
+		"immunization": {
+			"code": "100208",
+			"date_performed": "20210402",
+			"domain": "Immunizations",
+			"name": "COVID-19 VACCINE (PFIZER)",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "5",
+			"vaccine_lot_number": "EW0150"
+		}
+	},
+	{
+		"immunization": {
+			"code": "100208",
+			"date_performed": "20211116",
+			"domain": "Immunizations",
+			"name": "COVID-19 VACCINE (PFIZER)",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "6",
+			"vaccine_lot_number": "FH8028"
+		}
+	},
+	{
+		"immunization": {
+			"code": "100150",
+			"date_performed": "20170120",
+			"domain": "Immunizations",
+			"name": "INFLUENZA VACCINE, INJECTION, QUADRIVALENT (PRESERVATIVE-FREE)",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "7",
+			"vaccine_lot_number": "UI623AA"
+		}
+	},
+	{
+		"immunization": {
+			"code": "100300",
+			"date_performed": "20220910",
+			"domain": "Immunizations",
+			"name": "COVID-19 VACCINE (PFIZER), BIVALENT, PF, 30 MCG/0.3 ML",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "8",
+			"vaccine_lot_number": "GH9702"
+		}
+	},
+	{
+		"immunization": {
+			"code": "100150",
+			"date_performed": "20191122",
+			"domain": "Immunizations",
+			"name": "INFLUENZA VACCINE, INJECTION, QUADRIVALENT (PRESERVATIVE-FREE)",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "9",
+			"vaccine_lot_number": "UJ305AB"
+		}
+	},
+	{
+		"immunization": {
+			"code": "100150",
+			"date_performed": "20220118",
+			"domain": "Immunizations",
+			"name": "INFLUENZA VACCINE, INJECTION, QUADRIVALENT (PRESERVATIVE-FREE)",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"provider": {
+				"name": "TUXHARI, SNEZHANA",
+				"npi": "1053603076"
+			},
+			"row": "10",
+			"vaccine_lot_number": "L494C"
+		}
+	}
+]

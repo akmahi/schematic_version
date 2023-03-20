@@ -1,0 +1,117 @@
+testdp:
+  testsource:
+    PRACTICE_ROSTER:
+      schema: healthec/practice_roster/practice_config.json
+      canonical_path: PRACTICE
+    PROVIDER_ROSTER:
+      schema: healthec/provider_roster/provider_config.json
+      canonical_path: PROVIDER
+    # ECW
+    ECW_ALLERGY:
+      schema: healthec/ecw/allergy_config.json
+      canonical_path: ECW_ALLERGY
+    ECW_DIAGNOSIS:
+      schema: healthec/ecw/diagnosis_config.json
+      canonical_path: ECW_DIAGNOSIS
+    ECW_ENCOUNTER:
+      schema: healthec/ecw/encounter_config.json
+      canonical_path: ECW_ENCOUNTER
+    ECW_EXAMINATION:
+      schema: healthec/ecw/examination_config.json
+      canonical_path: ECW_EXAMINATION
+    ECW_FACILITY:
+      schema: healthec/ecw/facility_config.json
+      canonical_path: ECW_FACILITY
+    ECW_FAMILYHISTORY:
+      schema: healthec/ecw/family_history_config.json
+      canonical_path: ECW_FAMILYHISTORY
+    ECW_HOSPITALIZATION:
+      schema: healthec/ecw/hospitalization_config.json
+      canonical_path: ECW_HOSPITALIZATION
+    ECW_HPI:
+      schema: healthec/ecw/hpi_config.json
+      canonical_path: ECW_HPI
+    ECW_IMMUNIZATION:
+      schema: healthec/ecw/immunization_config.json
+      canonical_path: ECW_IMMUNIZATION
+    ECW_MEDICALHISTORY:
+      schema: healthec/ecw/medical_history_config.json
+      canonical_path: ECW_MEDICALHISTORY
+    ECW_MEDICATION:
+      schema: healthec/ecw/medication_config.json
+      canonical_path: ECW_MEDICATION
+    ECW_OBGYNHISTORY:
+      schema: healthec/ecw/obgyn_history_config.json
+      canonical_path: ECW_OBGYNHISTORY
+    ECW_ORDERANDRESULT:
+      schema: healthec/ecw/order_and_result_config.json
+      canonical_path: ECW_ORDERANDRESULT
+    ECW_PATIENTDEMOGRAPHIC:
+      schema: healthec/ecw/patient_demographic_config.json
+      canonical_path: ECW_PATIENTDEMOGRAPHIC
+    ECW_PHYSICALEXAM:
+      schema: healthec/ecw/physical_exam_config.json
+      canonical_path: ECW_PHYSICALEXAM
+    ECW_PRACTICEUSER:
+      schema: healthec/ecw/practice_user_config.json
+      canonical_path: ECW_PRACTICEUSER
+    ECW_PREVENTIVE:
+      schema: healthec/ecw/preventive_config.json
+      canonical_path: ECW_PREVENTIVE
+    ECW_PROBLEMLIST:
+      schema: healthec/ecw/problem_list_config.json
+      canonical_path: ECW_PROBLEMLIST
+    ECW_PROCEDURECODE:
+      schema: healthec/ecw/procedure_code_config.json
+      canonical_path: ECW_PROCEDURECODE
+    ECW_PROCEDURE:
+      schema: healthec/ecw/procedure_config.json
+      canonical_path: ECW_PROCEDURE
+    ECW_REFEREAL:
+      schema: healthec/ecw/referral_config.json
+      canonical_path: ECW_REFEREAL
+    ECW_SOCIALHISTORY:
+      schema: healthec/ecw/social_history_config.json
+      canonical_path: ECW_SOCIALHISTORY
+    ECW_SURGICALHISTORY:
+      schema: healthec/ecw/surgial_history_config.json
+      canonical_path: ECW_SURGICALHISTORY
+    ECW_VITAL:
+      schema: healthec/ecw/vital_config.json
+      canonical_path: ECW_VITAL
+    # GAP
+    GAP_ALLERGY:
+      schema: healthec/gap/allergy_config.json
+      canonical_path: GAP_ALLERGY
+    GAP_CARE:
+      schema: healthec/gap/care_config.json
+      canonical_path: GAP_CARE
+    GAP_IMMUNIZATION:
+      schema: healthec/gap/immunization_config.json
+      canonical_path: GAP_IMMUNIZATION
+    GAP_VITAL:
+      schema: healthec/gap/vital_config.json
+      canonical_path: GAP_VITAL
+    # GI
+    GI_ALLERGY:
+      schema: healthec/gi/allergy_config.json
+      canonical_path: GI_ALLERGY
+    GI_DEMOGRAPHIC:
+      schema: healthec/gi/demographic_config.json
+      canonical_path: GI_DEMOGRAPHIC
+    GI_MEDICALCONDITION:
+      schema: healthec/gi/medical_condition_config.json
+      canonical_path: GI_MEDICALCONDITION
+    GI_SMOKING:
+      schema: healthec/gi/smoking_config.json
+      canonical_path: GI_SMOKING
+    # Client specific schema
+    BACO_HAP_BENEFICIARY:
+      schema: baco_hap/beneficiary_config.json
+      canonical_path: BENEFICIARY
+    BACO_HAP_PRACTICE_PROVIDER:
+      schema: baco_hap/provider_config.json
+      canonical_path: PROVIDER
+    BACO_HAP_MEDICAL_CLAIM:
+      schema: baco_hap/medical_claim_config.json
+      canonical_path: MEDICAL_CLAIM

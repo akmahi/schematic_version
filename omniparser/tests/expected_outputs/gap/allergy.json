@@ -1,0 +1,241 @@
+[
+	{
+		"allergy": {
+			"code": "18025",
+			"domain": "Allergies",
+			"name": "IODINE",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"reaction": {
+				"code": "1040",
+				"dictionary": "Beaumont_Epic_Allergy_Reaction",
+				"name": "Swelling, lips/throat/tongue"
+			},
+			"row": "1",
+			"start_date": "20120208"
+		}
+	},
+	{
+		"allergy": {
+			"code": "5076",
+			"domain": "Allergies",
+			"name": "IODINE",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"reaction": {
+				"code": "1022",
+				"dictionary": "Beaumont_Epic_Allergy_Reaction",
+				"name": "Hives"
+			},
+			"row": "2",
+			"start_date": "20150701"
+		}
+	},
+	{
+		"allergy": {
+			"code": "67",
+			"domain": "Allergies",
+			"name": "FISH-DERIVED PRODUCTS",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"reaction": {
+				"code": "1002",
+				"dictionary": "Beaumont_Epic_Allergy_Reaction",
+				"name": "Anaphylaxis/Shock"
+			},
+			"row": "3"
+		}
+	},
+	{
+		"allergy": {
+			"code": "7660",
+			"domain": "Allergies",
+			"name": "METFORMIN",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"reaction": {
+				"code": "1016",
+				"dictionary": "Beaumont_Epic_Allergy_Reaction",
+				"name": "GI Distress"
+			},
+			"row": "4",
+			"start_date": "20170512"
+		}
+	},
+	{
+		"allergy": {
+			"code": "5076",
+			"domain": "Allergies",
+			"name": "IODINE",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"reaction": {
+				"code": "1040",
+				"dictionary": "Beaumont_Epic_Allergy_Reaction",
+				"name": "Swelling, lips/throat/tongue"
+			},
+			"row": "5",
+			"start_date": "20150701"
+		}
+	},
+	{
+		"allergy": {
+			"code": "194",
+			"domain": "Allergies",
+			"name": "SHELLFISH-DERIVED PRODUCTS",
+			"patient": {
+				"dob": "19641214",
+				"external_id": "3368664",
+				"first_name": "SIMONE",
+				"id": "AE3HBT4LP6ERD2F4CBO6QMLUPFCQHU5QZGYC2F5V",
+				"last_name": "ABRAMS"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"reaction": {
+				"code": "1034",
+				"dictionary": "Beaumont_Epic_Allergy_Reaction",
+				"name": "Short of Breath/Wheezing"
+			},
+			"row": "6",
+			"start_date": "20170707"
+		}
+	},
+	{
+		"allergy": {
+			"code": "3797",
+			"domain": "Allergies",
+			"name": "STRAWBERRY EXTRACT",
+			"patient": {
+				"dob": "19370113",
+				"external_id": "1884354",
+				"first_name": "FRANCES",
+				"id": "AHHUI5SPHIURDZ47BLRZYHA2PBGAGGI4TRTNT7U4",
+				"last_name": "ACRES"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"reaction": {
+				"code": "1032",
+				"dictionary": "Beaumont_Epic_Allergy_Reaction",
+				"name": "Rash/Itching"
+			},
+			"row": "7",
+			"start_date": "20180602"
+		}
+	},
+	{
+		"allergy": {
+			"code": "50837",
+			"domain": "Allergies",
+			"name": "ZOSTER VAC RECOMB ADJUVANTED",
+			"patient": {
+				"dob": "19370113",
+				"external_id": "1884354",
+				"first_name": "FRANCES",
+				"id": "AHHUI5SPHIURDZ47BLRZYHA2PBGAGGI4TRTNT7U4",
+				"last_name": "ACRES"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"reaction": {
+				"code": "1022",
+				"dictionary": "Beaumont_Epic_Allergy_Reaction",
+				"name": "Hives"
+			},
+			"row": "8",
+			"start_date": "20180830"
+		}
+	},
+	{
+		"allergy": {
+			"code": "33",
+			"domain": "Allergies",
+			"name": "SULFA ANTIBIOTICS",
+			"patient": {
+				"dob": "19510505",
+				"external_id": "1766211",
+				"first_name": "GAVRIEL",
+				"id": "AFRSI6EYKXVRD2EYB53QTTFHONELZAPYPZ2H743B",
+				"last_name": "ATTAR"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"reaction": {
+				"code": "1032",
+				"dictionary": "Beaumont_Epic_Allergy_Reaction",
+				"name": "Rash/Itching"
+			},
+			"row": "9",
+			"start_date": "20081216"
+		}
+	},
+	{
+		"allergy": {
+			"code": "1467",
+			"domain": "Allergies",
+			"name": "LATEX",
+			"patient": {
+				"dob": "19510505",
+				"external_id": "1766211",
+				"first_name": "GAVRIEL",
+				"id": "AFRSI6EYKXVRD2EYB53QTTFHONELZAPYPZ2H743B",
+				"last_name": "ATTAR"
+			},
+			"practice": {
+				"external_id": "Epic"
+			},
+			"reaction": {
+				"code": "1032",
+				"dictionary": "Beaumont_Epic_Allergy_Reaction",
+				"name": "Rash/Itching"
+			},
+			"row": "10",
+			"start_date": "20100706"
+		}
+	}
+]

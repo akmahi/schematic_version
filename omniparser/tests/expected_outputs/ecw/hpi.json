@@ -1,0 +1,857 @@
+[
+	{
+		"hpi": {
+			"answers": "Yes",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "44",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2473498"
+			},
+			"item_id": "20534",
+			"item_name": "PHQ-2 In last two weeks have you been bothered by",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "532994",
+				"id": "532994"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1427131036"
+			},
+			"question": "Feeling down, depressed, or hopeless",
+			"question_id": "47",
+			"record_id": "305922.532994.2473498.47"
+		}
+	},
+	{
+		"hpi": {
+			"answers": "Yes",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "44",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2473511"
+			},
+			"item_id": "20534",
+			"item_name": "PHQ-2 In last two weeks have you been bothered by",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "532989",
+				"id": "532989"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1427131036"
+			},
+			"question": "Feeling down, depressed, or hopeless",
+			"question_id": "47",
+			"record_id": "305922.532989.2473511.47"
+		}
+	},
+	{
+		"hpi": {
+			"answers": "No",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "44",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2514390"
+			},
+			"item_id": "20534",
+			"item_name": "PHQ-2 In last two weeks have you been bothered by",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "532996",
+				"id": "532996"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1427131036"
+			},
+			"question": "Feeling down, depressed, or hopeless",
+			"question_id": "47",
+			"record_id": "305922.532996.2514390.47"
+		}
+	},
+	{
+		"hpi": {
+			"answers": "Yes",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "44",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2457682"
+			},
+			"item_id": "20534",
+			"item_name": "PHQ-2 In last two weeks have you been bothered by",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "533068",
+				"id": "533068"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1427131036"
+			},
+			"question": "Feeling down, depressed, or hopeless",
+			"question_id": "47",
+			"record_id": "305922.533068.2457682.47"
+		}
+	},
+	{
+		"hpi": {
+			"answers": "Yes",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "44",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2473575"
+			},
+			"item_id": "20534",
+			"item_name": "PHQ-2 In last two weeks have you been bothered by",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "529934",
+				"id": "529934"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1427131036"
+			},
+			"question": "Feeling down, depressed, or hopeless",
+			"question_id": "47",
+			"record_id": "305922.529934.2473575.47"
+		}
+	},
+	{
+		"hpi": {
+			"answers": "No",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "44",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2517560"
+			},
+			"item_id": "20534",
+			"item_name": "PHQ-2 In last two weeks have you been bothered by",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "100047",
+				"id": "9321"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"question": "Feeling down, depressed, or hopeless",
+			"question_id": "47",
+			"record_id": "305922.9321.2517560.47"
+		}
+	},
+	{
+		"hpi": {
+			"answers": "No",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "44",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2550354"
+			},
+			"item_id": "20534",
+			"item_name": "PHQ-2 In last two weeks have you been bothered by",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "535986",
+				"id": "535986"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1235225871"
+			},
+			"question": "Feeling down, depressed, or hopeless",
+			"question_id": "47",
+			"record_id": "305922.535986.2550354.47"
+		}
+	},
+	{
+		"hpi": {
+			"answers": "Yes",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "44",
+			"encounter": {
+				"date": "2022-10-18",
+				"id": "2471657"
+			},
+			"item_id": "20534",
+			"item_name": "PHQ-2 In last two weeks have you been bothered by",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "516477",
+				"id": "12749"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1205940046"
+			},
+			"question": "Feeling down, depressed, or hopeless",
+			"question_id": "47",
+			"record_id": "305922.12749.2471657.47"
+		}
+	},
+	{
+		"hpi": {
+			"answers": "No",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "43",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2473498"
+			},
+			"item_id": "20534",
+			"item_name": "PHQ-2 In last two weeks have you been bothered by",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "532994",
+				"id": "532994"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1427131036"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "46",
+			"record_id": "305922.532994.2473498.46"
+		}
+	},
+	{
+		"hpi": {
+			"answers": "No",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "43",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2473511"
+			},
+			"item_id": "20534",
+			"item_name": "PHQ-2 In last two weeks have you been bothered by",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "532989",
+				"id": "532989"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1427131036"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "46",
+			"record_id": "305922.532989.2473511.46"
+		}
+	},
+	{
+		"hpi": {
+			"answers": "No",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "43",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2514390"
+			},
+			"item_id": "20534",
+			"item_name": "PHQ-2 In last two weeks have you been bothered by",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "532996",
+				"id": "532996"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1427131036"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "46",
+			"record_id": "305922.532996.2514390.46"
+		}
+	},
+	{
+		"hpi": {
+			"answers": "No",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "43",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2473575"
+			},
+			"item_id": "20534",
+			"item_name": "PHQ-2 In last two weeks have you been bothered by",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "529934",
+				"id": "529934"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1427131036"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "46",
+			"record_id": "305922.529934.2473575.46"
+		}
+	},
+	{
+		"hpi": {
+			"answers": "No",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "43",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2517560"
+			},
+			"item_id": "20534",
+			"item_name": "PHQ-2 In last two weeks have you been bothered by",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "100047",
+				"id": "9321"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "46",
+			"record_id": "305922.9321.2517560.46"
+		}
+	},
+	{
+		"hpi": {
+			"answers": "No",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "43",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2550354"
+			},
+			"item_id": "20534",
+			"item_name": "PHQ-2 In last two weeks have you been bothered by",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "535986",
+				"id": "535986"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1235225871"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "46",
+			"record_id": "305922.535986.2550354.46"
+		}
+	},
+	{
+		"hpi": {
+			"answers": "No",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "43",
+			"encounter": {
+				"date": "2022-10-18",
+				"id": "2471657"
+			},
+			"item_id": "20534",
+			"item_name": "PHQ-2 In last two weeks have you been bothered by",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "516477",
+				"id": "12749"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1205940046"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "46",
+			"record_id": "305922.12749.2471657.46"
+		}
+	},
+	{
+		"hpi": {
+			"answer_id": "165",
+			"answers": "Not at all",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "45",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2509021"
+			},
+			"item_id": "20535",
+			"item_name": "PHQ-9",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "546423",
+				"id": "546423"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1871851568"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "44",
+			"record_id": "305922.546423.2509021.44"
+		}
+	},
+	{
+		"hpi": {
+			"answer_id": "165",
+			"answers": "Not at all",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "45",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2542901"
+			},
+			"item_id": "20535",
+			"item_name": "PHQ-9",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "524609",
+				"id": "15236"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1871851568"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "44",
+			"record_id": "305922.15236.2542901.44"
+		}
+	},
+	{
+		"hpi": {
+			"answer_id": "165",
+			"answers": "Not at all",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "45",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2489735"
+			},
+			"item_id": "20535",
+			"item_name": "PHQ-9",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "514345",
+				"id": "15808"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1205940046"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "44",
+			"record_id": "305922.15808.2489735.44"
+		}
+	},
+	{
+		"hpi": {
+			"answer_id": "166",
+			"answers": "Several days",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "45",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2545195"
+			},
+			"item_id": "20535",
+			"item_name": "PHQ-9",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "535090",
+				"id": "535090"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1871851568"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "44",
+			"record_id": "305922.535090.2545195.44"
+		}
+	},
+	{
+		"hpi": {
+			"answer_id": "165",
+			"answers": "Not at all",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "45",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2496409"
+			},
+			"item_id": "20535",
+			"item_name": "PHQ-9",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "532066",
+				"id": "532066"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1871851568"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "44",
+			"record_id": "305922.532066.2496409.44"
+		}
+	},
+	{
+		"hpi": {
+			"answer_id": "165",
+			"answers": "Not at all",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "45",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2521935"
+			},
+			"item_id": "20535",
+			"item_name": "PHQ-9",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "526416",
+				"id": "526416"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1871851568"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "44",
+			"record_id": "305922.526416.2521935.44"
+		}
+	},
+	{
+		"hpi": {
+			"answer_id": "165",
+			"answers": "Not at all",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "45",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2526658"
+			},
+			"item_id": "20535",
+			"item_name": "PHQ-9",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "534136",
+				"id": "534136"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1518170364"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "44",
+			"record_id": "305922.534136.2526658.44"
+		}
+	},
+	{
+		"hpi": {
+			"answer_id": "166",
+			"answers": "Several days",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "45",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2473498"
+			},
+			"item_id": "20535",
+			"item_name": "PHQ-9",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "532994",
+				"id": "532994"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1427131036"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "44",
+			"record_id": "305922.532994.2473498.44"
+		}
+	},
+	{
+		"hpi": {
+			"answer_id": "165",
+			"answers": "Not at all",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "45",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2473511"
+			},
+			"item_id": "20535",
+			"item_name": "PHQ-9",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "532989",
+				"id": "532989"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1427131036"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "44",
+			"record_id": "305922.532989.2473511.44"
+		}
+	},
+	{
+		"hpi": {
+			"answer_id": "167",
+			"answers": "More than half the days",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "45",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2457682"
+			},
+			"item_id": "20535",
+			"item_name": "PHQ-9",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "533068",
+				"id": "533068"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1427131036"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "44",
+			"record_id": "305922.533068.2457682.44"
+		}
+	},
+	{
+		"hpi": {
+			"answer_id": "166",
+			"answers": "Several days",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "45",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2473575"
+			},
+			"item_id": "20535",
+			"item_name": "PHQ-9",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "529934",
+				"id": "529934"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1427131036"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "44",
+			"record_id": "305922.529934.2473575.44"
+		}
+	},
+	{
+		"hpi": {
+			"answer_id": "165",
+			"answers": "Not at all",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "45",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2517824"
+			},
+			"item_id": "20535",
+			"item_name": "PHQ-9",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "400317",
+				"id": "9977"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "44",
+			"record_id": "305922.9977.2517824.44"
+		}
+	},
+	{
+		"hpi": {
+			"answer_id": "165",
+			"answers": "Not at all",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "45",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2517560"
+			},
+			"item_id": "20535",
+			"item_name": "PHQ-9",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "100047",
+				"id": "9321"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1679623896"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "44",
+			"record_id": "305922.9321.2517560.44"
+		}
+	},
+	{
+		"hpi": {
+			"answer_id": "165",
+			"answers": "Not at all",
+			"category_id": "234469",
+			"category_name": "Depression Screening",
+			"ecw_struct_id": "45",
+			"encounter": {
+				"date": "2022-10-17",
+				"id": "2533209"
+			},
+			"item_id": "20535",
+			"item_name": "PHQ-9",
+			"main_category_id": "93",
+			"main_category_name": "HPI",
+			"patient": {
+				"account_no": "552089",
+				"id": "552089"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"provider": {
+				"npi": "1396385019"
+			},
+			"question": "Little interest or pleasure in doing things",
+			"question_id": "44",
+			"record_id": "305922.552089.2533209.44"
+		}
+	}
+]

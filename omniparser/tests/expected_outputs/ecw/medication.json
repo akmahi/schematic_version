@@ -1,0 +1,961 @@
+[
+	{
+		"medication": {
+			"code": "00456-2020-01",
+			"code_system": "NDC_CODE",
+			"days_supply": "90 days",
+			"description": "Lexapro",
+			"encounter": {
+				"id": "2419588"
+			},
+			"formulation": "Tablet",
+			"frequency": "daily",
+			"item_id": "270281",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "533452",
+				"id": "533452"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-07-18",
+			"provider": {
+				"id": "532670",
+				"npi": "1659584084"
+			},
+			"quantity": "90",
+			"record_id": "305922.533452.2419588.12435990",
+			"refills": "0",
+			"route": "Orally",
+			"status": "Taking",
+			"strength": "20 mg",
+			"take": "1 tablet"
+		}
+	},
+	{
+		"medication": {
+			"code": "50090-2279-00",
+			"code_system": "NDC_CODE",
+			"description": "Genvoya",
+			"encounter": {
+				"id": "2419588"
+			},
+			"formulation": "Tablet",
+			"frequency": "qd",
+			"item_id": "418407",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "533452",
+				"id": "533452"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-07-18",
+			"provider": {
+				"id": "532670",
+				"npi": "1659584084"
+			},
+			"record_id": "305922.533452.2419588.12435991",
+			"route": "Orally",
+			"status": "Taking",
+			"strength": "150-150-200-10 MG",
+			"take": "as directed"
+		}
+	},
+	{
+		"medication": {
+			"code": "00074-6214-13",
+			"code_system": "NDC_CODE",
+			"days_supply": "30 day(s)",
+			"description": "Depakote",
+			"encounter": {
+				"id": "2504650"
+			},
+			"formulation": "Tablet Delayed Release",
+			"frequency": "bid",
+			"item_id": "266057",
+			"origin_id": "TRMT",
+			"patient": {
+				"account_no": "544607",
+				"id": "544607"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-09",
+			"provider": {
+				"id": "543042",
+				"npi": "1245562859"
+			},
+			"quantity": "60 Tablet",
+			"record_id": "305922.544607.2504650.12683985",
+			"refills": "1",
+			"route": "Orally",
+			"status": "Continue",
+			"strength": "250 MG",
+			"take": "1 tab"
+		}
+	},
+	{
+		"medication": {
+			"code": "00074-6215-13",
+			"code_system": "NDC_CODE",
+			"days_supply": "30 day(s)",
+			"description": "Depakote",
+			"encounter": {
+				"id": "2504650"
+			},
+			"formulation": "Tablet Delayed Release",
+			"frequency": "bid",
+			"item_id": "266057",
+			"origin_id": "TRMT",
+			"patient": {
+				"account_no": "544607",
+				"id": "544607"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-09",
+			"provider": {
+				"id": "543042",
+				"npi": "1245562859"
+			},
+			"quantity": "60 Tablet",
+			"record_id": "305922.544607.2504650.12683986",
+			"refills": "1",
+			"route": "Orally",
+			"status": "Continue",
+			"strength": "500 MG",
+			"take": "1 tab"
+		}
+	},
+	{
+		"medication": {
+			"code": "00310-0274-60",
+			"code_system": "NDC_CODE",
+			"days_supply": "30 day(s)",
+			"description": "SEROquel",
+			"encounter": {
+				"id": "2504650"
+			},
+			"formulation": "Tablet",
+			"frequency": "qhs",
+			"item_id": "275788",
+			"origin_id": "TRMT",
+			"patient": {
+				"account_no": "544607",
+				"id": "544607"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-09",
+			"provider": {
+				"id": "543042",
+				"npi": "1245562859"
+			},
+			"quantity": "30",
+			"record_id": "305922.544607.2504650.12683987",
+			"refills": "1",
+			"route": "Orally",
+			"status": "Continue",
+			"strength": "300 MG",
+			"take": "1 tablet"
+		}
+	},
+	{
+		"medication": {
+			"code": "00310-0278-10",
+			"code_system": "NDC_CODE",
+			"days_supply": "30 day(s)",
+			"description": "SEROquel",
+			"encounter": {
+				"id": "2504650"
+			},
+			"formulation": "Tablet",
+			"frequency": "as directed",
+			"item_id": "275788",
+			"origin_id": "TRMT",
+			"patient": {
+				"account_no": "544607",
+				"id": "544607"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-09",
+			"provider": {
+				"id": "543042",
+				"npi": "1245562859"
+			},
+			"quantity": "90",
+			"record_id": "305922.544607.2504650.12683988",
+			"refills": "1",
+			"route": "Orally",
+			"status": "Continue",
+			"strength": "50 MG",
+			"take": "1 tablet every morning, 2 tablets everyday at 3:00"
+		}
+	},
+	{
+		"medication": {
+			"code": "00032-3016-13",
+			"code_system": "NDC_CODE",
+			"description": "Creon",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Capsule Delayed Release Particles",
+			"frequency": "before breakfast, lunch, dinner and 1 caps before snack as needed",
+			"item_id": "283418",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"record_id": "305922.10854.2528276.12706359",
+			"route": "Orally",
+			"status": "Taking",
+			"strength": "36000-114000 UNIT",
+			"take": "2 cap(s)"
+		}
+	},
+	{
+		"medication": {
+			"code": "11917-04865",
+			"code_system": "NDC_CODE",
+			"description": "Tolnaftate",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Aerosol Powder",
+			"frequency": "Twice a day",
+			"item_id": "277438",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"record_id": "305922.10854.2528276.12706360",
+			"route": "Externally to feet",
+			"status": "Taking",
+			"strength": "1 %",
+			"take": "1 application"
+		}
+	},
+	{
+		"medication": {
+			"code": "00440-7010-01",
+			"code_system": "NDC_CODE",
+			"description": "Acetaminophen",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Tablet",
+			"frequency": "every 6 hrs",
+			"item_id": "261712",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"record_id": "305922.10854.2528276.12706361",
+			"route": "Orally",
+			"status": "Taking",
+			"strength": "325 MG",
+			"take": "2 tablets as needed"
+		}
+	},
+	{
+		"medication": {
+			"code": "00023-9163-30",
+			"code_system": "NDC_CODE",
+			"description": "Restasis",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Emulsion",
+			"frequency": "Twice a day",
+			"item_id": "275185",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"record_id": "305922.10854.2528276.12706362",
+			"route": "Ophthalmic",
+			"status": "Taking",
+			"strength": "0.05 %",
+			"take": "1 drop in each eye"
+		}
+	},
+	{
+		"medication": {
+			"code": "80681-02000",
+			"code_system": "NDC_CODE",
+			"days_supply": "30 day(s)",
+			"description": "Multivitamin",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Tablet",
+			"frequency": "Once a day",
+			"item_id": "338273",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"quantity": "30",
+			"record_id": "305922.10854.2528276.12706363",
+			"route": "Orally",
+			"status": "Taking",
+			"strength": "-",
+			"take": "1 tablet"
+		}
+	},
+	{
+		"medication": {
+			"code": "00228-2996-11",
+			"code_system": "NDC_CODE",
+			"days_supply": "30 day(s)",
+			"description": "Tamsulosin HCl",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Capsule",
+			"frequency": "Once a day",
+			"item_id": "276998",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"quantity": "30",
+			"record_id": "305922.10854.2528276.12706364",
+			"route": "Orally",
+			"status": "Taking",
+			"strength": "0.4 MG",
+			"take": "1 capsule"
+		}
+	},
+	{
+		"medication": {
+			"code": "50458-0140-30",
+			"code_system": "NDC_CODE",
+			"days_supply": "30 day(s)",
+			"description": "Invokana",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Tablet",
+			"frequency": "Once a day",
+			"item_id": "337918",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"quantity": "30",
+			"record_id": "305922.10854.2528276.12706365",
+			"route": "Orally",
+			"status": "Taking",
+			"strength": "100 MG",
+			"take": "1 tablet before the first meal of the day"
+		}
+	},
+	{
+		"medication": {
+			"code": "00185-0610-01",
+			"code_system": "NDC_CODE",
+			"days_supply": "30 day(s)",
+			"description": "Lisinopril",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Tablet",
+			"frequency": "Once a day",
+			"item_id": "270430",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"quantity": "30",
+			"record_id": "305922.10854.2528276.12706366",
+			"route": "Orally",
+			"status": "Taking",
+			"strength": "10 MG",
+			"take": "1 tablet"
+		}
+	},
+	{
+		"medication": {
+			"code": "00781-2234-01",
+			"code_system": "NDC_CODE",
+			"days_supply": "30",
+			"description": "Omeprazole",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Capsule Delayed Release",
+			"frequency": "bid",
+			"item_id": "272590",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"record_id": "305922.10854.2528276.12706367",
+			"refills": "0",
+			"route": "orally",
+			"status": "Taking",
+			"strength": "40 MG",
+			"take": "1 capsule"
+		}
+	},
+	{
+		"medication": {
+			"code": "37205008082",
+			"code_system": "NDC_CODE",
+			"days_supply": "30",
+			"description": "One Daily",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Tablet",
+			"item_id": "272613",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"quantity": "30 Unspecified",
+			"record_id": "305922.10854.2528276.12706368",
+			"refills": "2",
+			"route": "Oral",
+			"status": "Taking",
+			"strength": "-",
+			"take": "TAKE 1 TABLET BY MOUTH EVERY DAY"
+		}
+	},
+	{
+		"medication": {
+			"code": "00378-4598-05",
+			"code_system": "NDC_CODE",
+			"description": "Metoprolol Succinate ER",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Tablet Extended Release 24 Hour",
+			"frequency": "Once a day",
+			"item_id": "338181",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"record_id": "305922.10854.2528276.12706369",
+			"route": "Orally",
+			"status": "Taking",
+			"strength": "200 MG",
+			"take": "TAKE 1 TABLET (50MG)  BY  MOUTH  EVERY DAY"
+		}
+	},
+	{
+		"medication": {
+			"code": "00378-7185-05",
+			"code_system": "NDC_CODE",
+			"description": "metFORMIN HCl",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Tablet",
+			"frequency": "BID",
+			"item_id": "271165",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"record_id": "305922.10854.2528276.12706370",
+			"route": "Orally",
+			"status": "Taking",
+			"strength": "500 MG",
+			"take": "1 tablet with a meal"
+		}
+	},
+	{
+		"medication": {
+			"code": "00440-6565-01",
+			"code_system": "NDC_CODE",
+			"description": "Glimepiride",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Tablet",
+			"frequency": "BID",
+			"item_id": "268425",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"record_id": "305922.10854.2528276.12706371",
+			"route": "PO",
+			"status": "Taking",
+			"strength": "2 MG",
+			"take": "1 tablet"
+		}
+	},
+	{
+		"medication": {
+			"code": "00378-0327-01",
+			"code_system": "NDC_CODE",
+			"days_supply": "30 days",
+			"description": "Haloperidol",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Tablet",
+			"frequency": "bid",
+			"item_id": "269017",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"quantity": "45",
+			"record_id": "305922.10854.2528276.12706372",
+			"refills": "0",
+			"route": "Orally",
+			"status": "Taking",
+			"strength": "5 MG",
+			"take": "1/2 QAM ,1QPM"
+		}
+	},
+	{
+		"medication": {
+			"code": "00093-8162-01",
+			"code_system": "NDC_CODE",
+			"days_supply": "30 day(s)",
+			"description": "QUEtiapine Fumarate",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Tablet",
+			"frequency": "Once a day",
+			"item_id": "274580",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"quantity": "30",
+			"record_id": "305922.10854.2528276.12706373",
+			"refills": "3",
+			"route": "Orally",
+			"status": "Taking",
+			"strength": "100 MG",
+			"take": "1 tablet at bedtime"
+		}
+	},
+	{
+		"medication": {
+			"code": "07610015540",
+			"code_system": "NDC_CODE",
+			"days_supply": "30 days",
+			"description": "Melatonin",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Tablet",
+			"frequency": "qhs",
+			"item_id": "271071",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"quantity": "60",
+			"record_id": "305922.10854.2528276.12706374",
+			"refills": "3",
+			"route": "Oral",
+			"status": "Taking",
+			"strength": "5 MG",
+			"take": "TAKE 2 TABLET AT BEDTIME BY MOUTH"
+		}
+	},
+	{
+		"medication": {
+			"code": "00074-3826-13",
+			"code_system": "NDC_CODE",
+			"days_supply": "30 day(s)",
+			"description": "Depakote ER",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Tablet Extended Release 24 Hour",
+			"frequency": "2 QAM",
+			"item_id": "266058",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_begin_date": "2021-11-04",
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"quantity": "60",
+			"record_id": "305922.10854.2528276.12706375",
+			"refills": "2",
+			"route": "Orally",
+			"status": "Taking",
+			"strength": "250 MG",
+			"take": "as directed"
+		}
+	},
+	{
+		"medication": {
+			"code": "00591-0444-01",
+			"code_system": "NDC_CODE",
+			"days_supply": "30 day(s)",
+			"description": "guanFACINE HCl",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Tablet",
+			"frequency": "BID",
+			"item_id": "268965",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"quantity": "60 Tablet",
+			"record_id": "305922.10854.2528276.12706376",
+			"refills": "3",
+			"route": "Orally",
+			"status": "Taking",
+			"strength": "1 MG",
+			"take": "1TAB"
+		}
+	},
+	{
+		"medication": {
+			"code": "00591-5335-01",
+			"code_system": "NDC_CODE",
+			"days_supply": "30 days",
+			"description": "Trihexyphenidyl HCl",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Tablet",
+			"frequency": "bid",
+			"item_id": "277631",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"quantity": "60",
+			"record_id": "305922.10854.2528276.12706378",
+			"refills": "3",
+			"route": "Orally",
+			"status": "Taking",
+			"strength": "2 MG",
+			"take": "1 TABS"
+		}
+	},
+	{
+		"medication": {
+			"code": "00603243732",
+			"code_system": "NDC_CODE",
+			"days_supply": "30 day(s)",
+			"description": "Benztropine Mesylate",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Tablet",
+			"frequency": "1 in am ,2 hs",
+			"item_id": "263398",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"quantity": "90",
+			"record_id": "305922.10854.2528276.12706379",
+			"refills": "3",
+			"route": "Orally",
+			"status": "Taking",
+			"strength": "0.5 MG",
+			"take": "1 tablet"
+		}
+	},
+	{
+		"medication": {
+			"code": "00378-2457-01",
+			"code_system": "NDC_CODE",
+			"days_supply": "30 days",
+			"description": "LORazepam",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Tablet",
+			"frequency": "QHS",
+			"item_id": "270590",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_begin_date": "2022-09-13",
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"quantity": "30",
+			"record_id": "305922.10854.2528276.12706380",
+			"refills": "0",
+			"route": "Orally",
+			"status": "Taking",
+			"strength": "1 MG",
+			"take": "1 tab(s)"
+		}
+	},
+	{
+		"medication": {
+			"code": "00591-0240-01",
+			"code_system": "NDC_CODE",
+			"days_supply": "30 days",
+			"description": "LORazepam",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Tablet",
+			"frequency": "qam",
+			"item_id": "270590",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_begin_date": "2022-09-13",
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"quantity": "30",
+			"record_id": "305922.10854.2528276.12706381",
+			"refills": "0",
+			"route": "Orally",
+			"status": "Taking",
+			"strength": "0.5 MG",
+			"take": "1 tablet"
+		}
+	},
+	{
+		"medication": {
+			"code": "00363041474",
+			"code_system": "NDC_CODE",
+			"days_supply": "30 days",
+			"description": "Aspirin",
+			"encounter": {
+				"id": "2528276"
+			},
+			"formulation": "Tablet Delayed Release",
+			"frequency": "Once a day",
+			"item_id": "262894",
+			"origin_id": "CM",
+			"patient": {
+				"account_no": "408426",
+				"id": "10854"
+			},
+			"practice": {
+				"apuid": "305922"
+			},
+			"prescription_date": "2022-09-14",
+			"provider": {
+				"id": "532700",
+				"npi": "1780671446"
+			},
+			"quantity": "30 Tablet",
+			"record_id": "305922.10854.2528276.12706382",
+			"refills": "5",
+			"route": "Oral",
+			"status": "Unknown",
+			"strength": "81 MG",
+			"take": "1 tablet"
+		}
+	}
+]
